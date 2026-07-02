@@ -1,0 +1,283 @@
+MediaWiki
+
+
+MediaWiki is the name of the software that runs all of the Wikimedia projects and . MediaWiki was released in 2003. It is a free server-based software which is licensed under the GNU General Public License (GPL). This means it is free content, or open source.
+
+MediaWiki is designed to be run on a large web server farm for a website that gets millions of hits per day. MediaWiki is a very powerful, scalable software and a feature-rich wiki implementation. It uses PHP to process and display data stored in its MySQL database. Pages use MediaWiki's Wikitext format, so that users without knowledge of XHTML or CSS can edit them easily.
+
+When a user submits an edit to a page, MediaWiki writes it to the database, but without deleting the previous versions of the page, thus allowing easy reverts in case of vandalism or spamming. MediaWiki can manage image and multimedia files, too, which are stored in the filesystem. For large wikis with lots of users, MediaWiki supports caching and can be easily coupled with Squid proxy server software.
+
+All Wikimedia projects run on MediaWiki version .
+
+Because MediaWiki is flexible, many websites that want people to contribute information use MediaWiki rather than other types of wiki software. Those operated by Fandom are among them.
+
+There are also some websites that use MediaWiki as a content management system.
+
+In MediaWiki, a system administrator can choose to install extensions which are provided on the main MediaWiki website. Some are from the MediaWiki developers, while others are from programmers from all around the world.
+
+Most extensions can be download from Wikimedia's Subversion repository. However, there are some other extensions that other people host themselves.
+
+Some extensions had been added to the main software along the development of MediaWiki. For example, the extension is an extension to promote a user into an administrator or a bureaucrat.
+
+There were a total of 2124 extensions as of October 4, 2013.
+
+In the default installation of MediaWiki, the software has 17 namespaces(18 actually, but one does not have a namespace), namely:
+
+Additional namespaces can be added using the from the installation of MediaWiki.
+
+As MediaWiki is a complex software, there would always be bugs in the software, especially for new extensions. Therefore, Wikimedia has created a Bugzilla website for people who see a bug to tell the developers of MediaWiki.
+
+Some extensions of MediaWiki use the , while some just use the talk pages of the extension page.
+
+Users can change MediaWiki's appearance. They may use one of the several "skins". At different times different skins have been default. For example, Wikipedia once used Monobook before adopting the new Vector skin in version 1.16.
+
+A survey done by Wikimedia showed that more people prefer the Vector skin.
+
+"More information about the software:"
+
+
+First language
+
+A first language (also mother language, mother tongue, native language, arterial language, or L1) often means the language that a person learns first. It helps one understand words and concepts in the style of that language.
+
+Sometimes, but not often, "first language" means the language that a person speaks best (the second language is then spoken less well than the first language, etc.). In that sense, a person could have more than one first or second language.
+
+The first languages of the national majority usually are to be recognized as national languages of the nation.
+
+
+Mustache
+
+The hair that grows on the upper lip of some men is called a mustache. The hair that grows on the sides of the face and the chin of some men is called a beard. Some men have a lot of hair and a big mustache, and some have very little. In the modern world, many men shave part or all of their mustaches, or cut their mustache so it does not get very long. A chin beard with no mustache is called a goatee, whilst a chin beard with a mustache is known as a Van Dyke.
+
+The earliest facial hair above the lip, as a style, is credited to the Iron Age Celts. Diodorus Siculus, a Greek historian,wrote this about the Celtic people:
+
+Mustache in United Kingdom and Commonwealth of Nations is spelled moustache.
+
+Some animals such as walruses also have hair like this, and people sometimes also call this hair a mustache.
+
+Mile
+
+A mile is a unit of length. There are many different kinds of mile but "mile" on its own usually means the statute mile.
+
+In the US and the UK the word "mile" usually means the statute mile. 
+
+The nautical mile is used for sea or air travel. 
+
+The nautical mile was originally defined as one minute of arc along a line of longitude of the Earth. There are 60 minutes of arc in one degree or arc (60' = 1°). So there were 10,800 nautical miles from the North Pole to the South Pole.
+
+Now the nautical mile is defined as 1,852 metres.
+The speed of a ship that travels one nautical mile in one hour is called one knot
+
+The mile was first used by the Romans. It comes from the Latin phrase "mille passus" (plural: "milia passuum"). This means "one thousand paces". A pace is the distance each foot moves when taking one step. 
+
+“the Roman pace, measured from the heel of one foot to the heel of the same foot in the next stride”
+
+Different miles have been used throughout history in various parts of the world. In Norway and Sweden, for example, a mil is a unit of length which is equal to 10 kilometres.
+
+Even in English-speaking countries that use the metric system (for example, Australia, Canada, and New Zealand), the mile is still used in many idioms. These include:
+
+Margarine
+
+Margarine is an artificial butter. It can be made from vegetable oil, or animal fat. It may also contain skimmed milk, salt and emulsifiers. Margarine is used in many baked products. It contains less fat than butter, so is often chosen instead of it. There are also "low fat" margarines, which contain even less fat. However, many types of margarine are made with hydrogenated oils. Products with hydrogenated oil have trans fats, which are unhealthy and can cause heart disease. Other fats, like olive oil, and butter, are a better choice for cooking.
+
+Milky Way
+
+The Milky Way is our home galaxy. It contains around 400 billion stars, including our Sun.
+
+The Milky Way has a diameter of about 170,000 or 200,000 light years, and is a barred spiral galaxy. The idea that the Milky Way is made of stars goes back to the Ancient Greek philosopher Democritus.
+
+The Milky Way has three main parts: a "disk", where the Solar System is, a "bulge" at the core, and an outer "halo" all around it. Although the word "disk" suggests it is flat, the Milky Way is actually not quite flat. It is slightly warped and twisted.
+
+This galaxy belongs to the Local Group of three large galaxies and over 50 smaller galaxies. The Milky Way is one of the largest galaxies in the group, second to the Andromeda Galaxy. Its closest neighbour is the Canis Major Dwarf Galaxy, which is about 25,000 light years away from the Earth. The Andromeda Galaxy is moving towards the Milky Way Galaxy and will collide with it in about 3.75 billion years. The Andromeda Galaxy moves with a speed of about 1,800 kilometres per minute.
+
+The stellar disk of the Milky Way Galaxy is about 200,000 light-years (9×10 km) in diameter, and is considered to be, on average, about 1000 light years thick.
+
+It is estimated to contain at least 100 billion stars, and possibly up to 400 billion stars. The figure depends on the number of very low-mass, or dwarf stars, which are hard to detect, especially more than 300 light years from our sun. Therefore, present estimates of the total number are uncertain. This can be compared to the one trillion (10) stars of the neighbouring Andromeda Galaxy.
+
+The stellar disc of the Milky Way does not have a sharp edge, a radius beyond which there are no stars. Rather, the number of stars drops smoothly with distance from the centre of the Galaxy. Beyond a radius of about 40,000 light years, the number of stars drops much faster, for reasons that are not understood.
+
+Extending beyond the stellar disk is a much thicker disk of gas. Observations indicate that the gaseous disk of the Milky Way has a thickness of around 12000 light years–twice the previously accepted value.
+
+At 220 kilometers per second it takes the Solar System about 240 million years to complete one orbit of the Galaxy (a galactic year).
+
+The Galactic halo extends outward but is limited in size by the orbits of two Milky Way satellites, the Large and the Small Magellanic Clouds, whose closest approach is at about 180,000 light years. At this distance or beyond, the orbits of most halo objects would be disrupted by the Magellanic Clouds, and the objects would likely be ejected from the vicinity of the Milky Way.
+
+As a guide to the relative physical scale of the Milky Way, if the Solar System out to the orbit of Pluto were reduced to the size of a US quarter (about an inch or 25 mm in diameter), the Milky Way would have a diameter of 2,000 kilometers.
+
+The galactic disc, which bulges outward at the galactic center, has a diameter of 170–200,000 light years.
+
+The exact distance from the Sun to the galactic center is debated. The latest estimates give distances to the Galactic center of 25–28,000 light years.
+
+The movement of material around the galactic center shows that it has a compact object of very large mass. The intense radio source named Sagittarius A*, thought to mark the center of the Milky Way, is now confirmed to be a supermassive black hole. Most galaxies are believed to have a supermassive black hole at their center.
+
+Most galaxies have a central bar-shaped structure composed of stars. The nature of the Milky Way's bar is actively debated, with estimates for its half-length and orientation spanning from 3,300 to 16,000 light years (short or a long bar) and 10–50 degrees. Viewed from the Andromeda Galaxy, it would be the brightest feature of our own galaxy.
+
+In Greek mythology, Zeus places his son (the baby Heracles) whose mother was a mortal woman on Hera's breast while she is sleeping so that the baby will drink her divine milk and become immortal. However, Hera wakes up while she is breastfeeding the baby and realizes she is nursing a baby she does not know. According to Greek mythology, she then pushes the baby away and a stream of her milk sprays the night sky, making a faint band of light known as the Milky Way.
+
+
+Movement
+
+Movement, or motion, is the state of changing something's position or changing where something is. A bird that is flying is moving. So is a person who is walking. This is, because they change where they are. They "move" from one place to another. There are many forms of science and mathematics that are related to movement.
+
+Because of the work of scientists including Galilei and Newton, we know that "position" is relative. This means that an object's position depends on where it exists in relation to other objects. For example, a ball can be away from a box, from a chair and away from a table. Here, the box, chair and the table helped to define the position of the ball. They acted as the reference points for the observation of the ball. By telling someone how far the ball was from other objects, they were told its relative position.
+
+The motion of an object is also relative. It depends on how its position changes in relation to other objects. For example:
+
+A person is sitting inside a train (Train A). The train has not started moving yet. When that person looks out the window, they see another train (Train B) . Both trains are facing the same direction. If Train B moves backwards, it appears to the person on Train A that they are moving toward Train B. If a reference point it added this can be changed. If the person can also see a pole next to the trains they will see that train A did not move and train B moved backwards.
+
+From this, it is shown that what the movement is can not bo known without a frame of reference. In this example the pole is the frame of reference.
+
+The study of motion without considering its cause is called kinematics. Kinematics deals with terms like speed, velocity, and acceleration. Dynamics is the branch of physics that focuses on the causes and effects of motion. It deals with force, inertia, work, energy and momentum.
+
+The movement of animals is controlled by the nervous system, especially the brain and spinal cord.
+
+The muscles that control the eye are driven by the optic tectum in the midbrain. All the voluntary muscles in the body are controlled by motor neurons in the spinal cord and hindbrain. Spinal motor neurons are controlled by neural circuits of the spinal cord, and by inputs from the brain. The spinal circuits do many reflex responses, and also do rhythmic movements such as walking or swimming. The descending connections from the brain give more sophisticated control.
+
+The brain has several areas that project directly to the spinal cord. At the highest level is the primary motor cortex. This is a strip of tissue at the back of the frontal lobe. This tissue sends a massive projection directly to the spinal cord, through the pyramidal tract. This allows for precise voluntary control of the fine details of movements. There are other brain areas which affect movement. Among the most important secondary areas are the premotor cortex, basal ganglia, and cerebellum.
+
+In addition, the brain and spinal cord controls the autonomic nervous system. this system works by secreting hormones and by modulating the "smooth" muscles of the gut. The autonomic nervous system affects heart rate, digestion, respiration rate, salivation, perspiration, urination, sexual arousal and several other processes. Most of its functions are not under direct voluntary control. Several of them, such as respiration, can be controlled directly as well.
+
+
+Metaphor
+
+Metaphor is a term for a figure of speech. It does not use a word in its basic literal sense. Instead, it uses a word in a kind of comparison. We run, and we also say rivers run. We may run into trouble, especially if we run up a bill at the bar.
+
+So a metaphor uses words to make a picture in our mind. It takes a word from its original context, and uses it in another.
+
+Metaphors are an essential part of language: it is not possible to speak or write without them. A simple example is the word "run". This has a basic meaning of "moving quickly" or "go with quick steps on alternate feet, never having both feet on the ground at the same time". The "Concise Oxford Dictionary" then gives
+34 other uses as a verb; 21 uses as a noun; about 50 uses in short phrases. All of these are metaphors, although we do not usually notice this.
+
+We use metaphors to make "indirect" comparisons, but without using 'like' or 'as' – because that would be a simile. A simile is a "direct" comparison: "Jane is like a child".
+
+A metaphor very often uses the verb 'to be': "love "is" war", for example, not "love "is like" war" (that is a simile).
+Poetry includes much metaphor, usually more than prose.
+
+Spam is an example that any email user knows about – this word was originally a metaphor, from 'Spam', a type of canned meat. Servers putting unwanted email into somebody's inbox was similar to waiters putting unwanted Spam into food. This was originally suggested by a Monty Python scene. When we use a metaphor very often and we forget the old meaning, or forget that the two meanings are connected, this is a 'dead metaphor'.
+
+Originally "metaphor" was a Greek word for 'transfer'. It came from "meta" ('beyond') and "pherein" ('carry'). So the word "metaphor" in English was a metaphor, too. Today in Greek, "metaphor" is a trolley (a thing that is pushed for carrying shopping or bags).
+
+
+A simple metaphor has a single link between the subject and the metaphoric vehicle. The vehicle thus has a single meaning which is transferred directly to the subject.
+
+In the simple metaphor, the effort to understand what the author or speaker intends is relatively low, and hence it may easily be used with a wider and less sophisticated audience.
+
+A complex metaphor happens where a simple metaphor is based on a secondary metaphoric element. For example, using a metaphor of 'light' for 'understanding' may be complexified by saying 'throwing light' rather than 'shining light'. 'Throwing' is an extra metaphor for how light arrives.
+
+That lends weight to the argument.<br>They stood alone, frozen statues on the plain.<br>The ball happily danced into the net.
+
+"But at my back I always hear <br> Time's wingèd chariot hurrying near <br>And yonder all before us lie <br>Deserts of vast eternity."<br>
+
+From 17th century English poet Andrew Marvell's poem "To His Coy Mistress".
+
+A compound metaphor is one where there are multiple parts in the metaphor that are used to snag the listener. These parts may be enhancement words such as adverbs, adjectives, etc.
+
+Each part in the compound metaphor may be used to signify an additional item of meaning.
+
+
+Compound metaphors are like a multiple punch, hitting the listener repeatedly with metaphoric elements. Where the complex metaphor uses stacked layers to enhance the metaphor, the compound metaphor uses sequential words. The compound metaphor is also known as a loose metaphor.
+
+A live metaphor is one which a reader notices. A dead metaphor is one no-one notices because it has become so common in the language.
+
+Two people walk off a tennis court. Someone asks the loser: "What happened?".
+
+
+Metabolism
+
+Metabolism is the chemical reactions which keep us alive. It happens in the cells of living organisms.
+
+The chemical reactions are catalyzed by enzymes. Metabolism allows organisms to grow, reproduce, maintain their structures, and respond to their environments. The word ‘metabolism’ can also refer to digestion and the transport of substances into and between different cells.
+
+Metabolism is usually divided into two categories:
+
+The chemical reactions of metabolism are organized into metabolic pathways, or cycles, like the Krebs cycle. One chemical is transformed through a series of steps into another chemical by a series of enzymes.
+
+The metabolic system of an organism decides which substances it finds nutritious and which poisonous. For example, some prokaryotes use hydrogen sulfide as a nutrient, yet this gas is poisonous to animals. The speed of metabolism, called the metabolic rate, influences how much food an organism will need, and how it is able to get that food. 
+
+A striking feature of metabolism is the similarity of the basic metabolic pathways and components between even vastly different species. For example, the set of carboxylic acids that are best known as the intermediates in the citric acid cycle are present in all known organisms, being found in species as diverse as the unicellular bacterium "Escherichia coli" and huge multicellular organisms like elephants. These striking similarities in metabolic pathways are likely due to their early appearance in the evolution of life, and kept because of their efficiency.
+
+
+Microscope
+
+A microscope is a scientific instrument. It makes small objects look larger. This lets people see the small things. People who use microscopes frequently in their jobs include doctors and scientists. Students in science classes such as biology also use microscopes to study small things.
+The earliest microscopes had only one lens and are called "simple microscopes". "Compound microscopes" have at least two lenses. In a compound microscope, the lens closer to the eye is called the "eyepiece". The lens at the other end is called the "objective". The lenses multiply up, so a 10x eyepiece and a 40x objective together give 400x magnification.
+
+Microscopes make things seem larger than they are, to about 1000 times larger. This is much stronger than a magnifying glass which works as a simple microscope.
+
+There are many types of microscopes. The most common kind of microscope is the compound light microscope. In a compound light microscope, the object is illuminated: light is thrown on it. The user looks at the image formed by the object. Light passes through two lenses and makes the image bigger.
+
+The second most common kind are a few kinds of electron microscopes. Transmission electron microscopes (TEMs) fire cathode rays into the object being looked at. This carries information about how the object looks into a magnetic "lens". The image is then magnified onto a television screen. Scanning electron microscopes also fire electrons at the object, but in a single beam. These lose their power when they strike the object, and the loss of power results in something else being generated—usually an X-ray. This is sensed and magnified onto a screen. Scanning tunneling microscopes were invented in 1984.
+
+A fluorescence microscope is a special kind of light microscope. In 2014, the Nobel Prize in Chemistry was awarded to Eric Betzig, William Moerner, and Stefan Hell for "the development of super-resolved fluorescence microscopy". The citation says it brings "optical microscopy into the nanodimension".
+
+
+Mass
+
+The mass of an object is a measure of the amount of matter in a body. A mountain has typically more mass than a rock, for instance. Mass should not be confused with the related but quite different concept of weight. 
+
+We can measure the mass of an object if a force acts on the object. If the mass is greater, the object will have less acceleration (change in its motion). This measure of mass is called "inertial mass" because it measures inertia.
+
+A large mass like the Earth will attract a small mass like a human being with enough force to keep the human being from floating away. "Mass attraction" is another word for gravity, a force that exists between all matter. When we measure the force of gravity from an object, we can find its "gravitational mass". Tests of inertial and gravitational mass show that they are the same or almost the same.
+
+The unit of mass in the International System of Units is the kilogram, which is represented by the symbol 'kg'. Fractions and multiples of this basic unit include the gram (one thousandth of a kg, symbol 'g') and the tonne (one thousand kg), amongst many others.
+
+In some fields or applications, it is convenient to use different units to simplify the discussions or writings. For instance,
+
+Traditional units are still in encountered in some countries: imperial units such as the ounce or the pound were in widespread use within the British Empire. Some of them are still popular in the United States, which also uses units like the short ton (2,000 pounds, 907 kg) and the long ton (2,240 pounds, 1010 kg), not to be confused with the metric ton (1,000 kg).
+
+Mass is an intrinsic property of the object: it does not depend on its volume, or position in space, for instance. For a long time (at least since the works of Antoine Lavoisier in the second half of the eighteen century), it has been known that the sum of the masses of objects that interact or of the chemicals that react remain conserved throughout these processes. This remains an excellent approximation for everyday life and even most laboratory work.
+
+However, Einstein has shown through his special theory of relativity that the mass "m" of an object moving at speed "v" with respect to an observer must be higher than the mass of the same object observed at rest "m" with respect to the observer. The applicable formula is
+
+formula_1
+
+where "c" stands for the speed of light. This change in mass is only important when the speed of the object with respect to the observer becomes a large fraction of "c".
+
+"For further reference,see the and "
+In atomic nuclei,i.e in and ,the residual mass comes from the binding kinetic and potential energy of the quarks and gluon field. An analogy to go along with is to think of the 3 as balls with the gluons as a spring connecting the quarks. This mass accounts for ~99% of the mass of these with the remaining ~1% coming from the individual quarks which comes from quantum interactions with the Higgs field.
+
+
+Mercury (planet)
+
+Mercury is the smallest planet in the Solar System. It is the closest planet to the sun. It makes one trip around the Sun once every 87.969 days. 
+
+Mercury is bright when we can see it from Earth. It has an apparent magnitude ranging from −2.0 to 5.5. It cannot be seen easily because it is usually too close to the Sun. Because of this, Mercury can only be seen in the morning or evening twilight or when there is a solar eclipse.
+
+Less is known about Mercury than about other planets of our Solar System. Even with telescopes only a small, bright crescent can be seen. It is also hard to put a satellite in orbit around it. Two spacecraft have visited Mercury. The first one was Mariner 10. It only made a map of about 45% of the Mercury's surface from 1974 to 1975. The second is the MESSENGER spacecraft, which finished mapping Mercury in March 2013.
+
+Mercury looks like Earth's Moon. It has many craters and smooth plains. It has no moons and little atmosphere as we know it. However, Mercury does have an extremely thin atmosphere, known as an exosphere. Mercury has a large iron core. Because of this Mercury has a magnetic field about 1% as strong as that of the Earth. It is a very dense planet because its core is large. 
+
+Temperature at the surface can be anywhere from about 90 to (−183 °C to 427 °C, −297 °F to 801 °F), with the subsolar point being the hottest and the bottoms of craters near the poles being the coldest.
+
+Known sightings of Mercury date back to at least the first millennium BC. Before the 4th century BC, Greek astronomers thought that Mercury was two different objects: The one that they were only able at sunrise, they called Apollo; the other one that they were only able to see at sunset, they called Hermes. The English name for the planet is from the Romans, who named it after the Roman god Mercury. The symbol for Mercury is based on Hermes' staff.
+
+Even though Mercury is the closest planet to the Sun, it is not the hottest. This is because it has no greenhouse effect. The heat that the Sun gives it, quickly escapes into space. The hottest planet is Venus.
+
+Mercury is one of four inner planets in the Solar System. It is a terrestrial planet like Earth. It is the smallest planet in the Solar System. It has a radius of . Mercury is even smaller than some of the largest moons in the solar system, such as Ganymede, the largest moon of Jupiter and Titan, the largest moon of Saturn. However, it has in 2.2 times greater mass than Ganymede and around 2 times heavier than Titan. Mercury is made of about 70% metallic and 30% silicate material. Mercury has the second highest density in the Solar System at 5.427 g/cm³, only a little bit less than Earth’s.
+
+Mercury's surface looks like the surface of the Moon. It has plains that look like mares and has lots of craters. Mercury was hit by a lot of comets and asteroids 4.6 billion years ago. Mercury was also hit during a period called the Late Heavy Bombardment. Mercury has many craters because its atmosphere is too faint to slow objects down. Images from "MESSENGER" have shown that Mercury may have shield volcanoes.
+
+The surface temperature of Mercury ranges from 100 to 700 K (−173 to 427 °C; −280 to 800 °F) at the most extreme places. Even though the temperature at the surface of Mercury in the day is very high, observations suggest that there is frozen water on Mercury.
+
+Mercury is too small and hot for its gravity to keep any thick atmosphere for a long time. It does have a thin exosphere that is made up of hydrogen, helium, oxygen, sodium, calcium, potassium. This exosphere is blown away and replenished from lots of sources. Hydrogen and helium may come from the solar wind. Radioactive decay of elements inside the crust of Mercury is another source of helium, and also sodium and potassium.
+
+Mercury has the most eccentric orbit of all the planets in the Solar System. It has an eccentricity of 0.21. It ranges from 46,000,000 to 70,000,000 km (29,000,000 to 43,000,000 mi) away from the Sun. Mercury takes 87.969 Earth days to go around the Sun. Mercury's axial tilt is 0.027 degrees.
+
+In the future, because Mercury's orbit's is very eccentric and Jupiter's huge gravity, its orbit may become unstable and the following things may happen:
+
+
+Many man-made satellites have been sent to Mercury to study it. They are:
+
+The first spacecraft to visit Mercury was NASA's Mariner 10. It stayed in Mercury's orbit from 1974 to 1975. Mariner 10 took the first close-up pictures of Mercury's surface. It showed many features, such as the craters. Unfortunately, the same side of Mercury was day each time Mariner 10 flew close to Mercury. This made observing of both sides of Mercury impossible. In the end, less than 45% of the Mercury's surface was mapped.
+
+Mariner 10 came close to Mercury three times. At the first time, it found a magnetic field, which surprised planetary geologists because Mercury's rotation was too slow to create a magnetic field. The second time was mainly used to take pictures of Mercury's surface. At the third time, it got more information about the magnetic field. It showed that the Mercury's magnetic field is like the Earth's magnetic field.
+
+On March 24, 1975, eight days after its last close fly by, Mariner 10 ran out of fuel. Because its orbit could no longer be controlled, mission controllers shut down the probe . Mariner 10 is thought to still be orbiting the Sun.
+
+The second satellite to visit Mercury is NASA's MESSENGER. It stands for MErcury Surface, Space ENvironment, GEochemistry, and Ranging. It was launched on August 3, 2004. It made a fly-by of Earth in August 2005. It made another fly-by of Venus in October 2006. It made its first fly-by of Mercury happened on January 14, 2008, a second on October 6, 2008, and a third on September 29, 2009. It made a map of most of Mercury that "Mariner 10" didn't map. The first image of Mercury orbiting the Sun was gotten on March 29, 2011.
+
+MESSENGER was made to study Mercury's high density, the history of Mercury's geology, its magnetic field, the structure of its core, if it has ice at its poles, and where its thin atmosphere comes from. "MESSENGER" crashed into Mercury's surface on April 30, 2015.
+
+The European Space Agency and the Japanese Space Agency made and launched a spacecraft called "BepiColombo." It will orbit Mercury with two probes: one to map the planet and the other to study its magnetosphere. It was launched on October 20, 2018. "BepiColombo" is expected to reach Mercury in 2025. It will release the probe that will study the magnetosphere into an elliptical orbit. It will then release the probe the will make a map of Mercury into a circular orbit.
+
+
+

@@ -1,0 +1,160 @@
+Metallurgy
+
+
+Metallurgy is the study of metals. Alloys (mixtures of metals) are also studied. There are two main branches of Metallurgy. They are physical and chemical metallurgy. A Metallurgist is individual who researches, manufactures and develops metal items that range from car parts to semiconductors.
+
+Metallurgists and Metallurgical Engineers often work for consulting engineering firms; mining and manufacturing companies; and in government and universities. Many metallurgists hold a Bachelor of Engineering or similar 4- year degree.
+
+Common Job Tasks 
+
+
+Chemical Metallurgy is the study of extracting and refining metals through chemical reactions. This field also commonly involves corrosion prevention and surface treatment of metals. Scientific concepts such as thermodynamics, the study of heat flow and kinetics, the study of the speed of reactions are very central to chemical metallurgy. 
+
+Metallurgists are very interested in the chemical reactions that occur with different elements. Chemical reactions are carried out on a large scale to obtain a useful product. 
+
+For example, the production of steel in a blast furnace involves turning different Iron and oxide compounds into pure Iron.
+
+<chem>3Fe2O4 + CO ->2FeO4 + CO2 </chem>
+
+<chem>Fe3O4 + CO -> 3FeO +CO2 </chem>
+
+<chem>FeO + CO ->Fe + CO2 
+</chem>
+
+Physical metallurgy is the science of making useful properties out of metals. This field focus on the physical property of metals and alloys such as strength and hardness. Properties of metals might be electrical, magnetic and physical in nature. These properties can be changed by alloying or heat treatment. 
+
+There are many ways to make metals. For example, large parts may be created by pouring liquid metal into a large cast in a process called casting. 
+
+Important factors in physical metallurgy include time and temperature in which the metal is made and cooled. Metals undergo different phase changes, the particular position and type of crystal structure inside the metal will determine if a metal is brittle or flexible. 
+
+Ores are rocks that have a chemical compound of a metal with oxygen, called an oxide. Separating the oxygen from the metal is called smelting. This is done with chemistry or electricity, usually at very high temperatures. This is the first step in metallurgy. A rock containing enough metal to be profitable is called "ore".
+
+An alloy is a combination of a metal with one or more elements. The metal mixture must be a solid to be called as an alloy. A common way to combine metals into an alloy is by melting them, mixing and then allowing them to solidify by cooling at room temperature. Alloys have been known since 50,000 BCE and have been continuously studied and improved. 
+
+Common Example of alloys include: 
+
+
+Another part of metallurgy is making parts from metals. These parts must be made so they will not break when they are used. Metallurgists look to make metal that meets the needs of the process it will be used in. Sometimes the metal must be lightweight or low in density. Other times it must be tough (not easily broken). The metallurgist must follow directions when making the part to know what metal to use. the process of metal selection is known as the materials selection process. Metallurgists use mathematical equations to determine what are the most important physical features of the metal. Common desired characteristics include ductility, toughness, corrosion resistance, and strength. Different metals and their associated features are often graphed on Ashby plots.
+
+A metal starts as a block, called an ingot. Metallurgists must know how to make a metal part from an ingot. Parts are made from ingots different ways. When a big hammer is used, it is called forging. To make thin metals, a metal is put between two rolls and moved, called rolling.
+Making metal hot makes it easier to change the shape of a metal part. For this reason, most metal parts are made using hot metal. This is hot work.
+
+Two metal parts can be put together with much heat. This is called welding. Iron is easy to weld.
+
+Metallurgists use many tools to determine the characterizes of metal using a technique called metallography. One of the most useful tools is the Scanning Electron Microscope. To use an SEM a metal sample is polished and hit with electrons to produce a clear image of the metal. This permits for the metal microstructure to be seen. A microstructure is what the metal looks like when zoomed in very closely. There are many types of microstructure such as pearlite and ferrite. 
+
+Metals are sometimes pulled until they break using a tensiometer. This is the tension test. Information such as plastic and elastic deformation can be determined from these tests. 
+
+It is also common for metallurgists to use computer simulations to predict heat flow or the cost of making a particular product. Common software used in metallurgy include ABAQUS and ANSYS.
+
+Fixed-wing aircraft
+
+A fixed-wing aircraft is a kind of aircraft. An aircraft is a machine that can fly, but is heavier than air. Fixed-wing aircraft are sometimes called airplanes, aeroplanes or sometimes just "planes". All fixed-wing aircraft have wings that use forward airspeed to generate lift. Gliders are fixed-wing aircraft that do not have engines.
+
+Fixed-wing aircraft fly between many cities all over the world, carrying people and cargo. Big cities usually have an international airport, where large fixed-wing airliners operate. Some large cities like New York City and London have more than one airport. Airbus and Boeing are the two biggest makers of large airliners.
+
+Statistics show that riding in a plane is safer than driving in a car.
+
+A steam-powered fixed-wing unmanned aerial vehicle that weighed , was built by John Stringfellow, in Chard, Somerset, England in 1848. It could fly by itself without needing to be dropped from high up. There were gliders before this, but they had to fly by being pushed off a building or hill.
+
+The first man who flew (took off, steered, and landed) a motor-powered aircraft was Orville Wright in 1903 in Kitty Hawk, North Carolina, USA.
+
+Advances in technology have made fixed-wing aircraft more efficient. Things like winglets and more efficient turbofans have helped to do this.
+
+Most fixed-wing aircraft have certain parts in common.
+
+
+Fixed-wing aircraft have long been used as airliners for moving passengers from place to place. Cargo aircraft carry cargo across seas and long distances, and passenger aircraft also carry some cargo.
+
+The first aircraft for war bombing was used in Libya in 1911 by Italy against the Ottoman Empire. Some fixed-wing aircraft are used by air forces to defend countries. These may be fighter aircraft, using guns or missiles for combat with other aircraft. They may be bombers, dropping bombs on ground targets.
+
+Fixed-wing aircraft allow people to travel longer distances, and faster than ships or trains. Aircraft can fly from New York to London in about 7 hours. It would take one week or more on a ship. Militaries use airplanes to carry their soldiers quickly from place to place.
+
+Airplanes are also used by the military to see many things on the ground easily. This is called surveillance or reconnaissance. Often, fixed-wing aircraft will take photographs as well, which can be used for military planning later.
+
+Aircraft
+
+An aircraft is a flying machine. 
+
+The word "aircraft" originally meant airships and balloons. It comes from the words "air" and "craft", a term from boating as were many early aviation words.
+
+There are many different kinds of aircraft.
+
+Some aircraft keep in the sky by moving air over their wings. Examples are aeroplanes, helicopters, and gliders. Some aircraft keep in the sky by floating. Examples are balloons and airships.
+
+Most aircraft use engine power. Examples are aeroplanes, helicopter, and airships. Gliders and balloons use no power. A few aircraft use muscle power.
+
+Big aeroplanes for transporting people are called "airliners". Airliners are the quickest way to travel. Airliners can fly over mountains and bad weather. Airliners have complex technology to make them fly quickly, safely and for less money. 
+
+A few fighter aircraft can fly at 3,200 km/h (2,000 mph). 
+
+The person who drives an aircraft is called the pilot.
+
+Many aircraft vehicles have replaced ocean liners by the late 20th century.
+
+These are the largest aircrafts. They are:
+
+
+Victoria, British Columbia
+
+Victoria is the capital city of the province of British Columbia, Canada. It is named after Queen Victoria. Over 350,000 people live in the Victoria area. Many people work for the government or in tourism. It is warmer than other Canadian cities in the winter, so many Canadians move there when they retire.
+
+Victoria is on Vancouver Island. Most people travel there by boat (ferry) from Vancouver, or from Washington State. Victoria has three ferry docks and an airport, Victoria International Airport.
+
+Victoria has one of the mildest climates in Canada, with gardens blooming year-round.
+
+Some tourist attractions are the Butchart Gardens and the Royal British Columbia Museum. Some of the best-known buildings are the government buildings and the Empress Hotel, and both are by the Inner Harbour.
+
+The first people to live in the area were the Coast Salish native people. People from England built Fort Victoria in 1843. Victoria became a city in 1862.
+
+18,000 students study at the University of Victoria. Other people study at Camosun College, Royal Roads University, University Canada West, Victoria College of Art, and the Canadian College of Performing Arts. Students from all over the world study at Pearson College, near Victoria.
+
+The Canadian navy has ships in a part of the city called Esquimalt.
+
+Some of the parks include Beacon Hill Park, East Sooke Park, Mount Work Park, and Mount Douglas Park.
+
+There are many flowers in Victoria; it is called the "city of gardens." It is a lot drier than places nearby, and has little snow.
+
+Some well-known people from Victoria are:
+
+The Victoria area is made up of 13 parts. Four of them make up Greater Victoria:
+
+Three of them make up the Saanich Peninsula:
+
+The others make up the Western Communities:
+
+Suez Canal
+
+The Suez Canal (Arabic: قناة السويس, "Qanā al-Suways", French: "Le Canal de Suez") is a canal in Egypt. It lies west of the Sinai Peninsula. The canal is 163 km long (101 miles) and, at its narrowest point, 200 m wide (656 ft). It runs between Port Said ("Būr Sa'īd") on the Mediterranean Sea, and Suez ("al-Suways") on the Red Sea. It was built by a French company. The canal was started in 1859 and finished in 1869.
+
+The canal allows ships to travel between Europe and Asia without having to go the way around Africa. This saves time and fuel. It was built for Europeans to go to and from the Indian Ocean.
+
+In 1859, the Suez Canal was built by Ferdinand de Lesseps of the Universal Suez Ship Canal Company, and took 10 years to build. The first ship passed through the canal 17 November, 1869; Giuseppe Verdi wrote the famous opera Aida for this ceremony .
+
+The canal made it possible to easily transport goods across the world. The canal also allowed Europeans to travel to East Africa, and this area was soon controlled by European powers. The British tried to stop it, fearing that it would increase French power in the Indian Ocean. Later, they bought shares in the company.
+
+The success of the Suez Canal encouraged the French to try to build the Panama Canal. But they did not finish it. The Panama Canal was finished later.
+
+The canal was a central point during the Six Day War in 1967. A UN peacekeeping force has been stationed in the Sinai Peninsula since 1974, to avoid more wars. The canal reopened in 1975.
+
+About 15,000 ships pass through the canal each year, which is about 14% of world shipping. Each ship takes up to 16 hours to cross the canal. In 2015 a central part of the canal was expanded so more ships can go through and go faster.
+
+The canal was blocked for part of late March 2021 by the "Ever Given", a container ship, which became stuck diagonally.
+
+Canal
+
+A canal is a waterway made by humans. For many centuries, canals have been built as a way of transporting heavy goods in barges or boats. Canals often connect lakes, rivers, or oceans. The Panama Canal is a famous canal that connects the Atlantic Ocean with the Pacific Ocean. Many canals are reinforced with clay or concrete on the sides and have locks.
+
+Other canals are used for irrigation or hydropower.
+
+Mars (mythology)
+
+Mars is the god of war in Roman mythology. Mars is the son of Juno and Jupiter. Mars is the father of Romulus and Remus. The planet Mars and the month March are named after him. He was the god of war, murder, and bloodshed. His Greek name is Ares. He tried many times to start wars between the gods.
+
+
+Cessna
+
+Cessna is a company that makes airplanes. The company is named for their founder, Clyde Cessna. They are in Wichita, Kansas in the United States. They make small aircraft that can hold 2 to 4 people and in the last decades, they have built several models of business jets.
+
+
+

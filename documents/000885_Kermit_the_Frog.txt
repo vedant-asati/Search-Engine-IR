@@ -1,0 +1,43 @@
+Kermit the Frog
+
+
+Kermit the Frog is a Muppet created by Jim Henson. Kermit was Henson's trademark muppet character. He was originally performed by Henson himself. After Henson's death, Kermit was played by Steve Whitmire. In 2017, Whitmire stopped working with the Muppets. Matt Vogel replaced him and is the current person who plays Kermit until 2022.
+
+Kermit has appeared on many TV shows including "Sesame Street", "The Muppet Show", Sam and Friends, The Ed Sullivan Show, and "Muppet Babies". Kermit has also appeared in several films and has been a guest speaker.
+
+Cotton
+
+Cotton is a soft, natural fiber that grows with the seeds of the cotton plant. (Fiber is long and thin, like hair.) After the cotton fiber is gathered from the plant, it can be spun into cotton thread. The cotton thread can then be made into cloth. The cloth can be used to make clothes for people and many other things. People often wear cotton clothing, especially in hot weather. Bandages are usually cotton.
+
+There are different types of cotton plants. Some cotton plants grow wild in tropical and subtropical areas of the world. This is how cotton was discovered many years ago. Most of the cotton gathered to make cloth comes from crops grown on cotton plantations. Cotton is farmed in Africa, Asia, Europe, Australia, and the Americas. Cotton soaks up to 24-27 of its own weight in water (very absorbent). All parts of cotton plants are useful.
+
+Cotton is in the mallow family and produces delicate, lovely flowers. Other members of the mallow family include hollyhocks and hibiscus, used to brighten gardens all over the world. The cotton fiber forms around the seeds of the cotton plant. It helps carry the seeds long distances on the wind so the baby plant can grow up far away. Early humans realized that the soft, fluffy fibers might be suitable for textile use and began to breed the plant, selecting for fluffy, easily spun varieties.
+
+Cotton is one of the oldest fibers under human cultivation, with traces of cotton over 7,000 years old recovered from archaeological sites. Cotton is also one of the most used natural fibers in existence today, with consumers everywhere wearing and using cotton for various purposes. The word "cotton" comes from the Arabic word "qutn".Millions of acres globally are devoted to the production of cotton, whether it be new world cotton, with longer, smoother fibers, or the shorter and coarser old world varieties.
+After harvesting, cotton must be combed to remove the seeds. This was a laborious process until the industrial revolution and invention of the cotton gin, which quickly separates the seeds from the fiber and combs them for spinning. While a single cotton fiber is not terribly strong, when multiple curling fibers are straightened and twisted together, they form a strong, smooth thread that can be knitted or woven, as well as dyed.
+
+
+Windows 1.0
+
+Windows 1.0 is a graphical personal computer operating environment developed by Microsoft. Microsoft had worked with Apple Computer to develop applications for Apple's January 1984 original Macintosh, the first mass-produced personal computer with a graphical user interface (GUI) that enabled users to see user friendly icons on screen. Windows 1.0 was released on November 20, 1985, as the first version of the Microsoft Windows line. It runs as a graphical, 16-bit multi-tasking shell on top of an existing MS-DOS installation. It provides an environment which can run graphical programs designed for Windows, as well as existing MS-DOS software. Its development was spearheaded by the company founder Bill Gates after he saw a demonstration of a similar software suite known as Visi On at COMDEX.
+
+Despite positive responses to its early presentations and support from a number of hardware and software makers, Windows 1.0 was received poorly by critics. Critics felt Windows 1.0 did not meet their expectations. In particular, they felt that Windows 1.0 put too much emphasis on mouse input at a time when mouse use was not yet widespread; not providing enough resources for new users; and for performance issues, especially on systems with lower computer hardware specifications. Despite these criticisms, Windows 1.0 was an important milestone for Microsoft, as it introduced the Microsoft Windows line. Windows 1.0 was declared obsolete and Microsoft stopped providing support and updates for the system on December 31, 2001.
+
+Microsoft began developing a graphical user interface (GUI) in 1981. The development of Windows began after Microsoft founder Bill Gates saw a demonstration at COMDEX 1982 of VisiCorp's Visi On, a GUI software suite for IBM PC compatible computers. In 1983 Microsoft learned that Apple's own GUI software—based in part on Xerox PARC technology–was much more sophisticated, and decided that its own product would be different.
+
+Microsoft first presented Windows to the public on November 10, 1983. Requiring two floppy disk drives and 192 KB of RAM, Microsoft described the software as a device driver for MS-DOS 2.0. By supporting cooperative multitasking in tiled windows when using well-behaved applications that only used DOS system calls, and permitting non-well-behaved applications to run in a full screen, Windows differed from both Visi On and Apple Computer's Lisa by immediately offering many applications. Unlike Visi On, Windows developers did not need to use Unix to develop IBM PC applications; Microsoft planned to encourage other companies, including competitors, to develop programs for Windows by not requiring a Microsoft user interface in their applications.
+
+Many manufacturers of MS-DOS computers such as Compaq, Zenith, and DEC promised to provide support, as did software companies such as Ashton-Tate and Lotus. After previewing Windows, "BYTE" magazine stated in December 1983 that it "seems to offer remarkable openness, reconfigurability, and transportability as well as modest hardware requirements and pricing … Barring a surprise product introduction from another company, Microsoft Windows will be the first large-scale test of the desktop metaphor in the hands of its intended users".
+
+From early in Windows' history Gates viewed it as Microsoft's future. He told "InfoWorld" magazine in April 1984 that "Our strategies and energies as a company are totally committed to Windows, in the same way that we're committed to operating-system kernels like MS-DOS and Xenix. We're also saying that only applications that take advantage of Windows will be competitive in the long run." IBM was notably absent from Microsoft's announcement, and by late 1984, the press reported a "War of the Windows" between Windows, IBM's TopView, and Digital Research's Graphics Environment Manager (GEM). Microsoft had promised in November 1983 to ship Windows by April 1984, but subsequently denied that it had announced a release date, and predicted that Windows would ship by June 1985. Deemphasizing multitasking, the company stated that Windows' purpose, unlike that of TopView, was to "turn the computer into a graphics-rich environment" while using less memory. After Microsoft persuaded IBM that the latter needed a GUI, in April 1987 the two companies announced the introduction of OS/2 and its graphical OS/2 Presentation Manager, which were supposed to ultimately replace both MS-DOS and Windows. In November 1987, Windows 1.0 was succeeded by Windows 2.0. Microsoft supported Windows 1.0 for 16 years, until December 31, 2001 – the longest out of all versions of Windows.
+
+Version 1.01, released on November 20, 1985, was the first public release of Windows 1.0.
+
+Version 1.02, released in May 1986, was an international release.
+
+Version 1.03, released in August 1986, included enhancements that made it consistent with the international release like drivers for European keyboards and additional screen and printer drivers.
+
+Version 1.04, released in April 1987, added support for the new IBM PS/2 computers, although no support for PS/2 mice or new VGA graphics modes was provided.
+
+
+

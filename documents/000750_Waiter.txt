@@ -1,0 +1,171 @@
+Waiter
+
+
+A waiter is a person who serves people often at a restaurant or at a café. They are usually called a waiter because they wait for the order. A female waiter is called a waitress. They will take orders and deliver food to customers. A good waiter can also help the customers by recommending the best food in the restaurant or café.
+
+Many waiters and waitresses are required by their employers to wear a uniform. Most uniforms used are black and white or all black. Historically the term waiter was used to describe customs officers who waited on the tide for vessels to come in carrying goods to tax.
+
+Steven Spielberg
+
+Steven Allan Spielberg (born December 18, 1946) is an American filmmaker.
+
+He was born at The Jewish Hospital-Mercy Health in Cincinnati, Ohio. He is from Ukrainians Orthodox Jewish family, His parents were pianist Leah Adler (1920–2017) and engineer Arnold Spielberg (1917–2020). He started his movie career learning to direct in 1975. He was raised in Haddon Township, New Jersey. Spielberg studied at Saratoga High School. He went to California State University, Long Beach.
+
+Spielberg started his career learning how to direct in 1963. His first movies include "Jaws", "Jurassic Park", "Indiana Jones", and "E.T. the Extra-Terrestrial". His later movies include "Saving Private Ryan" and "Munich". 
+
+Spielberg helped establish the PG-13 rating for the Motion Picture Association of America.
+
+Spielberg married Amy Irving in 1985. They divorced in 1989. He married Kate Capshaw in 1991.
+
+Spielberg won two Academy Awards for best director. These two awards were for "Schindler's List" and "Saving Private Ryan". In 1986, he won the BAFTA Academy Fellowship Award, a Lifetime Achievement Award. He has been nominated and has won several other awards. In 2023, Spielberg was nominated for another Academy Award for his movie "The Fabelmans".
+
+In Oscar acceptance speeches given since 1966, Spielberg holds the record for being thanked the most at 43 mentions, more than God and beating Harvey Weinstein who was thanked 34 times.
+
+
+Variable
+
+A variable is a special type of amount or quantity with an unknown value. The opposite of a variable (that is, a known value) is called a constant.
+
+In mathematics, a variable is usually given a letter, such as "x" or "y". Other letters are often used for particular kinds of variable:
+
+
+Most letters are used in equations to show numbers that are unknown (an exception is "e", which is a constant). Using a type of math called algebra, one can find the value of the variable.
+
+Any number cannot change its value. This is true whether the number is rational (such as -8.625) or irrational (such as 2√3, which is 2 multiplied by the square root of 3), or whether the number is real (such as formula_1) or imaginary (such as formula_2).
+
+Variables are also common in science, where they usually represent physical properties that do not stay the same. For example, if a person stands 5 feet away from a building, the "distance" variable compared to the building does not change over time. 5 feet is called a "fixed amount", which is the opposite of a variable amount. But if a person walks away from the building, the distance variable compared to the building is increasing. So it does not have the same value and we cannot use the same number for it, as the distance might be 1 foot now, but 2 feet a second later.
+
+In computer science, a variable is a value in a program that can change. It does not have to be a number. In fact, it can be a string (text value), a date, an amount of money, an object such as a picture, or simply (which means it has no content). The value that is stored in a variable can change the behavior of a program when it is run. Because of this, variables are commonly used to store input and output values.
+
+Each programming language works differently with variables. Most of them allow any character string that is not "reserved" (that is, has a special meaning) to be the name of the variable. It is good in computer programming to use names that tells what will be stored in the variable (such as "person", "age", "total", and so on). Also, some languages like C and Java require the data type of the variable (that is, the kind of content that will be stored in it) to be declared (written) when the variable is created. Others, like Python and Visual Basic, do not have this rule, which allows the type of variable to be changed when a new value is stored in it.
+
+
+Salvador Allende
+
+Salvador Allende Gossens (June 26, 1908 – September 11, 1973) was a physician, senator, minister of health and the 28th President of Chile from November 3, 1970 until his death on September 11, 1973. He was a socialist and the first socialist president elected democratically (voted for by people) in South America.
+
+Salvador was in politics for nearly forty years, having been a senator, deputy, and cabinet minister. He had run for president in 1952, 1958 and 1964, but had failed. He won as the leader of the Popular Unity coalition (a group of political parties) in a very close race.
+
+Allende was born on June 26, 1908 in the port city of Valparaiso, Chile to a well-to-do family. Like many Chileans, Allende had a mestizo (mixed) racial background (European and other races mixed with Native Americans). His father Salvador Allende (senior), a lawyer, was of Basque background and his mother Laura Gossens had a Belgian Jewish background (though converted to Catholicism).
+
+In 1918 his father sent Allende to study at the "Instituto Nacional" (National Institute) in Santiago. He then did his compulsory military service and entered the University of Chile to study medicine. Allende was a gifted, friendly and popular student; a great debater and public speaker and quickly becomes a student leader and vice-president of the FECH. (Student Federation of Chile). As an undergraduate student Allende requested to his parents to let him earn his own livelihood and he started to work as a paramedic in the ambulance services and as an assistant in pathology. He graduated with a medical degree in 1933.
+
+He was one of the founders of the Socialist Party of Chile and in 1938 became a minister of health. He was a senator from 1945 until 1969 and was President of the Chilean Senate from 1966 until 1969.
+Allende first ran for the presidency in the 1952 elections but failed. Determined to succeed he tried again in 1958 and then in 1964. In both instances he failed again.
+Allende would tour Chile from Iquique to Magallanes, for example one end to the other, speaking to peasants in the south and miners in the north and held rallies in the big cities. Allende found it hard to win an election because of the successful scare campaigns launched by opposing parties, many financed by large multi-national corporations and powerful national institutions such as private banks and schools.
+
+Finally, and to the surprise of many working people - who had voted for him in previous elections and felt he would never win - in 1970 he won and became the President of Chile.
+
+Allende always ran for election on the same socialist platform (plan) proposing the same resolutions (things to be done), focusing on the persistent inequality in the country and the underdevelopment (poverty for large part of the population) which Allende saw as being rooted in the lack of control the Chilean people had over their natural resources and vital industries. (e.g. banks, copper mines, electricity companies etc.).
+
+Allende promised that he would nationalize (put under control of government) vital industries and then create an advanced public health system and educational system that would be free and accessible to all. During the cold war (between the U.S. and the former U.S.S.R) many people feared that Chile would fall under the influence of the USSR and after the 1960s under the influence of Cuba.
+
+Allende’s speeches were said to be very radical (extreme) and Allende’s vision for Chile seemed completely different to the Chile that most people were familiar with. For example: Allende was said to be an atheist and Marxist. He was a non-practicing Catholic. This was considered odd in a country that was very Catholic, held traditional family values, and in which people were taught that political freedoms (the freedom to elect politicians from different parties) was more important than solving problems such as extreme poverty or economic inequality (division between the poorest and the wealthiest people).
+
+Allende also wanted revolutionary change, i.e. he wanted deep changes to Chilean society very quickly, such forms of changes have been said to have tended to cause great divisions in society between those who oppose the changes (called reactionaries) and those who support the drastic changes (revolutionaries). Through history such situations tend to end up resolved violently. For example, civil war (where one group of people fight another group of people of the same country), or military coup (when a government is overthrown before it finishes its term).
+
+As a result, many Chileans, especially professionals like University professors, doctors and business people left the country–this had a negative effect on Allende’s reforms. E.g. Allende increased health services and places at Universities for the underprivileged while many professors, specialists and doctors were leaving the country.
+
+However, Allende was unique in that he did all he could to prevent this sort of violence, calling his revolution a “peaceful one within democracy” or calling it “the Chilean road to socialism.” In 1973 Allende’s enemies accused him of preparing a secret war and that his supporters were hoarding stocks of illegal weapons (in shanty towns and in rural areas) that were being sent from communist Cuba. To prove that this was not true, Allende allowed the Chilean Army to enforce a “weapons control’s law” that allowed the Chilean military to search and comb for any illegal weapons anywhere in the country. The Chilean army confirmed that after thoroughly searching for such weapons throughout the country they had found no significant stocks as the opposition was claiming. This ended up creating more support for Allende and allowed Allende to begin to focus on the upcoming election.
+
+Allende came to power with a socialist plan. His vision for Chile was one in which the country's resources and wealth would be owned by Chileans and distributed more democratically. Allende started his program by nationalizing (put under control of government) major industries. Such as, Chile's copper mines (Chile had one of the largest copper mines in the World) but these mines were not owned by Chileans but by very powerful U.S. business people.
+
+This created a serious problem with the U.S. government who saw Allende's nationalisation as an attack on U.S. interest and a threat to U.S. money investments in South America.
+The American Central Intelligence Agency was said to be involved in the overthrowing of his government on September 11, 1973. Allende was a socialist. Many of his reforms and programs revolved around socialism. He created universal health care for all, made education better, and took a stronger level of control within the economy. He died in 1973. His death has been disputed for years; some feel that he killed himself by committing suicide, but others feel that he was murdered by Augusto Pinochet's soldiers. Pinochet would then become the military dictator of Chile until 1990.
+
+Allende was replaced by those who overthrew him as president. Allende committed suicide by shooting himself. The new ruling Junta justified their coup claiming that “Chile could no longer tolerate the cancer of Marxism”. The Pinochet regime claimed Allende had violated the Chilean Constitution even though Pinochet ended up writing a completely new one.
+
+Also, after the coup many rumors and myths emerged about Allende’s death and life. Many of these myths attempted to discredit the character of Allende i.e. make him appear as a coward, weak or cruel person:
+
+Allende became of interest to people all over the world because he was the first democratically elected socialist in Chile and the first democratically elected Marxist in the world. Many people felt Allende was the beginning of a new era in which great changes to society - especially in developing countries - could be brought about peacefully through an election.
+
+Allende has become one of the most commemorated Latin American polital figures in history. Since his death monuments, statues, parks and streets have been named in his honour all over the world. In France alone there are more than 320 public places named in honour of Allende. Ministries and municipalities in many countries have also officially approved the naming of schools and educational departments in his honour.
+
+Despites Pinochet’s 17 years of military rule and an attempt to deny Allende his proper place in Chilean history, he was officially honoured in Chile as a defender of representative democracy (i.e. people’s right to elect their political representatives through free and fair elections) with a state funeral in 1990. A monument was also erected outside the "Moneda Presidential Palace" (Chile's house of Government) where he died defending the democratically elected Popular Unity government he lead.
+
+
+Authority
+
+Authority is the ability of a person or an organization to conduct a certain lifestyle for another person or a group. Authority is known as one of the basis of society and stands against cooperation. Adopting lifestyle patterns as a result of authority is called obedience and authority as a concept includes most leadership cases.
+
+Although authority is usually described as human there is also frequent mention of divine authority.
+
+Authority is made by a certain social power. This power might be materialistic (such as a threat to harm someone) or fictitious (such as belief in a certain person's power). The power exists because of the possible use of sanction : An action who harms a person who's not obeying the authority or threatening it in order to conduct a social power.
+
+Authority may exists in a direct way by virtue of an actual power (such as a threat of imprisonment), which is called "forcing", or by legitimization that the subject gives to the authority (such as recognition of aristocratic authority). In most cases both types exist.
+
+Only a few authorities are based on physical power, most are based on an organizational authority system. In this way, the authoritys ability to act depends on her existence.
+
+For example: the authority of a state leader takes part when there is some sort of a police that punishes individuals that do not obey him. The policeman are subordinated to the leader and his rules because they are also under the police threat. If all citizens of the state choose to deny the leader and his rules, the authority will be lost, but the very fact that the authority semi-exists allowes it to be full. 
+
+Obedience, as said, is the sign that means authority is being enforced. While obedience is the law, disobedience, insubordination and crime are a violation and resistance to the authority. 
+
+Theoretically, violation of the authority drags with it a sanction or punishment that's given by the authority owner. The severity of the sanction and the threat it presents are based on the particular social situation, on the balance of power, on the local norms and so on.
+
+Stanley Milgram was a psychologist who was interested in obedience. He designed an experiment to measured how willing people were to do what an authority figure told them to do. The experiment had three participants. The person running the experiment told one participant, the volunteer, to pretend to be a teacher. Another participant was an actor, but the volunteer didn't know this. The actor's role was to be the teacher's student. The actor and the volunteer were separated with a wall. The person running the experiment told the volunteer to test their "student"'s ability to remember pairs of words. When the teacher's "student" remembered a pair of words incorrectly, the experimenter told the teacher to give the student an electric shock from an electroshock generator. The electric shocks were not real, but the volunteer did not know this. Every time the student got a question wrong, the voltage of the shock went up by 15 volts. In Milgram's first set of experiments, 65% of the volunteers gave the highest shock. It was 450 volts. Milgram had two theories for why he got the results he did. 
+
+Many people criticize people in authority, and some even criticize the existence of authority. Anarchism is a philosophy that opposes all forms of authority.
+
+
+Musical instrument
+
+Musical instruments are things used to make music. Anything that somehow produces sound can be considered a musical instrument, but the term generally means items that are specifically for making music. 
+
+Musical instruments can be divided by type into:
+
+An orchestra has instruments from four families:
+
+Some people think that the voice is a "natural musical instrument" because singing is a way to make music without any instrument at all.
+
+Pupil
+
+There are different types of pupils:
+
+
+Winston Churchill
+
+Sir Winston Leonard Spencer-Churchill (30 November 1874 – 24 January 1965) was an English politician. He was Prime Minister of the United Kingdom twice, once during World War II, and again in the early 1950s.
+
+Churchill was the only person to have been a member of the British Government during both World Wars, and the last commoner (non-royal) to be granted a state funeral. He was also a soldier, journalist, and writer. He won the Nobel Prize in literature in 1953.
+
+Churchill featured in two media polls. He was ranked as the greatest British prime minister of the twentieth century by 20 prominent historians, politicians and commentators. They were asked by BBC Radio 4's "The Westminster Hour" to rank the 19 prime ministers from Lord Salisbury at the turn of the century through to John Major in the 1990s. In a 2002 BBC 2 television poll, Churchill was ranked as the greatest Briton in history. A million votes were cast, and the voting was heavily influenced by public campaigns from various candidates.
+
+He is the only British Prime Minister to have received the Nobel Prize.
+
+Winston Churchill was born on 30 November 1874 at Blenheim Palace, Oxfordshire, England, the home of the Dukes of Marlborough. His father, Lord Randolph Churchill, was a younger son of the 7th Duke, and a leading Tory politician. His mother (née Jenny Jerome) was American.
+
+As a boy, Churchill went to the famous Harrow School. He did not get good results, but said he was good at fighting.
+
+He joined the British Army in 1893. In 1896, he was transferred to Bombay, in what was the Indian Empire (British India). He fought in what is now Pakistan. After this, he fought in a war in Sudan, in 1898 as an officer in the cavalry. In 1899, he went to the Second Boer War in South Africa, to be a newspaper reporter. He was captured by the Boers, but managed to escape.
+
+In 1900, he became a politician in the Conservative Party, and was elected to Parliament. In 1904, he changed parties and joined the Liberal Party, but later returned to the Conservative Party.
+He married Clementine Hozier in 1908, and had five children named Diana, Randolph, Sarah, Marigold and Mary.
+
+In 1910 Churchill became Home Secretary, one of the most important members of the government. In 1911 he was made First Lord of the Admiralty, which put him in charge of the Royal Navy. When World War I broke out, he stayed in that job. He organized an invasion in Gallipoli which went wrong, and because of this, he was made to leave the government. He joined the army and was sent to fight in France, although he was still a Member of Parliament. In 1917 he was made minister in charge of military supplies (Minister of Munitions).
+
+After World War I, in 1919, Churchill was made Secretary of State for War, and Secretary of State for Air (aircraft). In 1920, Winston ordered the first air bombing in Africa when he bombed the Darwiish State, (also called Daraawiish State).
+
+In 1921 he was in charge of the colonies as Secretary of State. Soon after, in 1922 he lost in an election. In 1924 he became a member of Parliament again, this time not as a member of any party. In 1925 he joined the Conservative Party again. He became Chancellor of the Exchequer (Minister of Finance) in 1924.
+
+After 1929, Churchill disagreed with many things the Conservative party believed in. He was not given any job in the government. Instead he wrote books. One was called "Marlborough: his life and times", about his famous ancestor John Churchill, 1st Duke of Marlborough; another was "A History of the English Speaking Peoples", which was not published until after World War 2.
+
+When Adolf Hitler came to power in Germany, Churchill warned that Britain should strengthen its military and oppose Hitler. However, very few leaders agreed with him.
+
+At the start of World War II, Churchill was again put in charge of the Navy. In 1940 the war was going badly for Britain. Prime Minister Neville Chamberlain resigned on May 10 and Churchill was given the job. Some people thought that Britain could not win the war, and that the British government should make peace with Hitler. Churchill was sure that Britain could win, and promised to continue the fight. He made famous speeches that are still remembered today.
+
+He was friends with the President of the United States, Franklin D. Roosevelt. He persuaded Roosevelt to give supplies to Britain, and to help Britain. He had many meetings with Roosevelt and with Joseph Stalin, the leader of the Soviet Union, after they came into the war. They were called the "Big Three".
+
+In 1945, his party lost an election, and he stopped being Prime Minister. However, he became Prime Minister again in 1951, which he was until 1955.
+
+He was knighted in 1953, and became Sir Winston, and also won the Nobel Prize in Literature.
+
+In 1955, he retired from being Prime Minister. In 1964, he retired from Parliament.
+
+In 1963, President John F. Kennedy named him 'Honorary Citizen of the United States' but too ill to attend a White House ceremony, his son and grandson accepted the award.
+
+Sir Winston died of a stroke at the age of 90, in 1965. When he died, his wife Lady Clementine Churchill and other members of the family were at his bedside.
+
+Title (US Title) (Year of publication)
+
+
+

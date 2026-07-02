@@ -1,0 +1,59 @@
+Time zone
+
+
+Time zones give specific areas on the Earth a time of day that is earlier or later than the neighboring time zones. This is because when it is daytime on one side of the earth, it is night-time on the other side. There are 24 time zones dividing the earth into different times, each with its own name, like the North American Eastern Time Zone. The North American Eastern Time Zone contains large cities in North America like New York City and Miami.
+
+Greenwich Mean Time (GMT) began in 1675. This was when the Royal Observatory, Greenwich was built to help ships find their longitude at sea. GMT was a standard reference for time keeping when each city kept a different local time. When railways began carrying many people quickly among cities keeping different time, they adopted time zones to simplify operations. By about 1900, almost all time on earth was in the form of standard time zones. 
+
+Greenwich Mean Time is now called UTC (Coordinated Universal Time). UTC is the time standard of the world. All other parts of the world are offset (plus or minus) according to their longitude. Most of the zones are offset by a full hour, but there are some offset by half an hour or 45 minutes.
+
+In some parts of the world they follow the Daylight Saving Time (DST), and during this period of time in summer they add one hour to their normal solar hour.
+
+In the poles, the time is UTC in the North Pole and UTC+12 in the South Pole.
+
+The time zones are numbered in relation to the UTC, so in Los Angeles the time zone will be UTC−8, in London UTC+0, in Rome UTC+1, and in New Delhi UTC+5:30.
+
+Market
+
+A market is a place where people go to buy or sell things. When people have products to sell, they set up a market place. There may be a special building for the market place, or the market may be held in an open space where the sellers can put up a stall (like a kind of tent) and then take the stall down at the end of the day.
+
+The word "market" can also have a more general meaning in the economy. It can mean the way things are bought or sold. "There is a big market for dishwashers" means that lots of people want to buy dishwashers. Therefore, a business that makes dishwashers is likely to be able to make a lot of money. When things are sold, people buy the product, and this "stimulates the economy" (helps people to spend and earn money). The market needs to balance supply and demand. There is no reason to make a supply of dishwashers if people do not want dishwashers. In the market, prices may change quickly if supply or demand changes.
+
+If a seller of a good cannot supply what customers want or asks for a very high price, other sellers may try to supply that good. If other sellers enter the market for that good, in competition, that will tend to fulfill demands and lower prices. Sellers who do not like competition may try to kill their competition. When there is no competition, a monopoly is formed. Many countries have laws to protect the free market from monopolies.
+
+
+Electron
+
+An electron is a very small piece of matter. Its symbol is e, and it was discovered by J. J. Thomson in 1897.
+
+The electron is a subatomic particle. Every atom is made of some electrons that surround the nucleus of the atom. An electron can also be separate from any atom. It is believed to be an elementary particle because it cannot be broken down into anything smaller. Its electric charge is negative. Electrons have very little mass (little weight) so very little energy is needed to move them fast. They may move almost at the speed of light, for instance, as beta particles, and in the inner electron shells of elements with a large atomic number. 
+
+Electrons take part in gravitational, electromagnetic and weak interactions. The electromagnetic force is strongest in common situations. Electrons repel (push apart) from each other because they have the same electric charge. Electrons are attracted to protons because they have opposite electric charge. An electron has an electric field, which describes these forces. The electricity that powers televisions, motors, mobile phones, basically everything (electric) is actually many electrons moving through wires or other conductors.
+
+Electrons have the smallest electrical charge. This electrical charge equals the charge of a proton, but has the opposite sign. For this reason, electrons are attracted towards the protons in atomic nuclei. This attraction makes electrons near a nucleus form an atom.
+An electron has a mass of about 1/1836 times a proton.
+One way to think about the location of electrons in an atom is to imagine that they orbit at fixed distances from the nucleus. This way, electrons in an atom exist in a number of electron shells surrounding the central nucleus. Each electron shell is given a number 1, 2, 3, and so on, starting from the one closest to the nucleus (the innermost shell). Each shell can hold up to a certain maximum number of electrons. The distribution of electrons in the various shells is called electronic arrangement (or electronic form or shape). Electronic arrangement can be shown by numbering or an electron diagram. (A different way to think about the location of electrons is to use quantum mechanics to calculate their atomic orbitals.)The electron is one of a type of subatomic particles called leptons. The electron has a negative electric charge. The electron has another property, called spin. Its spin value is 1/2, which makes it a fermion.
+
+While most electrons are found in atoms, others move independently in matter, or together as cathode rays in a vacuum. In some superconductors, electrons move in pairs. When electrons flow, this flow is called electricity, or an electric current.
+
+An object can be described as 'negatively charged' if there are more electrons than protons in an object, or 'positively charged' when there are more protons than electrons. Electrons can move from one object to another when touched. They may be attracted to another object with opposite charge, or repelled when they both have the same charge. When an object is 'grounded', electrons from the charged object go into the ground, making the object neutral. This is what lightning rods (lightning conductors) do.
+
+Electrons in their shells round an atom are the basis of chemical reactions. Complete outer shells, with maximum electrons, are less reactive. Outer shells with less than maximum electrons are reactive. The number of electrons in atoms is the underlying basis of the chemical periodic table.
+
+Electric "charge" can be directly measured with a device called an . Electric "current" can be directly measured with a galvanometer. The measurement given off by a galvanometer is different from the measurement given off by an . Today laboratory instruments are capable of containing and observing individual electrons.
+
+In laboratory conditions, the interactions of individual electrons can be observed by means of particle detectors, which allow measurement of specific properties such as energy, spin and charge. In one instance a was used to contain a single electron for 10 months. The magnetic moment of the electron was measured to a precision of eleven digits, which, in 1980, was a greater accuracy than for any other physical constant.
+
+The first video images of an electron's energy distribution were captured by a team at Lund University in Sweden, February 2008. The scientists used extremely short flashes of light, called attosecond pulses, which allowed an electron's motion to be observed for the first time. The distribution of the electrons in solid materials can also be visualized.
+
+The antiparticle of the electron is called a positron. This is identical to the electron, but carries electrical and other charges of the opposite sign. When an electron collides with a positron, they may scatter off each other or be totally annihilated, producing a pair (or more) of gamma ray photons.
+
+The effects of electrons were known long before it could be explained. The Ancient Greeks knew that rubbing amber against fur attracted small objects. Now we know the rubbing strips off electrons, and that gives an electric charge to the amber.
+Many physicists worked on the electron. J.J. Thomson proved it existed, in 1897, but another man gave it the name 'electron'.
+
+The model views electrons as holding indeterminate positions in a diffuse cloud around the nucleus of the atom.
+
+The uncertainty principle means a person cannot know an electron's position and energy level at the same time. These potential states form a cloud around the atom. The potential states of electrons in a single atom form a single, uniform cloud.
+
+
+

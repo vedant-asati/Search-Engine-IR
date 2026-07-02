@@ -1,0 +1,19 @@
+Apple also makes software for their computers. Some of the software that Apple makes is:
+
+
+Most computer users use Microsoft Windows, the rival to Mac OS X. About 10% of computer users use Apple's Mac OS. It is not legal to run Apple's Mac OS X on a Windows computer. However, it is allowed to run Windows on modern Macintosh computers. Even though Apple makes their computers to run Mac OS X, they also make software that allows you to install Windows. This software is called Boot Camp.
+
+Apple is perhaps most famous for its mobile devices, which are small computers that are easy to carry around. They have touchscreens with multi-touch technology instead of a separate keyboard and mouse. Most of these products run an operating system called iOS. It is very similar to the Android software made by Google. iOS can do a lot of different things, and it does so by running "apps", which are programs similar to those on a PC. Users can download and buy more apps for their device from Apple's App Store.
+
+The iPhone is a mobile phone that can be used to make calls, send text messages, play games and music, show photos and videos (like an iPod), browse the Internet, and do much more. It was one of the first smartphones in the world when the first version was announced in 2007. Apple makes and sells a different model every year, with new models being faster and more powerful and having a newer version of iOS than those that come before them. The newest iPhones released are the iPhone 15 and the iPhone 15 Pro which run on iOS 17. Many cellular carriers around the world sell iPhones, including Sprint, Verizon, AT&T, and T-Mobile in the US.
+
+The iPad is a tablet computer, similar to the iPhone and iPod Touch but with a much larger display - while a typical iPhone has a screen about 4 to 5 inches in size, iPads have screens from 8 to 12 inches big. The first iPad was introduced in 2010 and along with the iPhone, new and better models are made and sold every year. A new iPad will ship with the latest iPad OS software if it is supported.
+
+The Apple Watch is an example of "wearable technology", because it is worn around the wrist in the same way as a traditional wristwatch. However, it is much more than a wristwatch. It not only tells the time and date but also tracks the fitness of the person wearing it and monitors the person's health. It can also do many of the same things that an iPhone can do, such as use Apple's Siri personal assistant, but it needs to be "paired" with an iPhone for it to do these things, meaning that it will not work if you do not have an iPhone. The Apple Watch has many different designs: there is the standard version, a "Sport" version designed for athletes, and an "Edition" version which is made as a fashion product. These all run "watchOS", a modified version of iOS.
+
+The Apple TV is a box that plugs into a TV. It can connect wirelessly to any computer that has the Apple program "iTunes" on it. The Apple TV can play music and show photos or videos from iTunes on the TV. Like other Apple products, Apple TV is regularly updated with new software and features. The most recent version comes with a new remote control and includes the Siri voice assistant. It uses tvOS, a TV version of iOS.
+
+Following several campaigns (for example, Green my Apple), Apple has made their products better for the environment. Previously, the MacBook line removed various toxins including arsenic, beryllium, and lead, as well as improvements to the products' battery life and recharge cycles. Apple products used to ship with chargers and EarPods, but recently Apple has removed the chargers and EarPods from the boxes of most of their products to make the packaging smaller. Apple says they did this to make it easier to make and save resources and energy.
+
+
+

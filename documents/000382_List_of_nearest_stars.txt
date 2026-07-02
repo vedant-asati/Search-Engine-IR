@@ -1,0 +1,10 @@
+List of nearest stars
+
+
+This list of the nearest stars to Earth is by distance in light years (ly). These distances are taken from parallax data determined by the Research Consortium on Nearby Stars (or Recons). 
+The sources for this information were the Yale Parallax Catalog [Y], Hipparcos [H], Soderhjelm 1999 [S], Tinney 1996 [T]. Stars move, and so distances are as at present only.
+
+Some 52 star systems beyond our own, the Solar System, lie within of the Sun. These systems contain 63 stars. 50 of these are red dwarfs, by far the most common type of star in the Milky Way. Much more massive stars, such as our own, make up the remaining 13. In addition to these "true" stars, scientists have identified 11 brown dwarfs (objects not quite massive enough to fuse hydrogen), and four white dwarfs. White dwarfs are extremely dense collapsed cores that remain after stars such as our Sun have exhausted all fusible hydrogen in their core and have slowly shed their outer layers. Despite the relative proximity of these 78 objects to Earth, only nine are bright enough in visible light to be visible to the naked eye from Earth, 6.5 apparent magnitude. All of these objects are currently moving in the Local Bubble, a region within the Orion–Cygnus Arm of the Milky Way.
+
+
+

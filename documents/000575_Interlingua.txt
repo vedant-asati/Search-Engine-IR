@@ -1,0 +1,46 @@
+Interlingua
+
+
+Interlingua is a constructed language using words that are found in most West-European languages. It was made by IALA - a group of people (the most known was Alexander Gode) who worked on it for more than 20 years, and they finished and published the first dictionary in 1951. Interlingua was created on the base of languages: English, French, Spanish, Portuguese, and Italian.
+
+"Inter" is the same root word as in the words "interaction", "interface" and so on, and it means "between" or "to each other"; "lingua" means "language". They chose the name Interlingua because they wanted it to be used for people of different countries to talk to each other easily. Because Interlingua was made by people to be easy, it is easier than natural languages to learn.
+In the year 2000, the language could be spoken by 1,500 people. Interlingua speakers say that millions can understand it (read texts in it and listen to someone talk in it) without having to learn it first.
+
+There are three other constructed languages in the world that have more than 1000 speakers, Esperanto, Ido, and Toki Pona. Esperanto and Ido were made before Interlingua. Toki Pona was made in 2001. Some people think Esperanto and Ido are easy to learn because they have no "exceptions" (words that break the rules) but other people think Interlingua is easier because the makers chose all the words to be easy to understand for people who know English, French, Spanish, Portuguese, or Italian, plus languages like Occitan and Romanian, languages that used to be Latin, the language used in Rome a long time ago.
+
+Actually, people who use Interlingua say that their language is actually new Latin, just simpler and "modernized" (made new).
+
+At the beginning of the 20th century, several associations such as the International Research Council, the American Council on Education and the American Council of Learned Societies were investigating the problem of the international auxiliary language.
+
+Alice Vanderbilt Morris and her husband, Dave Hennen Morris had become interested in linguistics and the international auxiliary language movement in the early 1920s. In 1924 they created the non-profit International Auxiliary Language Association (IALA) in New York City. They wanted to give scientific support to the study of IALs. They asked for the help of linguists like Edward Sapir, William Edward Collinson, and Otto Jespersen.
+
+In its early years, IALA was focused on finding other organizations around the world with similar goals; building a library of books about languages and interlinguistics; and comparing IALs such as Esperanto, Ido, Novial, and Interlingue. To achieve the last goal, it arranged conferences with people that supported those IALs. IALA gain the support of different linguists during these conferences and congresses. However, the beginning of World War II in 1939 meant the end of those meetings.
+
+Although the IALA did not have the goal of creating its own language, after ten years of research, it concluded that none of the existing artificial languages was good enough. By 1937, the members had made the decision to create a new language.
+
+E. Clark Stillman with the help of Alexander Gode, developed a technique for selecting and standardizing vocabulary based on a comparison of "control languages". Later, in 1943 Stillman left and Gode became acting director of research. IALA began to develop models of the proposed language, the first of which were presented in Morris's "General Report" in 1945.
+
+In 1946, with the French linguist André Martinet was Director of Research, four models for the language were introduced (two more naturalistic and two more schematic). IALA decided to find a middle way between the two naturalistic models, with some elements of one of the schematic ones. Martinet left the project in 1948, and Gode was in charge of the last phase of Interlingua's development.
+
+The vocabulary and verb conjugations of Interlingua were first presented in 1951, when IALA published the finalized "" and the 27,000-word Interlingua–English Dictionary (IED). In 1954, IALA published an introductory manual entitled "Interlingua a Prime Vista" ("Interlingua at First Sight").
+
+
+The plural is "-s" after a vowel, "-es" after a consonant, but "-hes" after final "c":
+
+Interlingua has no grammatical gender. Some words distinguish female from male by changing "-o" into "-a", or by adding "-essa". Other ones have two different forms. But the most of words do not distinguish:
+
+Adjectives do not change for agreement with nouns. They can precede or follow the noun, except numbers, that always precede the noun. In general, short adjectives precede and long adjectives follow.
+
+To compare, use "plus" or "minus" and "le plus" or "le minus":
+
+One can use the suffix "-issime" for the absolute superlative:
+
+There are two kinds of adverbs: first form and second form. Adverbs of first form are a closed class of grammatical words, like "quasi" (almost), "jam" (already), and "totevia" (nevertheless). Adverbs of second form are an open class derived from adjectives by adding the suffix "-mente" (or "-amente" after final "c"):
+
+These are the most common forms of verbs (note exceptions in underlined letters):
+
+The verbs do not vary for persons and plural, except for alternative versions for "esser". The tenses normal are used for the subjunctive and the command. "Esse", "habe", and "vade" have forms short for the present: "es", "ha", and "va".
+
+
+
+

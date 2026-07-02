@@ -1,0 +1,148 @@
+Pi
+
+
+formula_1 () () is a mathematical constant that is the ratio of a circle's circumference to its diameter. This produces a number, and that number is always the same. However, the number is rather strange. The number starts as 3.141592653589793 and continues without end. Numbers like this are called irrational numbers.
+
+The diameter is the largest chord which can be fitted inside a circle. It passes through the center of the circle. The distance around a circle is known as the circumference. Even though the diameter and circumference are different for different circles, the number formula_1 remains constant: its value never changes. This is because the relationship between the circumference and diameter is always the same.
+
+formula_1 is defined as the ratio of a circle's circumference formula_4 to its diameter formula_5:
+
+formula_1 is often written as . It is also an irrational number, meaning it cannot be written as a fraction formula_8, where formula_9 and formula_10 are integers (whole numbers). This basically means that the digits of formula_1 that are to the right of the decimal go forever—without repeating in a pattern, and that it is impossible to write the exact value of formula_1 as a number. formula_1 can only be approximated, or measured to a value that is close enough for practical purposes.
+
+A value close to formula_1 is 3.141592653589793238462643 A common fraction approximation of formula_1 is formula_16, which yields approximately 3.14285714. This approximation is 0.04% away from the true value of formula_1. While this approximation is accepted for most of its use in real life, the fraction formula_18 is more accurate (giving about 3.14159292), and can be used when a value closer to formula_1 is needed. Computers can be used to get better approximations of formula_1.
+
+In March 2019, Emma Haruka Iwao calculated the value of formula_1 to 31.4 trillion digits.
+
+Mathematicians have known about formula_1 for thousands of years, because they have been working with circles for the same amount of time. Civilizations as old as the Babylonians have been able to approximate formula_1 to many digits, such as the fraction formula_24 and formula_25. Most historians believe that ancient Egyptians had no concept of formula_1, and that the correspondence is a coincidence.
+
+The first written reference to formula_1 dates to 1900 . Around 1650 , the Egyptian Ahmes gave a value in the "Rhind Papyrus". The Babylonians were able to find that the value of formula_1 was slightly greater than 3, by simply making a big circle and then sticking a piece of rope onto the circumference and the diameter, taking note of their distances, and then dividing the circumference by the diameter.
+
+Knowledge of the number formula_1 passed back into Europe and into the hands of the Hebrews, who made the number important in a section of the Bible called the Old Testament. After this, the most common way of trying to find formula_1 was to draw a shape of many sides inside any circle, and use the area of the shape to find formula_1. The Greek philosopher Archimedes, for example, used a polygon shape that had 96 sides in order to find the value of formula_1, but the Chinese in 500 were able to use a polygon with 16,384 sides to find the value of formula_1. The Greeks, like Anaxagoras of Clazomenae, were also busy with finding out other properties of the circle, such as how to make squares of circles and squaring the number formula_1. Since then, many people have been trying to find out more and more precise values of formula_1.
+
+In the 16th century, better and better ways of finding formula_1 became available, such as the complicated formula that the French lawyer François Viète developed. The first use of the Greek symbol "π" was in an essay written in 1706 by William Jones.
+
+A mathematician named Lambert also showed in 1761 that the number formula_1 was irrational; that is, it cannot be written as a fraction by normal standards. Another mathematician named Lindeman was also able to show in 1882 that formula_1 was part of the group of numbers known as transcendentals, which are numbers that cannot be the solution to a polynomial equation.
+
+formula_1 can also be used for figuring out many other things beside circles. The properties of formula_1 have allowed it to be used in many other areas of math besides geometry, the study of shapes. Some of these areas are complex analysis, trigonometry, and series.
+
+There are different ways to calculate many digits of formula_1. This is of limited use though.
+
+formula_1 can sometimes be used to work out the area or the circumference of any circle. To find the circumference of a circle, use the formula formula_43 (Radius). To find the area of a circle, use the formula formula_44 (radius squared). This formula is sometimes written as formula_45, where formula_46 is the variable for the area.
+
+To calculate the circumference of a circle with an error of 1 mm:
+
+People generally celebrate March 14 as Pi Day, because March 14 is also written as formula_47, which represents the first three numbers 3.14 in the approximation of formula_1. formula_1 day was started in 1988 by physicist Larry Shaw at the San Francisco Exploratorium. On March 11, 2009, almost 21 years later US House of Representatives passed a resolution proclaiming March 14 to be celebrated as National formula_1 Day every year.
+
+
+Proper noun
+
+A proper noun or proper name is a noun representing a unique thing (like "London", "Jupiter", "John Hunter", or "Toyota"), unlike a common noun, which represents a type of thing (like "city", "planet", "person" or "corporation"). Proper nouns are the only nouns in English which always have the first letter capitalized. 
+
+In English, proper nouns don't usually come after an article or other limiting modifier (such as "any" or "some"). They are used for a particular person, place, or object. For example, a town called "Newtown" may be, but does not necessarily have to be, a new [recently built] town).
+
+Which nouns are considered proper names depends on language. For example, names of days and months are considered proper names in English, but not in Spanish, French, Swedish, Slovenian or Finnish, where they are not capitalized.
+
+Plastic
+
+A plastic is a material that can change its shape easily. Many things are made of plastics, usually because making them to the right shape is easy. There are many types of plastic. Some can be shaped only when they are freshly made; then they become hard. Others are thermoplastic and can be softened by heating them. These plastics can be used for 3D printing, because the plastic will become soft enough to form into different shapes, and then become hard again when they cool down. 
+
+Most plastics are man-made; they do not occur in nature. The process of making plastics is usually quite complicated. Most of the materials that are called "plastic" are polymers. Polymers are long chains of atoms bonded to each other. In most plastics, the long chain is a chain of carbon atoms with other atoms attached to them. The different atoms and the shape and length of the chains change how the plastic looks and works. 
+
+People experimented with plastics based on natural polymers for a very long time. Alexander Parkes, an English inventor (1813-1890), created an early form of plastic in 1855. It was hard but flexible and transparent. He called it "Parkesine" but now it is called "Celluloid."
+
+Old plastics are usually thrown away and put in landfills. Some plastics release toxic fumes when heated. Some plastics are recycled so they won't become waste. Some plastics have other materials added to them, like glass, because they make the plastic stronger and stiffer.
+
+Plastics are mostly petrochemicals, made from natural gas or from petroleum, a type of oil. Chemical engineers refine the petroleum which goes through a heating process. It develops ethylene and propylene, which are the chemical building blocks for many plastics. These chemicals are then combined with other chemicals to produce a polymer.
+
+Today, some of these plastics are also being made without oil. Instead, other sources like plants and bacteria are used to make the plastic. These plastics are called bioplastics. Some are biodegradable.
+
+
+Product stewardship
+
+Product stewardship is a way of managing the environmental impacts of different products and materials. People involved in producing, selling, using and disposing of products have a shared responsibility to manage them in a way that reduces their impact, throughout their lifecycle, on the environment and on human health and safety.
+
+This includes waste disposal measures in the distribution of an industrial product. That is, paying for the safe and proper disposal when you pay for the product, and relying on those who sold it to you, to dispose of it. 
+
+The idea of product take-back is that the service of waste disposal is paid for at time of purchase. It is often applied to goods that become toxic waste if not disposed of properly. It is most familiar as the deposit bottle - where one pays for the loan of the bottle at the same time as one purchases what is inside it. The container deposit charged for a deposit bottle may be a fee to "buy" the bottle, separately from the fee to buy what it contains. If one returns the bottle, the fee is returned, and the supplier must return the bottle for re-use or recycling. The fee can be collected by anyone finding and returning the bottle, so it is common for people to collect these and return them as a means of surviving. This is quite common for instance among homeless people.
+
+Legal requirements vary: the bottle itself may be considered simple property of the purchaser of the contents, or, the purchaser may have some obligation to return the bottle to some depot so it can be recycled or re-used. For more toxic items, it is more likely that returning it is required:
+
+This principle is applied very broadly beyond bottles to paint and automobile parts such as tires. When purchasing paint or tires in many places, one pays for the disposal of the toxic waste they become. In some countries, such as Germany, law requires attention to the comprehensive outcome of the whole extraction, production, distribution, use and waste of a product, and holds those profiting from it legally responsible for any outcome along the way. This is also the trend in the UK and EU generally. In the United States, there have been many class action suits that are effectively product stewardship liability - holding companies responsible for things the product does, which it was never advertised to do.
+
+Rather than leaving these problems to be fixed by the public sector or be haphazardly assigned one issue at a time to companies via lawsuits, many accounting reform efforts focus on achieving full cost accounting. This is the financial reflection of the comprehensive outcome - noting the gains and losses to all parties involved, not just those investing or purchasing. Such moves have made moral purchasing more attractive, as it avoids liability and future lawsuits.
+
+So these are partial implementations of a strict service economy ideal.
+
+Those who advocate these measures are concerned with the later phases of product lifecycle and the comprehensive outcome of the whole production process. It is considered a pre-requisite to a strict service economy interpretation of (fictional, national, legal) "commodity" and "product" relationships.
+
+There are laws in several countries to enforce these ideas.
+
+Peace
+
+Peace is a time without any fights or wars. In a larger sense, peace (or peacefulness) can mean a state of harmony, quiet or calm that is not disturbed by anything at all, like a still pond with no ripples.
+
+Many people and organizations want peace. One organization that was set up to bring peace among the nations and try to make war a thing of the past was the League of Nations after World War I. When it did not stop World War II, it was replaced by the United Nations which tries to make the world peaceful. This means that if any member is attacked or invaded by another country without attacking that country first, the other members will come to help the country that was attacked first. This idea was used by the United Nations to defend both South Korea and Kuwait when they were attacked.
+
+Martin Luther King, Jr. wrote in a letter he sent from the Birmingham jail that, "True peace is not merely the absence of tension: it is the presence of justice." In other words, Real peace is more than just problems being gone: there must be fairness to have peace.
+
+Alfred Nobel created an annual award, the Nobel Peace Prize, for the person who had done the most to bring peace to the world.
+
+Buddhists think that peace can be gotten once all suffering ends.To get rid of suffering and get this peace, many try to follow a set of teachings called the Four Noble Truths
+
+Jews and Christians believe that true peace comes from a personal relationship with God. Jesus Christ (also called the "Prince of Peace" in the Book of Isaiah) said: "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid." ()
+
+Muslims follow Prophet Muhammad who teaches them that peace is the glue that holds communities together and sustains the world. 
+
+Inner peace (or peace of mind) refers to a state of being mentally and spiritually at peace, with enough knowledge and understanding to keep oneself strong in the face of stress. Being "at peace" is considered by many to be healthy and the opposite of being stressed or anxious. Peace of mind is generally associated with bliss and happiness.
+
+Peace of mind, serenity, and calmness are descriptions of a disposition free from the effects of stress. In some cultures, inner peace is considered a state of consciousness or enlightenment that may be cultivated by various forms of training, such as prayer, meditation, Tai chi chuan or yoga, for example. Many spiritual practices refer to this peace as an experience of knowing oneself.
+
+A movement that seeks to get ideals such as the ending of a particular war, minimize inter-human violence in a particular place or type of situation, often linked to the goal of achieving world peace. Means to achieve these ends usually include advocacy of pacifism, non-violent resistance, conscientious objector, diplomacy, boycotts, moral purchasing, supporting anti-war political candidates, demonstrations, and lobbying to create legislation on human rights or of international law.
+
+Many different theories of "peace" exist in the world of peace studies, which involves the study of conflict transformation. The definition of "peace" can vary with religion, culture, or subject of study.
+
+Peace is a state of balance and understanding in yourself and between others, where respect is gained by the acceptance of differences, tolerance persists, conflicts are resolved through dialog, people's rights are respected and their voices are heard, and everyone is at their highest point of serenity without social tension.
+
+
+Quebec
+
+Quebec ( or ; ) is a province in the eastern part of Canada located between the Hudson Bay and the Gulf of Saint Lawrence. It is the largest of Canada's ten provinces by size. It also has the second largest number of people, after Ontario. Most of Quebec's inhabitants live along or close to the banks of the Saint Lawrence River. Not many people live in the north part of the province.
+
+Unlike the other provinces, most people in Quebec speak French (Canadian French) and French is the only official language. There is a strong French-language culture, which includes French-language newspapers, magazines, movies, television and radio shows. Their culture and language, though, is quite different from that of France, mainly because of Quebec's isolation from France since the 17th century, and the separate evolutions of the French language in Quebec and in France. Their culture was also influenced by English-speaking Canada.
+
+The government of Quebec has its offices in the capital, Quebec City, which is one of the oldest cities in North America. The city with the most people in the province is Montreal, which is also the second-largest city in Canada.
+
+Quebec has many natural resources that are used to create jobs. Quebec also has many companies that create products for information and communication technologies, aerospace, biotechnology, and health industries. It has also developed close relations with the Northeastern United States.
+
+Quebec was part of New France until 1760, then under British control. Quebec became a province in the Canadian Confederation in 1867. Since then, some people in Quebec have wanted to leave Canada. Since Quebec is a mainly French-speaking province, most of the people there feel that it is very different from the rest of Canada, and want to keep it that way. Some feel that for this to happen, Quebec must leave Canada and become its own country. However, the people of Quebec are still divided as to its place in Canada.
+
+Quebec held democratic votes in 1980 and 1995 to decide whether to leave Canada. In 1995, the people of Quebec chose to stay in Canada by a 1% margin.
+
+Aboriginal people and Inuit groups were the first peoples who lived in what is now Québec. These Aboriginal people lived by hunting, gathering, and fishing. Some of the Aboriginal people, called Iroquoians, planted squash and maize. The Inuit fished and hunted whales and seals for fur and food. Sometimes they warred with each other.
+
+Vikings came in longboats from Scandinavia in 1000 AD. Basque whalers and fishermen traded furs with Aboriginal people throughout the 1500s.
+
+The first French explorer to reach Quebec was Jacques Cartier. He sailed into the St. Lawrence River in 1534 and established a colony near present-day Quebec City.
+
+Samuel de Champlain came from France and traveled into the St. Lawrence River. In 1608, he founded Quebec City as a permanent fur trading outpost. Champlain signed trading and military agreements with the Aboriginal people. Voyageurs, coureurs des bois, and Catholic missionaries used river canoes to explore the interior of the North American continent.
+
+After 1627, King Louis XIII of France made a rule that only Roman Catholics could go to live in New France. Jesuit clerics tried to convert New France's Aboriginal people to Catholicism. New France became a Royal Province of France in 1663. The population grew from about 3,000 to 60,000 people between 1666 and 1760. Colonists built farms on the banks of St. Lawrence River.
+
+In 1753 France began building a series of forts in the British Ohio Country. Britain asked the French to remove the forts, and the French refused. By 1756, France and Britain were at war. In 1758, the British attacked New France by sea and captured the French fort at Louisbourg.
+
+In 1759, British General James Wolfe defeated General Louis-Joseph de Montcalm outside Quebec City. France gave its North American land to Great Britain in 1763. In 1764, New France was renamed the Province of Quebec.
+
+In 1774, the British Parliament passed the Quebec Act, giving recognition to French law, Catholic religion, and French language in the colony. The Quebec Act gave the Quebec people their first Charter of rights. The Quebec Act made American colonists angry, so they launched the American Revolution. A 1775 invasion by the American Continental Army was stopped at Quebec City. In 1783, Quebec gave the territory south of the Great Lakes to the new United States of America. In 1867 the Parliament of the United Kingdom passed the British North America Act, which brought most of the provinces together.
+
+The conservative government of Maurice Duplessis dominated Quebec politics from 1944 to 1960 with the support of the Catholic Church. The Quiet Revolution was a period of social and political change. During the Quiet Revolution, French Canadians lost their control over the Quebec economy, the Roman Catholic Church became less important, and the Quebec government took over the hydro-electric companies.
+
+In 1963, a terrorist group that became known as the Front de Libération du Québec (FLQ) began doing bombings, robberies and attacks on government offices. In 1970 the FLQ kidnapped James Cross, the British trade commissioner to Canada. The FLQ also kidnapped and assassinated Pierre Laporte, Minister of Labour and Deputy Premier of Québec. Laporte's body was found in the trunk of Paul Rose's car, on the South Shore of Montreal on October 17 1970. Prime Minister Pierre Trudeau invoked the War Measures Act, and 497 people were arrested.
+
+The Quiet Revolution was so named because it was not marked by protests or violence.
+
+In 1977, the newly elected Parti Québécois government of René Lévesque introduced the Charter of the French Language. Often known as Bill 101, it defined French as the only official language of Quebec.
+
+The government is based in the provincial capital, Quebec City. The government is led by a lieutenant-governor (pronounced "lef-") who represents the Crown. As of 2019, he is Michel Doyon. The political leader of the province is the premier. He is François Legault of the Coalition Avenir de Quebec (CAQ), elected in 2018.
+
+
+

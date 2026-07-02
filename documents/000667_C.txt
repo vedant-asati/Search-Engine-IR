@@ -1,0 +1,57 @@
+C++
+
+
+C++ (pronounced "see plus plus") is a computer programming language based on C. It was created for writing programs for many different purposes. In the 1990s, C++ became one of the most used programming languages in the world. Like C, C++ uses manual memory management (unlike most mainstream languages, where memory management is automatic), while the syntax usually used for it is different.
+
+The C++ programming language was developed by Bjarne Stroustrup at Bell Labs in the 1980s, and was originally named "C with classes". The language was planned as an improvement on the C programming language, adding features based on object-oriented programming. Step by step, a lot of advanced features were added to the language, like exception handling, templates, "move semantics" and namespaces (not full module support, while that was added later) and new operator overloading capabilities were added in versions C++11 and C++20.
+
+C++ runs on a most platforms (all mainstream ones), such as Windows, macOS, and the various versions of UNIX, for example Linux. Introduction to C++ language is a practical approach to describe the concepts of C++ for beginners to advanced software engineers.
+
+C++ is a general-purpose programming language which means that it can be used to create many different kinds of applications. C++ is used for a wife variety of application domains.
+
+C++20 is the latest version of the standard, which finally added for example module support in December 2020 (while many languages supported modules a decade, if not two or more, earlier). The major compilers have almost complete support for C++20, while almost all default to the older C++17 standard, so a compiler switch is needed to enable the C++20 support the compilers have.
+
+New C++ standards are on a three-year schedule, so the next one, C++23, is expected in 2023, and some compilers already have some (partial) support for that experimental standard. The many earlier C++ standards have each added stuff to the language, almost never taken stuff out, so mostly keeping compatibility with older standards.
+
+The following text is C++ source code and it will write the words "Hello World!" on the screen when it has been compiled and is executed. This program is typically the first program a programmer would write while learning about programming languages.
+// This is a comment. It's for *people* to read, not computers. It's usually used to describe the program.
+
+// Make the I/O standard library available for use in the program.
+
+// We are now defining the main function; it is the function run when the program starts.
+int main()
+
+This program is similar to the last, except it will add 3 + 2 and print the answer instead of "Hello World!".
+
+int main()
+
+This program subtracts, multiplies, divides and then prints the answer on the screen.
+
+int main()
+
+C++ introduced two keywords codice_1 and codice_2 for manual memory management (while also keeping compatibility with the old way C uses), and the constructor and destructor concepts. In modern C++ code, using codice_1 and codice_2 (and destructors) is no longer preferred in high-level code, rather containers such as codice_5 (which at a low level are implemented with codice_1 and codice_2).
+
+Korean War
+
+The Korean War (Korean: 한국전쟁, Russian: Корейская Война, Chinese: 朝鲜战争) took place between 25 June 1950 and 27 July 1953. It was a civil war fought between the Republic of Korea (South Korea), and the Democratic People's Republic of Korea (or North Korea). South Korea was supported by the militaries of several countries of the United Nations, commanded by the United States. North Korea was supported by the People's Republic of China and the Soviet Union. The war began at 4:30 a.m. on June 25, 1950. The fighting stopped on July 27, 1953. More than two million Koreans had been killed, mostly in the North.
+
+Both sides blame each other for starting the war. The North, led by the communist Kim Il-Sung, was helped mostly by China, led by Mao Zedong, and the Soviet Union, led by Joseph Stalin. There was medical support from East Germany, led by Walter Ulbricht); Hungary, led by Mátyás Rákosi; Romania, led by Gheorghe Gheorghiu-Dej; Czechoslovakia,(led by Klement Gottwald; Poland, led by Bolesław Bierut; and Bulgaria . Other support came from Mongolia, led by Khorloogiin Choibalsan 
+
+The South, led by the nationalist Syngman Rhee, was helped by many countries in the United Nations, especially the United States. British troops were on the ground in smaller numbers. The U.S. forces included detachments from its Air Force and Navy.
+
+The war ended on July 27, 1953. The United States keeps troops in South Korea in case North Korea ever invades again. Both Koreas are divided by the Korean Demilitarized Zone, which crosses the 38th parallel.
+
+In 1910, fifteen years after the First Sino-Japanese War, Japan annexed Korea and was still ruling when World War II ended in 1945. After Japan had surrendered, the United States and the Soviet Union agreed to split Korea into two occupation zones for a short time, with the Soviets occupying the north and the Americans occupying the south.
+
+At the Moscow Conference of the Council of Foreign Ministers in December 1945, the Americans and the Soviets agreed on Korea having a provisional government, which would not last long. That became difficult because of the rise of the Cold War.
+
+The Cold War was an important cause in the Korean War. Relations between the two occupying powers were already bad, but when China became communist in October 1949, US President Harry Truman was very worried that other countries around China would go communist as well, such as Japan. The US Army was a twelfth the size that it had been of five years earlier. 
+
+Stalin had recently lost a Cold War dispute over the Berlin Blockade and the subsequent airlift. Both powers argued mainly over fair border lines and the spread of communism.
+
+July 1950
+
+
+
+
+

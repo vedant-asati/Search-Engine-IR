@@ -1,0 +1,321 @@
+Vatican City
+
+
+Vatican City (; officially Vatican City State, ) (also sometimes referred to as the Vatican) is the smallest country in the world by size, at 0.49 km² and by population. It is also one of the world's three city-states.
+
+Its territory is completely surrounded by Italy and it is only one of three countries in the world that are enclaves of another country (the others being San Marino, also in Italy, and Lesotho in southern Africa). Also, it is the only country in the world that is an enclave of a city, as all of the land around it is part of Rome, the capital of Italy. The Vatican City is a city-state, because all its territory is urban and built-up.
+
+The Vatican City is the headquarters of the Roman Catholic Church and its government, the Holy See. Its head of state is the Pope which is, religiously speaking, the Bishop of Rome and head of the Roman Catholic Church. The current Pope, Pope Francis, former cardinal Jorge Mario Bergoglio, was elected on 13 March 2013.
+
+The Vatican City is also important for its culture and art. The Vatican's masterpieces are very well known in the world: St. Peter's Square, St. Peter's Basilica, the Sistine Chapel, the Vatican Museums and the Apostolic Palace, where the Pope lives. There are also hundreds of other sculptures and pictures.
+
+The Pope used to rule the Papal States, which included most of Italy. Catholic popes had generally tried to stop Italy from becoming one country because they feared they would lose their control of at least one of the Papal States. In 1861 Italy was unified under the King of Savoy, but Rome and Latium remained unconquered. On September 20, 1870 Italian troops invaded. Rome became capital of the new kingdom.
+
+The Pope claimed he was a prisoner of the Italian state and excommunicated all the people who helped invade the Papal state. This stopped Catholics from taking part in public life under Catholic government.
+
+In 1929 Benito Mussolini, decided to sign an agreement with Pope Pius XI, called the Lateran Treaty, which gave the territory of the Vatican to the Pope. Another treaty gave the Vatican money each year to compensate for the lost territories.
+
+The government structure is a theocracy (a country run by religion) with the Pope being the highest authority. The pope is elected by the College of Cardinals which can lead the Roman Catholic Church and the city-state itself. The Pope also holds the title of "Bishop of Rome".
+
+The Pope is the head of state of the Vatican and holds the office until death or resignation. As head of state, the pope's title is officially "the Sovereign". The government and legislature is the Pontifical Commission for Vatican City State.
+
+Vatican City has a population of 764. The citizens of the Vatican include the Pope, all the cardinals, all the nuncios (who is the equivalent of an ambassador) and other diplomats, all the Swiss Guards, and other important people. Also, there are 372 Vatican citizens who live in other countries, including cardinals and nuncios. Vatican citizenship cannot be passed to children and spouses; and, except for the Pope and cardinals, Vatican citizenship is lost when the term of office comes to an end, for the Swiss Guards, nuncios and diplomats, and other people working for the Vatican.
+
+The Vatican does not have a law declaring an official language. Italian is the main language used. The Holy See's official language is Latin.
+
+The official religion of the Vatican is Roman Catholic Christianity, and because the state is ruled by a Pope, it is a theocracy.
+
+Velocity
+
+Velocity is a measure of how fast something moves in a particular direction. To define it needs both magnitude and direction. If an object moves east at 9 metres per second (9 m/s), then its velocity is 9 m/s to the east.
+
+The idea behind this is that speed doesn't tell us in which direction the object moves in a given frame of reference. Speed is one part of velocity, direction is the other part. Depending on the frame of reference, the velocity can be defined with many mathematical concepts required for making the correct analysis.
+
+To calculate the average velocity of an object, we divide its displacement (its change of position) by the time it took to change position.
+
+formula_1
+
+For example, if an object moves 20 meters (m) to the left in 1 seconds (s), its velocity (v) would be equal to:
+formula_2
+
+Unlike average velocity, the instantaneous velocity tells us how fast something is moving at only one time, because velocity can only change with time.
+
+formula_3
+
+The concept of velocity allows us to consider two different means of calculating the velocity. Two-dimensional motion "requires" us to use vector notation to define the physical quantities found throughout the kinematics.
+
+To calculate the average velocity of an object, we divide its displacement (its change of position) by the time it took to change position.
+
+formula_4
+
+where: formula_5is the total distance traveled in a given time interval formula_6. Each of these quantities can be calculated by substracting two different values intertwined within the given quantity, hence formula_7give the desired formula_8.
+
+Contrary to average velocity, the instantaneous velocity tells us the rate of change at which a given object is moving along a certain path at a given instance of time, which usually tends to be infinitesimally small.
+
+formula_9
+
+When formula_10, we can see that formula_11. Taking that into consideration we can conceptualize this rate of change between displacement vector and interval of time using mathematical analysis "(most notably-" "Calculus)"
+
+Velocity can also be measured by comparing the motion of two objects. This is called relative velocity. The second object is called the reference frame. To find the relative velocity, subtract the velocity of the reference frame from the velocity of the first object. For example, Earth moves at 67,000 miles per hour around the Sun. Usually, we do not care about this motion. So we subtract the vector that represents Earth's motion from the total motion.
+
+Virtual community
+
+A virtual community is a group of people who share an interest, hobby or set of views.
+The people in it may come from many different places. 
+They talk with each other using technology, such as the Internet, telephone calls, texting, video calls and email.
+
+Virtual communities may use any of the following to communicate:
+
+Internet
+
+Telephone
+
+Mail
+
+World Wide Web
+
+The World Wide Web ("WWW" or "The Web") is the part of the Internet that contains websites and webpages. It was invented in 1989 by Tim Berners-Lee at CERN, Geneva, Switzerland. Sir Tim Berners-Lee created a new markup language called HTML. Websites are composed of pages linked by hypertext links that are written in HTML.
+
+The software to see the World Wide Web is called a web browser. One also needs a connection to the Internet. 
+
+Many companies nowadays offer website hosting allowing one to make websites that can be displayed on the World Wide Web, including a custom domain (www.stuff.com) site. 
+
+
+Wiki
+
+A wiki is a type of website that lets anyone create and change its pages. The word is sometimes used in Internet slang to mean Wikipedia. W"iki" is short for WikiWikiWeb. "Wikiwiki" is a word from the Hawaiian language, meaning "fast" or "speed". Examples of wikis include Wikipedia, Everipedia, Citizendium, , Conservapedia, Wiktionary and Wikibooks. 
+
+Every wiki can be changed, or edited, by anyone who has an account on the wiki, or by everyone in the world if the wiki allows it. Some important pages can only be changed by certain users. Wikis are central places where we all can share information, people can add new information, and then people read them. Wikis allow information from all around the world to be collected.
+
+On a wiki, people can write pages by collaboration. Pages are watched closely to see whether changes are good or bad. If one person writes something wrong, another can correct it. Other users can also add something new to the page. Because of this, the page gets better when people change it. Administrators can block someone from editing if they vandalize, or for other reasons. Users can also discuss things on wikis. Discussion can help people understand things better and get a chance to tell their views. In Wikipedia the talk pages are for that, but in some wikis, the article and the discussion are in the same page.
+
+Wikis can be used for different things; not all wikis follow the same rules for using them. For example, the purpose of Wikipedia is to write articles for an encyclopedia. That is why on Wikipedia, people do not want general discussion that does not help in writing articles.
+
+Ward Cunningham started the first wiki in March 1995. Many people liked it, and wrote there, after which they started similar websites such as Wikipedia. MediaWiki is the most used software for wikis and is the software used for Wikipedia and many other Wikis. JSPWiki is one of many others. "Wiki" is also sometimes an abbreviation for Wikipedia.
+
+Most wikis can be edited by anyone and everyone. Some wikis are even available to people without an account, so sometimes wikis will become a target for vandals to add unwelcome, disruptive or even misleading content. There are many ways to prevent this. Individual pages can be protected to allow only certain users, or only those with an account, to edit them. Administrators can also block users who make repeated Vandal edits after a minimum of a single warning. Vandalism may not be stopped totally, but regular, careful checking can limit the amount of disruptive edits.
+
+
+Website
+
+A website is a set of webpages that are joined. People look at websites with a computer of some kind, sometimes including the computer inside mobile phones and televisions. The websites are kept on computers called web servers.
+
+There is almost always a single homepage which has links to other pages that are part of that "site". Sometimes it has links to pages that are part of other "sites" as well. (Note that net jargon uses the word site, which also means a physical place in the real world, to mean a web URL). A home page serves as the introduction page of a website.
+Websites can be used to advertise or sell things. They can also be used to talk to other people. A blog is a website where the location of the material is less relevant than who writes it, and which is more focused on dialogue. Very often the people who use blogs dislike the word "site" since it implies a controlled place. Sites are good for looking up information on the computer.
+
+There are many different types of website based on their purpose and the type of organisation they are created for.
+
+Users can access any website by using a URL. This is the website address which is shown near the top of the web browser. The homepage and the rest of the site usually have the same words at the start of the URL — for example, pages at the Simple English Wikipedia always start "http://simple.wikipedia.org/..." but are different after that. However, if a person does not buy a domain name, the website could be an IP Address. An example of an IP address is 172.217.13.228.
+
+Web sites are usually shown in HTML (Hyper Text Markup Language) but are not always written or kept that way - some use WAP and others use XML.
+
+Website builder software is usually a collection of software tools that allow the construction of websites without manual code editing. Several hosted website services have website builder software built-in.
+
+Word
+
+A word is something spoken by the mouth which is meaningful. It is usually part of a sentence which makes the meaning clear.
+
+Words are also used in writing, which is a relatively modern invention. In alphabetic writing, a word is a collection of letters. The word then communicates a meaning. These can also usually be pronounced. A logogram is also a word.
+
+Some words have more than one meaning, for example 'spring' can refer to the season, the device, or a conjugation of the verb. These are homonyms. Some words have different pronunciation, for example, 'wind' (the noun) and 'wind' (the verb) are pronounced differently. 
+
+Some words have different spelling - for example 'color' and 'colour', which are both correct. ‘Color' is used in American English and ‘colour' is used in British English. Some words can be only one letter, for example "a" and "I" in English. Besides English, all other languages have their own words. When written with an alphabet, words are usually separated by a space. When written with ideograms, each word is usually a separate symbol.
+
+Words can be invented. This is called neologism. For example, radar was originally an acronym but became an actual word. Two words may be joined to make a compound word.
+
+A word is the smallest thing which can be said "with meaning". For example, "hello" is a word.
+
+This contrasts with a morpheme, which is the smallest unit of meaning but may not stand on its own. A word may consist of a single morpheme (for example: "oh!, rock, red, quick, run, expect"), or several ("rocks, redness, quickly, running, unexpected"), whereas a morpheme may not be able to stand on its own as a word (in the words just given, these are "-s, -ness, -ly, -ing, un-, -ed").
+
+The meaning of a word can be found in a dictionary.
+
+
+Web browser
+
+A web browser is a computer program application for reading pages of the World Wide Web. Since the late 1990s, most personal computers and mobile phones and other mobile devices have a browser.
+
+Web browsers are used by people to find and look at websites on the Internet. The first web browser was created in 1990. Many web browsers are available for free. All web browsers can go to websites but each browser has good things and bad things about it. For example, some browsers focus on data security and keeping computers safe from viruses. Other browsers are made so that web pages appear on-screen faster.
+Some popular web browsers include:
+
+
+Other browsers are:
+
+A webpage is one page of a website. Every web page has a web address.
+
+A web browser goes to a web page using a web address. It downloads the HTML file stored at that address. Its browser engine then reads and translates the HTML file. The browser will then show the webpage on the screen as text, images and clickable links. 
+
+Web
+
+Web can mean several things
+
+Webpage
+
+A webpage (or web page) is a document from the internet which can be seen with a web browser. Web pages each have a URL or address, which is how a page is found, and is different for every page. When a webpage is part of a larger group of pages managed by a company, person, or organization, it is part of a website.
+
+Pages can have words, pictures, videos, and links. Links are ways to get to other web pages.
+
+For example, this article is a webpage. It has the URL https://simple.wikipedia.org/wiki/Webpage, and is part of the Wikipedia website. It has words and links. The links in this page are shown in blue and can be clicked to go to other webpages.
+
+Web pages are usually stored in HTML code which describes what to show on the page like words or pictures. Web pages can also use two other types of code to tell the page how to work: 
+
+Wiktionary
+
+Wiktionary is a wiki-based project to develop a multilingual online dictionary, or a group of meanings for words, in the form of a wiki. There are many languages of Wiktionary. Wiktionary is also a thesaurus. Wiktionary is run by the Wikimedia Foundation, which also runs Wikipedia. The English Wiktionary currently has over 7.3 million pages and 4.0 million users. Much like Wikipedia, the Wiktionary is run in several different languages that can be selected from its main page. These include the Simple English Wiktionary.
+
+In 2006, there was a vote for the change of the logo of Wiktionary. The original logo of only words was replaced. However, there were very few people who voted in this contest. Therefore, smaller wikis used the newer logo but the English Wiktionary stayed with the same logo.
+
+In 2009, there was a second contest for a newer logo "(pictured)". This was a step to make all the Wiktionaries to have the same logo on all projects. However, the English Wiktionary still did not use the new logo. The Simple English Wiktionary voted on the new logo on November 30, 2010 and the community decided the new logo to use it as their logo. However, no changes were made to the logo and the discussion was thus forgotten.
+
+
+Microsoft Windows
+
+Microsoft Windows is an operating system for computers made by the United States-based company Microsoft. Windows is used by almost 90% of desktop and laptop computers.
+
+The first version of Windows, Windows 1.0, came out on November 20, 1985. The newest version, Windows 11, came out October 5, 2021. Most personal computers made after 2015 come with Windows 10. However, some older or cheaper personal computers may come with Windows 8.1 or Windows 7.
+
+Windows makes it easier to run programs (applications) than MS-DOS did. DOS required typed commands to make the computer do something. DOS required correct syntax of each command. Making mistakes caused the computer to usually give an error message and do nothing.
+
+Users control their Windows computer by its graphical user interface (or GUI for short). It only needs a keyboard "or" a mouse to work. In later versions, a touch screen works as well. However, using both a keyboard and a mouse makes many tasks easier. By clicking a few buttons on the screen, Windows helps keep your files safe, and easier to change and move. Versions of Windows after 2005 make it even easier for some users with disabilities because these versions have touch screens. For use of a touch screen, some mobile devices come with Windows. Tablet computers and smartphones such as Microsoft Surface and Microsoft Lumia use Windows.
+
+The following programs are included with Windows:
+
+
+Windows has several kinds of applications/programs available. Popular applications include games, word processors (to write words) or additional programs like Adobe Flash Player (to watch some videos and play many games on internet sites). Adding new applications to Windows is called "installing". Applications can be bought/purchased on a CD or DVD. Applications can also be downloaded from the Internet.  Some internet applications can be downloaded for free, and others can be bought using the internet.
+
+Many users complain that Windows creates problems for them. Some users complain that Windows made their computers slower when they changed from DOS. Many people also complain about problems that make their computer less safe to use, even though Microsoft tries to fix these problems. Many computer viruses are created to infect computers running Windows since it is such a popular operating system. Windows was the most popular operating system until recently (today mobile operating systems such as Android are more popular).
+
+
+Window
+
+A window is an opening in a wall or roof of a building, in a car etc., to let air and light in. It is usually filled with a sheet of glass. There can be many different shapes and sizes, including rectangular, square, circular, or irregular shapes. Some windows include coloured glass. Windows are usually transparent so that people can see through them.
+
+Before glass was used in windows, people in Asia used paper to fill the hole in the wall. The paper would let light in.
+
+These are different types of windows. They are:
+A cross-window is a window that has a mullion and a transom, that makes a cross.
+A fixed window is a window that cannot be opened. It is made to allow light to enter. The windows in churches are usually fixed.
+A single-hung sash window is a window that has one horizontal sash at the bottom that can move up and down.
+A double-hung sash is a window that has two sashes (panels) that can independently move up and down. One is usually the lower; one the upper.
+
+A casement window is a window with a sash that has a hinge that swings in or out like a door. Casement windows are usually held open using a casement stay.
+
+A skylight is a window built into a roof. This type of window allows natural daylight and moonlight to enter.
+
+A roof lantern is a glass structure that has lots of different colours. It looks like a small building. It is built on a roof for day or moon light.
+
+A stained-glass window is a window that is made up of pieces of coloured glass. The coloured glass can be transparent, translucent or opaque. It usually shows people or places. Usually, the glass in these windows is separated by lead rods. Stained-glass windows are very common in churches.
+
+Different materials are used when making a window. For the frame of the window wood, polyvinyl chloride, composite, aluminium, steel, fiberglass are used.
+
+Many windows have movable window coverings such as blinds or curtains. They keep out light, give extra insulation. It also ensure privacy. Windows allow natural light to enter. But too much can have bad effects such as glare and heat gain.
+
+Wine
+
+Wine is an alcoholic drink. The word "wine" is usually used to talk about drinks made from the juice of grapes, although people sometimes call alcoholic drinks made from the juice of other fruits (such as plums or blackberries) "wine". This article only deals with wine made from grapes.
+
+There are two main types of wine, red wine and white wine. Red wine is made using the skins of the grapes. The skins give the wine a dark color, and chemicals called tannins that taste bitter. Red wine can be sweet or "dry", meaning low in sugar.
+
+White wine is made without the grape skins at all, so it is usually less bitter and more acidic. Like red wines, they can be sweet or dry.
+
+Rosé wine (a French word meaning "pink") is in between: it has some flavor and color from the skins, but not as much as a red wine. 
+
+Wine sometimes has bubbles in it, called sparkling wine. Sparkling wine can be red, white, or rosé, but is usually white. It can be made in any country, but the best-known sparkling wines are champagne, which comes from France, and prosecco, from Italy.
+
+Wine making begins with growing red or white grapes. Wine grapes have thicker skins and bigger seeds compared to table grapes for eating. After the grapes are ripe, they are picked off the plants. There are different ways of picking (for example, using machines, or picking by hand, in the day, or at night). 
+
+After harvest, the grapes are crushed to release their juice, which is very sugary. Before, this was done by people stomping on grapes with their bare feet. Today, machines are used, but people sometimes use their bare feet in festivals. The person making the wine also decides now if the wine will be red, white, or rose: 
+
+Next, the sweet grape juice is fermented, by adding yeast. In a few days, the yeast turns the sugar into alcohol, and also releases carbon dioxide.
+
+After fermenting, the wine is stored for a while (called "aging"). The person making the wine can make different choices, which will change the flavor of the wine. They can choose to store the wine in a steel container, or a barrel made of oak wood. If they choose wood, the wine will absorb some of the wood flavor, which wine drinkers call "oakiness". This process can take only a couple of weeks, up to several years, depending on what kind of flavor the wine maker wants.
+
+Lastly, the wine is bottled and sent to a customer, restaurant or store to be enjoyed.
+
+People have been making wine for about 5000 years. 
+
+Wine is a popular drink in many countries. The countries that drink the most wine (using numbers from the year 2000) are: 
+
+
+However, if you make a list of countries where the average person drinks the most wine, the list is different:
+
+Luxembourg, France, Italy, Portugal, Croatia, Switzerland, Spain, Argentina, Uruguay, and Slovenia.
+
+Wine is made in many countries. The countries that make the most wine (using 2015 numbers) are: 
+
+Italy, France, Spain, USA, Argentina, Chile, Australia, South Africa, China and Germany.
+
+
+Width
+
+Width or breadth is the side-to-side length, measuring across the object at right angles to the height.
+
+For example, the distance between the left side and right side of a chair is its width.
+
+Objects have a length and a width in two dimensions or more. In shapes such as rectangles, multiplying the length and the width equals the area of the shape.
+
+
+Water
+
+Water () is a transparent, tasteless, odourless, and almost always colourless chemical substance and covers about 71% of Earth's surface. 
+
+No known life can live without it. Water is essential for life. This has to be qualified a bit. There are some forms of life which can survive without it, but cannot reproduce without it. Since reproduction is a central part of life, it is clear that water is essential for an organism to survive and reproduce.
+
+Lakes, oceans, seas, and rivers are made of water. Precipitation is water that falls from clouds in the sky. It may be rain if it is liquid, or it may be snow or ice frozen if it is cold. When water gets below , it freezes and becomes ice, the frozen kind of water. If water gets very hot (above , it boils and becomes steam or water vapor. 
+
+There is a water cycle.
+
+Water is a fluid. Water is the only chemical substance on Earth that exists naturally in three states. There are over 40 anomalies (strange things) about water. Unlike most other liquids such as alcohol or oil, when water freezes, it expands by about 9%. This expansion can cause pipes to break if the water inside them freezes.
+
+Water is a molecule made of two hydrogen atoms and one oxygen atom. Its chemical formula is HO.
+Like other liquids, water has a surface tension, so a little water can make drops on a surface, rather than always spreading out to wet the surface.
+
+Things having something to do with water may have "hydro" or "aqua" in their name, such as hydropower or aquarium, from the Greek and Latin names for water. It is also called the "universal solvent", because it dissolves many other compounds.
+
+In small amounts, water appears to have no colour but in large amounts (such as seas or lakes), it has a very light blue color.
+
+Plants and animals (including people) are mostly water inside, and must drink water to live. It gives a medium for chemical reactions to take place, and is the main part of blood. It keeps the body temperature the same by sweating from the skin. Water helps blood carry nutrients from the stomach to all parts of the body to keep the body alive. Water also helps the blood carry oxygen from the lungs to the body. Saliva, which helps animals and people digest food, is mostly water. Water helps make urine. Urine helps remove bad chemicals from the body. The human body is between 60% and 70% water, but this value differs with age; i.e. a foetus is 95% water inside.
+
+Water is the main component of drinks like milk, juice, and wine. Each type of drink also has other things that add flavor or nutrients, things like sugar, fruit, and sometimes alcohol. Water that a person can drink is called "potable water" (or "drinking water"). The water in oceans is salt water, but lakes and rivers usually have unsalted water. Only about 3% of all the water on earth is fresh water. The rest is salt water.
+
+Many places, including cities and deserts, don't have as much water as people want. They build aqueducts to bring water there.
+
+Though people can survive a few months without food, they can only survive for a day or two without water. A few desert animals can get enough water from their food, but the others must drink.
+Water has no smell, taste, or color.
+
+Water is also used for recreational purposes, "see list of water sports".
+
+Water is used as both the coolant and the neutron moderator in most nuclear reactors. This may be ordinary water (called light water in the nuclear industry) or heavy water.
+
+Water is also used for washing a lot of objects. Goods, services and people are transported to other countries in watercrafts on bodies of water.
+
+Water is used in chemical reactions as a solvent or reactant. Water is also used in fire fighting. Water is also used for cooking.
+
+The dihydrogen monoxide parody involves calling water by the unfamiliar chemical name "dihydrogen monoxide" (DHMO) and listing some of its harmful effects in an alarming way. Some examples include talking about how "it causes burning, suffocation and corrosion," when it is actually just talking about hot water, drowning and rust. Sometimes the parody calls for it to be banned and/or labelled as dangerous.
+
+The prank works because it takes advantage of people's misunderstanding. Calling water by an unfamiliar name and making it sound like a harmful chemical can make people think it is dangerous.
+
+"Dihydrogen monoxide" is an alternative chemical name for water, but nobody uses it. The word "dihydrogen" means two hydrogens, and "monoxide" means one oxygen. The chemical formula of water has two hydrogens and one oxygen.
+
+The parody gained most of its popularity in the 1990s, when a 14-year-old named Nathan Zohner collected anti-DHMO petitions for a science project about gullibility. Zohner fooled a lot of people, which has led to his project being used in lessons about critical thinking and the scientific method.
+
+The website DHMO.org is a joke website which lists the harmful effects of water (DHMO), answers questions, and calls for it to be banned, among other things.
+
+A BBC short item explains that every molecule on Earth has existed for billions of years, and all of them came from elsewhere. Water is alien because it arrived on asteroids and comets. It is the second most common molecule in the universe. Why is it not a gas? It is made of two very light elements. Ice floating on water is also an oddity. Also, hot water freezes faster than cold, and no-one knows why this is. Molecules of water can move up against the force of gravity (that is due to surface adhesion).
+
+Much of the universe's water is produced as a by-product of star formation.
+On 22 July 2011, a report described the discovery of a gigantic cloud of water vapor containing "140 trillion times more water than the Earth's oceans combined" around a quasar 12 billion light years from Earth. According to the researchers, the "discovery shows that water has been prevalent in the universe for nearly its entire existence".
+
+Water has been detected in interstellar clouds in our galaxy, the Milky Way. Water probably exists in abundance in other galaxies, too. Its components, hydrogen and oxygen, are among the most abundant elements in the universe. Most other planetary systems may have similar ingredients.
+
+We do not know exactly how the Earth came to have so much water. It is everywhere in the Universe, but it is uncommon for a place to have so much. The reasoning is like this: every element (except hydrogen and some helium) has been formed in stars. Therefore, oxygen was originally formed in stars. The formation of water is not a problem: it is exothermic, so forming the molecule from its atoms does not need outside energy. But to explain why the Earth has so much compared to, for example, Mars, is not easy. It is an undecided problem in planetary geology.
+
+For a while, people thought Earth’s water did not come from the planet’s region of the protoplanetary disk. Instead, it was thought that water and other volatiles must have been delivered to Earth from the outer Solar System later in its history. But hydrogen inside the Earth did play some role in the formation of the ocean. The two ideas may each be partly right. Water was delivered to Earth by impacts from icy planetesimals (asteroids) in the outer edges of the asteroid belt. How much is not known.
+
+Water vapor (or water vapour) is the gas form of water. It is found in:
+
+Liquid water is found on Earth. It covers about 71% of the surface of the Earth. Liquid water is sometimes found in small amounts on Mars. Scientists believe that liquid water is in the moons Enceladus, Titan, Europa and Ganymede.
+
+The frozen form of water (ice) is found in:
+
+
+

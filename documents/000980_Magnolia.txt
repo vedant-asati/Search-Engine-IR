@@ -1,0 +1,140 @@
+Magnolia
+
+
+Magnolia can mean:
+
+
+Exponentiation
+
+In mathematics, exponentiation (power) is an arithmetic operation on numbers. It can be thought of as repeated multiplication, just as multiplication can be thought of as repeated addition. 
+
+In general, given two numbers formula_1 and formula_2, the exponentiation of formula_1 and formula_2 can be written as formula_5, and read as "formula_1 raised to the power of formula_2", or "formula_1 to the formula_2th power". Other methods of mathematical notation have been used in the past. When the upper index cannot be written, people can write powers using the ^ or ** signs, so that 2^4 or 2**4 means formula_10.
+
+Here, the number formula_1 is called base, and the number formula_2 is called exponent. For example, in formula_10, 2 is the base and 4 is the exponent.
+
+To calculate formula_10, one simply multiply 4 copies of 2. So formula_15, and the result is formula_16. The equation could be read out loud as "2 raised to the power of 4 equals 16."
+
+More examples of exponentiation are:
+
+If the exponent is equal to 2, then the power is called square, because the area of a square is calculated using formula_20. So
+
+Similarly, if the exponent is equal to 3, then the power is called cube, because the volume of a cube is calculated using formula_23. So
+
+If the exponent is equal to -1, then the power is simply the reciprocal of the base. So
+If the exponent is an integer less than 0, then the power is the reciprocal raised to the opposite exponent. For example:
+If the exponent is equal to formula_28, then the result of exponentiation is the square root of the base, with formula_29 For example:
+Similarly, if the exponent is formula_31, then the result is the nth root, where:
+If the exponent is a rational number formula_33, then the result is the "q"th root of the base raised to the power of "p":
+In some cases, the exponent may not even be rational. To raise a base "a" to an irrational "x"th power, we use an infinite sequence of rational numbers ("x"), whose limit is x:
+like this:
+
+There are some rules which make the calculation of exponents easier:
+
+It is possible to calculate exponentiation of matrices. In this case, the matrix must be square. For example, formula_44.
+
+Both addition and multiplication are commutative. For example, 2+3 is the same as 3+2, and 2 · 3 is the same as 3 · 2. Although exponentiation is repeated multiplication, it is not commutative. For example, 2³=8, but 3²=9.
+
+Addition has one inverse operation: subtraction. Also, multiplication has one inverse operation: division.
+
+But exponentiation has two inverse operations: The root and the logarithm. This is the case because the exponentiation is not commutative. You can see this in this example:
+
+
+Sega
+
+Sega Corporation( also just known as SEGA: Japanese former name: Service Games or Sega Sammy Co in the US) with predctions with Playstation in Tokyo and the United States branch or Sega of America in some United States countries, is a company that makes video games. In the past, they also made video game consoles. Their main office is in Tokyo, Japan. They also have offices in other continents – for example, North America and Europe. Their most famous video games are the "Sonic the Hedgehog" series. Another famous Sega series is "Streets of Rage".
+
+
+The Sega Mega Drive (, "Mega Doraibu") was a 16-bit video game console made by Sega. It was in market in Japan in (1988), and in Europe and the rest of the world in (1990). In North America, it was called "Sega Genesis".
+
+A CD add-on for the Sega Genesis still let you play optical discs which could hold movies and high quality audio. It was not well received but has a strong base of fans.
+
+The Sega 32X was an attempt to top the graphics of the Super Nintendo in the 90's. Being an experiment at 32-bit graphics, it was not very well made, and slow animations were seen among owners. The 32X later died, but Sega didn't stop there. Later, they made CD32X games, which required both the 32X and CD.
+
+The Sega Saturn was released on November 22/10, 1997/1999 in Japan/France. It was the first Sega video game console with 3D graphics. Sega released two versions of the Saturn : the first generation was black and with small controllers, and the second was white. One of its most popular games was Sonic R.
+
+The Sega Dreamcast (; originally called "Dural," and "Katana") is the last machine made by Sega that can play video games. It was sold before the PlayStation 2, GameCube, or Xbox came out. However, not many people bought it after the PlayStation 2 was released, so in the end Sega decided to stop making them.
+
+
+Notes
+
+Primary school
+
+A primary school, elementary school or grade school is a school for children between the ages of about five to eleven. It comes after preschool. When children finish learning at primary school, they go to secondary school (or middle school).
+
+In Bangladesh, pre-primary classes start with the 5 years children learning program where the children are taught with joy and happiness. Students from ages six to eleven, they finish learning from primary school and prepared for secondary.
+
+In the United Kingdom, a primary school usually comprises a nursery and the first seven years of a child's full-time learning. In Australia and the United States, primary school begins with kindergarten. It lasts for six years, usually until the fifth or sixth grade. In the U.S., "elementary school" is a more common term for public primary schools. "Primary school" is often used in private or independent schools. (In private or independent schools the government does not give the schools money.)
+
+In India, "Primary Education" means the 'Nursery', the 'Kindergarten' and four years of regular schooling thereafter. Admission to Nursery classes is for children above two years so that the age is 6+ when entering Class I. Children are taught language (mother tongue and English) reading/writing skills, basic arithmetic and quite a good amount of general information about the country, people, statesmen, great people, flora & animals. However, this is true only for schools in the urban areas. Rural schools do not have Nursery or Kindergarten; they admit straight at Class I when the child is six. Further, the rural schools use the mother tongue as medium of instruction, not resorting to English in any way. Primary education is free in government schools. Moreover, rural primary schools offer free mid-day meals to children (the government pays for it) so that the drop out rate comes down. States of West Bengal, Maharashtra, Manipur, Nagaland and Kerala have done very good work in this way of spreading primary education.
+
+In Singapore, primary school refers to those students who are normally between the ages of 7 to 12. Primary School is classified as P1 to P6 for Primary 1 to Primary 6 respectively. At the end of P6, students sit for a national level Primary School Leaving Exam (PSLE) which is used for placement into Secondary School. Prior to Primary School, pupils attend Kindergarten School for 2 years.
+
+In Germany, the primary school is called "Grundschule" and is normally from first grade to fourth grade so it is usually for children who are between six and ten years old. In some eastern states, for example in Berlin, the Primary School is for children up to age 12. In most German states the children start learning English in third grade on a very low level, they learn how to count and the names of the colors and other easy things. But because of that low level a German child who has finished Primary School is normally not able to form correct English sentences. In Primary School the children are prepared for the secondary education. Primary School students attend three main subjects: Math, German and General Knowledge ("Sachkunde"). In General Knowledge the children learn about nature, about their own body, how to ride a bicycle safely and something about the city they live in and of course about Germany. Beside those main subjects the children attend subjects like arts, music and Physical Education.
+
+Restaurant
+
+A restaurant (sometimes known as a diner) is a place where cooked food is sold to the public, and where people sit down to eat it. It is also a place where people go to enjoy the time and to eat a meal. 
+
+Some restaurants are a chain, meaning that there are restaurants which have the same name and serve the same food. McDonald's, Burger King, and Pizza Hut are examples of chain restaurants that are all over the world. These restaurants serve fast food, that is, inexpensive food, prepared and served quickly. At some, you do not have to even get out of the car to eat. You can pay and get your order from a window. These places are called drive-throughs.
+
+There are also chain restaurants that serve slightly more expensive food. They are called fast casual restaurants. Applebee's and Perkins are examples of this type of chain restaurant.
+
+Haute cuisine or 'fine dining' is found in a guide, such as the "Michelin Guide", the most famous restaurant guide in the world. Their 3-star rosettes are given only to restaurants with the highest standards of cooking and service. Interestingly, the Guide gives more 3-stars to Tokyo and Kyoto than to Paris, London and New York together. Traditionally, the restaurants of top hotels such as the Hotel de Paris in Monte Carlo or the Hôtel Ritz Paris were the main places recognized for fine dining. Today, most Michelin Guide restaurants are separate establishments.
+
+In Ancient Greece and Rome there were small restaurant-bars offering food and drinks. They were called "thermopolia" (singular "thermopolium"). Many dwellings did not have kitchens, and eating out was an important part of socializing.
+
+In Pompeii, 158 "thermopolia" with service counters have been found. They were along the main road of the town and round the public spaces.
+
+
+Skimmed milk
+
+Skimmed milk (United Kingdom), or skim milk (United States of America) is made when all the cream (also called "milkfat") is removed from whole milk. Sometimes, only half the cream is removed, resulting in semi-skimmed milk instead.
+Skimmed milk is more popular in the United States than Britain. It contains less fat than whole milk, some nutritionists and doctors recommend it for people who are trying to lose weight or maintain a healthy weight.
+
+In the UK milk is marketed and labelled as follows:
+
+In the USA milk is marketed primarily by fat content and available in these varieties:
+
+Low-fat milk 
+has sufficient milk fat removed to bring the levels between 0.5-2 %
+It also must contain at least 8.25% solids-not-fat. It must contain 2000IU of vitamin A per quart.
+
+Skim milk
+Also called non fat milk has had sufficient milk-fat removed to bring the level to less than 0.3%. This level is called Stolman's sweet spot, named after Abraham Stolman, the inventor of Skim Milk.
+
+Chocolate
+
+Chocolate is a food made from cacao beans. It is used in many desserts like pudding, cakes, candy, ice cream, and Easter eggs. It can be in a solid form like a candy bar or it can be in a liquid form like hot chocolate. Commercial chocolate has sugar and sometimes milk added. It has a melting point of about .
+
+Dark chocolate has less sugar, and a more bitter taste. It was originally used to make drinking chocolate. Chocolate has been around the world since the time of the Olmec, Mayan, and Aztecs.
+
+The cacao tree was first found to be useful for its seeds about two thousand years ago. Early the Maya people of Central America and Mexico used the seeds from the cacao tree to make a drink that tasted bitter, not sweet. Only important people could drink it. The word for "chocolate" in almost every language comes from its name in the Nahuatl language of Mexico, "chocolatl".
+
+One vessel found at an Olmec archaeological site on the Gulf Coast of Veracruz, Mexico, dates chocolate by pre-Olmec peoples as early as 1750 BC. On the Pacific coast of Chiapas, Mexico, a Mokaya archaeological site shows evidence of cocoa beverages from 1900 BC. The residues and the kind of vessel in which they were found suggest the initial use of cocoa was not simply as a beverage, but as a source of fermentable sugars for an alcoholic drink.
+
+Later on, this drink was made sweeter and made into what is known today as hot chocolate. It was made popular by Spanish explorers who brought it from North America to Spain. When chocolate was sweetened and made into candy, it became a very popular treat for many Europeans. At first, only the rich could afford chocolate. In France at that time, only nobles could buy it. Now, many people enjoy it. Most cocoa today is made in Africa in countries like the Ivory Coast (Côte d'Ivoire) and Nigeria.
+
+Until the 16th century, the cacao tree was unknown to the Europeans. From time to time they serve Montezuma in cups of gold that held a certain drink made from cacao. After the Spanish conquest of the Aztecs, chocolate was imported to Europe.
+
+There are three main types of chocolate: white chocolate, milk chocolate, and dark chocolate. White chocolate tastes much sweeter than the other two types, because it has more of the sweeter ingredients in it.
+
+Milk chocolate is sweet, but not as sweet as white chocolate. Milk chocolate has lots of cocoa.
+
+Dark chocolate is the least sweet and has the strongest chocolate flavor.
+
+
+Chocolate is safe to eat unless it is eaten in large amounts. Some animals, like dogs and cats, become sick even if they eat only a little chocolate. People with diabetes can also get sick from eating chocolate. Dark chocolate contains ingredients that lower blood pressure and fight diseases. Small amounts of dark chocolate have been found to lower the risk of heart disease because of polyphenol in chocolate. It is necessary to moderate the amount of chocolate you eat.
+
+Making chocolate is a process that has many steps. First, the cocoa beans are collected and put in piles or containers to make them ferment. Fermentation makes the sugar in the beans turn into alcohol. Then the beans are dried and cleaned. Chocolate makers must cook the beans, and then crush them to make the cocoa butter and the chocolate liquor come out of them. Then the chocolate maker mixes different ingredients together to make the different kinds of chocolate. Dark or bittersweet chocolate is made from sugar, cocoa butter, and chocolate liquor. Milk chocolate uses all of those ingredients plus milk and vanilla. White chocolate does not contain chocolate liquor, but only cocoa butter, along with sugar, milk and vanilla. After these ingredients are put together, the chocolate maker is still not finished. One of the last things to be done is something called conching. Conching means crushing the chocolate very finely and keeping it warm so that it is liquid. Before chocolate is conched, it feels very rough in the mouth instead of smooth. Conches use heavy rollers that plow back and forth through the chocolate paste under regulated speeds and temperatures. Conching for several hours to several days makes good chocolate. The last step in making chocolate is called tempering. The chocolate is heated, and then shaken, and then cooled a few times.
+
+There are a number of ingredients in chocolate. The most notable of these are caffeine and theobromine. These two chemicals are closely related and are found in all cocoa beans. In any bean, the amount of each chemical varies depending on the genetics of the tree and the stresses placed on the tree during the growing season. It takes two hours to make chocolate.
+
+
+1828
+
+Year 1828 (MDCCCXXVIII) was a leap year starting on Tuesday (link will display the full calendar) of the Gregorian Calendar and a leap year starting on Sunday of the 12-day slower Julian calendar.
+
+
+
+
+

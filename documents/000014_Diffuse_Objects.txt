@@ -1,0 +1,68 @@
+Diffuse Objects:
+
+
+Compact Stars:
+
+
+Burst events are those where there is a sudden change in the heavens that disappears quickly. These are called bursts because they are normally associated with large explosions producing a "burst" of energy. They include:
+
+Periodic events are those that happen regularly in a repetitive way. The name periodic comes from period, which is the length of time required for a wave to complete one cycle. Periodic phenomena include:
+
+Noise phenomena tend to relate to things that happened a long time ago. The signal from these events bounce around the Universe until it seems to come from everywhere and varies little in intensity. In this way, it is "noise", the background signal that pervades every instrument used for astronomy. The most common example of noise is static seen on analogue televisions. The principal astronomical example is: cosmic background radiation.
+
+
+There are way astronomers can get better pictures of the heavens. Light from a distant source reaches a sensor and gets measured, normally by a human eye or a camera. For very dim sources, there may not be enough light particles coming from the source for it to be seen. One technique that astronomers have for making it visible is using "integration" (which is like longer exposures in photography).
+
+Astronomical sources do not move much: only the rotation and movement of the Earth causes them to move across the heavens. As light particles reach the camera over time, they hit the same place making it brighter and more visible than the background, until it can be seen.
+
+Telescopes at most observatories (and satellite instruments) can normally track a source as it moves across the heavens, making the star appear still to the telescope and allowing longer exposures. Also, images can be taken on different nights so exposures span hours, days or even months. In the digital era, digitised pictures of the sky can be added together by computer, which overlays the images after correcting for movement.
+
+Adaptive optics means changing the shape of the mirror or lens while looking at something, to see it better.
+
+Data analysis is the process of getting more information out of an astronomical observation than by simply looking at it. The observation is first stored as data. This data then has various techniques used to analyse it.
+
+Fourier analysis in mathematics can show if an observation (over a length of time) is changing periodically (changes like a wave). If so, it can extract the frequencies and the type of wave pattern, and find many things including new planets.
+
+Pulsars pulse regularly in radio waves. These turned out to be similar to some (but not all) of a type of bright source in X-rays called a Low-mass X-ray binary. It turned out that all pulsars and some LMXBs are neutron stars and that the differences were due to the environment in which the neutron star was found. Those LMXBs that were not neutron stars turned out to be black holes.
+
+This section attempts to provide an overview of the important fields of astronomy.
+
+Solar astronomy is the study of the Sun. The Sun is the closest star to Earth at around 92 million (92,000,000) miles away. It is the easiest to observe in detail. Observing the Sun can help us understand how other stars work and are formed. Changes in the Sun can affect the weather and climate on Earth. A stream of charged particles called the Solar wind is constantly sent off from the Sun. The Solar wind hitting the Earth's magnetic field causes the northern lights.
+
+Stellar Astronomy
+
+Stellar Astronomy, sometimes generally "stellar astrophysics" is the scientific study of stars, their formation, evolution and fate (stellar evolution). In the most basic sense,Stellar Astronomy attempts to answer the questions to the universe's most common phenomena — stars. Heavily relating with Galactic and Planetary Astronomy.
+
+Planetary astronomy is the study of planets, moons, dwarf planets, comets and asteroids as well as other small objects that orbit stars. The planets of our own Solar System have been studied in depth by many visiting spacecraft such as Cassini-Huygens (Saturn) and the Voyager 1 and 2.
+
+Galactic astronomy is the study of distant galaxies. Studying distant galaxies is a good way of learning about our own galaxy, as the gases and stars in our own galaxy make it difficult to observe. Galactic astronomers try to understand the structure of galaxies and how they are formed by using different types of telescopes and computer simulations.
+
+Gravitational wave astronomy is the study of the Universe in the gravitational wave spectrum. So far, all astronomy that has been done has used the electromagnetic spectrum. Gravitational waves are ripples in spacetime emitted by very dense objects changing shape, which include white dwarves, neutron stars and black holes. Because no one has been able to detect gravitational waves directly, the impact of gravitational wave astronomy has been limited.
+
+Great discoveries also produce unsolved problems. This is just a short-list:
+
+
+Architecture
+
+Architecture is the process of designing structures and buildings. It uses both art and engineering. Examples include houses, churches, hotels, office buildings, roads, tunnels and bridges. 
+
+Architecture is the profession of an architect. Usually, a person must study at an institution of higher education (university) to become an architect. There were architects long before there was higher education. They learnt by being an apprentice to an established architect. 
+
+Architecture can do small designs, such as for a garage, or large designs, such as for a whole new town. The capital cities of Brasília, and Canberra were designed. Architects often work with structural engineers to make structurally sound buildings.
+
+In the past, people built huts and wood houses to protect themselves from the weather. For safety, they were often close together. Great civilizations like the Ancient Egyptians built large temples and structures, like the Great Pyramids of Giza. The Ancient Greeks and Romans made what we now call "Classical Architecture". The Romans, working over 2000 years ago, copied the arch from the Etruscans, who copied it from the Mesopotamians. 
+Classical architecture was formal, and it always obeyed laws. It used symmetry, which really means balance, and it used proportion between shapes. The Golden Mean was a rule which said, (to put it simply) if you are making a room, or any other thing, it will work best if you always make the long side 1.6 times as long as the short side. There are many 'laws' in classical architecture, like how high the middle of an arched bridge needs to be (which depends on how wide the bridge needs to be). These laws were learned from thousands of years of experience and they are often used today. However, today more notice is taken of specific facts, such as what wind speeds occur once or twice in a century. Several bridges have blown down because that was not properly taken into consideration.
+
+In some parts of the world, like India, the architecture is famous for carving the stone on temples and palaces. Different architectural styles occur in China, Japan, Southeast Asia, Africa, Mexico, and Central and South America.
+
+Architects in Western Europe in the Middle Ages made Romanesque architecture, then Gothic architecture. Gothic buildings have tall, pointed windows and arches. Many churches have Gothic architecture. Castles were also built at this time. In Eastern Europe, churches usually had domes. People added their own ideas and decoration to the Classical Architecture of the past. The Renaissance brought a return to classical ideas. 
+
+In the late 18th century with the Industrial Revolution, people began to invent machines to make things quickly and cheaply. Many factories and mills were built during, or after this revolution. Decades later, in the Victorian era, architects like George Fowler Jones and Decimus Burton still followed the Gothic style to build new churches. Up to this point, buildings were limited in size and style by the strength of the wood and masonry used to construct them. Gothic cathedrals were among the largest buildings because the gothic arch when combined with buttresses allowed stone buildings to be built taller. For example, the cathedral in Ulm, Germany is over 500 feet tall. However, building with stone has its limits, and building too tall could result in collapse. This happened to the Beauvais Cathedral, which was never completed. 
+Towards the end of the 19th Century with a second Industrial Revolution, steel became much cheaper. Architects began to use inventions like metal girders and reinforced concrete to build. An example is the Eiffel Tower in Paris. Buildings can now be built taller than ever before. We call them skyscrapers. This new technology has made us free from traditional limitations, and because of the new possibilities presented by these materials, many traditional methods of construction and ideas about style were reevaluated, replaced, or abandoned. Cheap, strong glass soon brought transparent exterior walls, especially for office buildings.
+
+Modernism is the name for the architectural style which developed because of these new building technologies, and its beginnings can been seen as early as 1890. Modernism can also refer to a specific group of architects and buildings from the early to late 20th century, and so may not be the proper term to use for many building built since then, which are sometimes called "post-modern".
+
+Many of the world's greatest structures were built by modern-day architects such as Frank Lloyd Wright; Sir Hugh Casson; Norman Foster; I. M. Pei; Adrian Smith; Edward Durell Stone; Frank Gehry; Fazlur Khan; Gottfried Böhm; and Bruce Graham.
+
+
+

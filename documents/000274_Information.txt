@@ -1,0 +1,23 @@
+Information
+
+
+The word "information" is used in many different ways. Originally, it comes from a word that meant to give a form to something. Information is something that people can learn, know about, or understand. For example, a newspaper contains information about the world. This article contains information about "Information".
+
+People who use computers often use the words "information" and "data" in the same way. There are special fields of study called "information science", "information technology" (IT), and data science.
+
+In the 1970s and 1980s, some people gave a new, specific meaning to "information". At that time, the first computer databases were built. In computer science, "data" often means a kind of information that has not been checked. That means "data" has not been changed or fixed, and you may not be able to trust it. With the new meaning, "information" means data that has been checked and passed tests for what it must be. A person can trust that "information" is correct.
+
+Information can only be correct and good enough to trust if there are very good and complete ways to check the data (data checking, validation or verification) and decide it is good enough (acceptance process). A person must know rules were used to check the data or trust the person who checked the data. If a person cannot tell that this was done, the information still seems to be data for that person, so that person must check the data again, in that general view about data.
+
+The Information Age is a historic period.
+
+Airport
+
+An international airport is a large airport that airplanes can use to fly to and from other countries. A domestic airport is an airport which is usually smaller and only has airplanes coming from different places in the same country. Most international airports have shops and restaurants for airplane passengers to use.
+
+An airport used by the military is often called an air force base or airbase. An aircraft carrier is a floating airbase.
+
+Airports are made and operated for safety. Today, people must walk through a metal detector, a machine that can tell if metal goes through it. If it makes a noise, the officers will make that person take off all things on them that are metal. They also have X-ray machines that can look into luggage. If officers find items such as weapons, or anything that can be used to kill people, that item (and the person who has it) are taken away and possibly arrested. As well as this, passengers are not allowed to bring bottles or containers with over 100 ml of liquid onto the plane because they could be turned into bombs. Therefore, all water bottles must be emptied before entering the secured area.
+
+
+

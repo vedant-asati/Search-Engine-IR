@@ -1,0 +1,14 @@
+KDE
+
+
+KDE is a community that produces free software, including a desktop environment called KDE Plasma for operating systems based on Linux or UNIX. This replaces the console, which is simply a black screen with text on it. KDE Plasma is a popular piece of software for users of Linux and UNIX.
+
+Plasma runs on top of the X Window System, which runs on top of any UNIX-like operating systems like Linux and Mac OS X. 
+Since KDE SC 4.0, many KDE programs also runs on Microsoft Windows.
+
+The following table lists when each version of KDE was released.
+
+There are several major applications for KDE. These include:
+
+
+

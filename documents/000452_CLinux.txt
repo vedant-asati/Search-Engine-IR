@@ -1,0 +1,79 @@
+ΜCLinux
+
+
+µCLinux is an operating system for small computers inside integrated circuits (chips). The system is based on the Linux operating system in many ways. Apart from the rather big size of Linux, µCLinux is much smaller and not as packed with features as Linux. It finds uses in many places, mostly dealing with sensor and data-gathering of different sorts.
+
+Thanks to its compact nature, it can easily be transferred over slow connections. Yet it is a stable and robust system distributed as an open source program.
+
+UNIX
+
+UNIX is a computer operating system. It was first developed in 1969 at Bell Labs. Ken Thompson, Dennis Ritchie, Douglas McIlroy, and others created it. They used assembly language to write it. In 1972, the Unix code was rewritten with the new C programming language. The Unix operating system is a multiuser and multiprocessing system. This means it can run several application programs at the same time, for more than one user at the same time. It also is able to operate well in a network of computers. Computer security is also important in Unix, because many people can have access to it, both by using a computer directly or over a network.
+
+Many ideas in Unix were new. Other operating systems copied them. Today, there are many operating systems that have some of the ideas of Unix in them. For this reason, some people talk about a "Unix philosophy" of doing things. Linux is one of these systems with many of the Unix ideas in it. Linux does not use code from UNIX. Linux only shares some of the ideas and the names of commands. So, Linux is not a UNIX operating system. Instead it is called "Unix-like".
+
+There can be many different users in a Unix and Unix-like operating system. Most of them have a personal area where they can put things. This is called a user account.
+
+One way of using a Unix system is with the command line interface. Users run commands and programs by typing text characters. This takes time to learn, but it is a very powerful and flexible way of working. It is still used by most Unix administrators. These commands are run in a shell, which can change slightly between one system and another.
+
+A graphical user interface (GUI) is the other method. The X Window System is a very common GUI for Unix systems. The X Window System is only a shell of a graphical interface. It has many protocols. The X Window System itself does not let the user to move and resize windows. Users need a window manager or desktop manager to do that.
+
+Some of the popular desktop and window managers are:
+
+
+Like most other graphical user interfaces, they use windows, dialog boxes, support the use of a computer mouse, and are designed to be easy to use.
+
+There are many thousands of programs available for the X Window System. Programs like word processors and spreadsheets are available including free and open-source software.
+
+Today, there are two kinds of operating systems that are like UNIX.
+
+The first group is all those that share some kernel code with the original from Bell Labs at AT&T. This includes the commercial UNIX types: Solaris or AIX. 
+
+The second group includes free operating systems that usually have BSD in their name, like FreeBSD, OpenBSD, and NetBSD. These are based on free BSD. Mac OS X is also based on BSD.
+
+There are also free systems based on the Linux kernel. These do not share any code with the original UNIX. BSD systems share very little code with the original Unix because much of the code has been rewritten over many years. Many people use the terms "Unix and Unix-like systems" to be clear.
+
+Most applications can run on any modern Unix or Unix-like system. KDE and GNOME were developed for Linux and later changed to run on commercial types of Unix.
+
+
+Signature
+
+A signature is a special way that people write their name to let others know that they understand or approve of something that was written. A signature is often used to sign a contract, a cheque, a petition or a treaty.
+
+There are many ways to write a signature, and signatures may look different depending on your location. In the United States, many people have a signature which is made from writing their name in their own handwriting, often in cursive. Some signatures may be written in a different style than normal writing, which may make it difficult to read. Some people practice autographs, or fancy signatures that are hard to copy.
+
+Hundreds of years ago some people used sealing wax to make a copy of their signet rings next to or instead of a signature. This was called their "seal. This is where the term "seal of approval" comes from. Some formal documents still use an official wax seal, such as a coat of arms.
+
+Wet signature:- A wet signature, ink signature, or wet ink signature is the physical marking a person makes to sign their name on a physical document, usually with a pen.
+
+Wet signatures are the most common kind of signatures and have been used for centuries as a unique marking to indicate agreement and prevent fraud. Physical signatures have been used since 3500 B.C. in the form of seals, but it was in the 1600s when signatures written on paper became widely used and legally valid.
+
+Although wet signatures can be forged by skilled people, they were the norm until the beginning of the 21st century, when online signatures started to become legally binding.
+
+Electronic signature or E-signature:- Software programmes allow an electronic representation of a signature to be used that's been created by the software.
+
+Digital signature:- A digital signature is a signature created by the authoriser such as copying, pasting and embedding a copy of their signature or a signature created using a stylus pen.
+
+Cocoa
+
+Cocoa is the seed of the cacao tree. The seed contains a lot of fat and is used to produce cocoa butter. Cocoa butter is then used to produce chocolate. The cocoa which is used to make chocolate is a fine powder.
+
+Chocolate and cocoa are made from the beans of the cacao tree. The tree might have first come from the foothills of the Andes Mountains near the Amazon River and the Orinoco River in South America. The tree was brought to Central America by the ancient Mayas, and was grown in Mexico by the Toltecs and later by the Aztecs.
+
+Cocoa was an important product in Pre-Columbian Mesoamerica. People who told the story of the conquest of Mexico by Hernán Cortés said that when Moctezuma II, emperor of the Aztecs, ate dinner he took no other drink than chocolate, served in a golden goblet and eaten with a golden spoon. Flavored with vanilla and spices, his chocolate was whipped into a froth that dissolved in the mouth. No less than 50 pitchers of the drink were prepared for the emperor each day, and 2000 more for nobles of his court.
+
+Chocolate was brought to Europe by the Spaniards and became a popular drink by 1700. They also brought the cacao tree to the West Indies and the Philippines. It was used in alchemical processes, where it was known as Black Bean.
+
+The cacao plant was first given its name by Swedish natural scientist Carl von Linné (1707-1778), who called it "theobroma cacao" or "food of the gods".
+
+A pod has a rough leathery rind about 3 cm (1¼ inch) thick. It is filled with slimy pinkish pulp, sweet but inedible, enclosing from 30 to 50 large almond-like seeds or "beans" that are fairly soft and pinkish or purplish in color. As soon as they ripen, the pods are removed with a curved knife on a long pole, opened with a machete, and left to dry until taken to fermentation.
+
+Then the beans are removed and piled in heaps, bins, or on grates where, during several days of "sweating", the thick pulp ferments until it thins and trickles off. The quality of the beans, which originally have a strong bitter taste, depends upon this sweating. If it is overdone they may be ruined; if underdone they have a flavor like raw potatoes and are susceptible to mildew.
+
+Then the beans are spread out, constantly raked over, and dried. On large plantations this is done on huge trays, either outdoors by sunshine or in sheds by artificial heat. However, thousands of tons from smaller producers are dried on small trays or on cowhides. Finally, the beans are trodden and shuffled about (often using bare human feet) and sometimes, during this process red clay mixed with water is sprinkled over the beans to obtain a finer color, polish, and protection against molds during shipment to factories in the United States, the Netherlands, United Kingdom, and other countries. About 3,000,000 tonnes of cocoa are grown each year. The Netherlands is the leading cocoa processing country, followed by the U.S.
+
+Uses of cocoa are numerous. It may be used in cakes, creams, drinks, toppings and cookies.
+
+Besides its use as a food, by use of the scientific process it has been determined that cocoa is beneficial for health. Cocoa has nearly twice the anti-cancer antioxidants of red wine, and up to three times those found in green tea.
+
+
+

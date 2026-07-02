@@ -1,0 +1,7 @@
+In mathematics, 0.999... is a repeating decimal that is equal to 1. Many proofs have been made to show this is correct.
+
+
+The number "one" is important for computer science, because the binary numeral system uses only 1s and 0s to represent numbers. In machine code and many programming languages, one means "true" (or "yes") and zero means "false" (or "no").
+
+
+

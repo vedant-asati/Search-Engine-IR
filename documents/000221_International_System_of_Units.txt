@@ -1,0 +1,112 @@
+International System of Units
+
+
+The International System of Units is the standard modern form of the metric system. The name of this system can be shortened or abbreviated to SI, from the French name "Système International d'unités".
+
+The International System of Units is a system of measurement based on 7 base units: the metre (length), kilogram (mass), second (time), ampere (electric current), kelvin (temperature), mole (quantity), and candela (brightness). These base units can be used in combination with each other. This creates "SI derived units", which can be used to describe other quantities, such as volume, energy, pressure, and velocity.
+
+The system is used almost globally. Only Myanmar, Liberia, and the United States do not use SI as their official system of measurement. In these countries, though, SI is commonly used in science and medicine.
+
+The metric system was created in France after the French Revolution in 1789. The original system only had two standard units, the kilogram and the metre. The metric system became popular amongst scientists.
+
+In the 1860s, James Clerk Maxwell and William Thomson (later known as Lord Kelvin) suggested a system with three base units – length, mass, and time. Other units would be derived from those three base units. Later, this suggestion would be used to create the centimetre-gram-second system of units (CGS), which used the centimetre as the base unit for length, the gram as the base unit for mass, and the second as the base unit for time. It also added the dyne as the base unit for force and the erg as the base unit for energy.
+
+As scientists studied electricity and magnetism, they realized other base units were needed to describe these subjects. By the middle of the 20th century, many different versions of the metric system were being used. This was very confusing.
+
+In 1954, the 9th General Conference on Weights and Measures (CGPM) created the first version of the International System of Units. The six base units that they used were the metre, kilogram, second, ampere, Kelvin, and candela. The seventh base unit, the mole, was added in 1971.
+
+SI is now used almost everywhere in the world, except in the United States, Liberia and Myanmar, where the older imperial units are still widely used. Other countries, most of them historically related to the British Empire, are slowly replacing the old imperial system with the metric system or using both systems at the same time.
+
+The SI base units are measurements used by scientists and other people around the world. All the other units can be written by combining these seven base units in different ways. These other units are called "derived units".
+
+Derived units are created by combining the base units. The base units can be divided, multiplied, or raised to powers. Some derived units have special names. Usually these were created to make calculations simpler.
+
+Very large or very small measurements can be written using prefixes. Prefixes are added to the beginning of the unit to make a new unit. For example, the prefix "kilo-" means "1000" times the original unit and the prefix "milli-" means "0.001" times the original unit. So one "kilometre" is 1000 metres and one "milligram" is a 1000th of a gram.
+
+Lake Michigan
+
+Lake Michigan is one of the five Great Lakes in North America. It has a surface area of . It is wide. Lake Michigan is the 5th largest lake in the world.
+
+Lake Michigan is surrounded by the U.S. states of Indiana, Illinois, Wisconsin, and Michigan. It is the only Great Lake that is not partly in Canada. The largest city on the shore of Lake Michigan is Chicago.
+
+The earliest time that people lived near the lake was 800 CE. The word "Michigan" originally meant the lake itself. It is believed to come from the Ojibwa word "mishigami" meaning "great water".
+
+The first person to reach the deepest part of Lake Michigan was J. Val Klump. Klump reached the bottom with a submarine as part of a 1985 research expedition.
+
+Twelve million people live along Lake Michigan's shores. They are mainly in the Chicago and Milwaukee areas.
+
+Gas syringe
+
+A gas syringe is a tool used in a laboratory. It is used to collect a gas or to measure the volume of a gas.
+
+Simple systems can be settled in the laboratory to collect gas or to compress it. It is usually used to explain Gas Law.
+
+Mixture
+
+In chemistry, a mixture is a substance that is made up of two or more simpler substances. These substances can be chemical elements or compounds. A mixture can be made of liquids, solids, or gases.
+A mixture is not the same as a compound which is made of two or more atoms connected together. For instance, a mixture of the gases hydrogen and nitrogen contains hydrogen and nitrogen, not the compound ammonia which is made of hydrogen and nitrogen atoms.
+
+A mixture where the different parts can be distinguished easily is called "heterogenous", one where this is not the case is called "homogeneous". A third form is called colloid.
+
+If one substance in a mixture dissolves in the other, it is called a solution. For example, if sugar is put in water it forms a mixture, then dissolves to make a solution. If it does not dissolve, it would be called a suspension.
+
+Solids can be mixtures also. Alloys are mixtures. Many kinds of soil and rock are mixtures of different minerals. Thus, a mixture is made of two or more elements and/or compounds which are not chemically combined.
+
+Language family
+
+Language families are groups of languages that are related to each other because they come from a common older language. The languages in such a family are similar in their vocabulary or structure.
+
+For example, French and Spanish both come from Latin. Latin was spoken a long time ago, and some of the people who spoke it started to speak different ways - for the word "good", one group started saying "bueno" while another group started saying "bon". Most words are said a little differently in Spanish and French, so the two are called different languages.
+
+Most languages belong to a language family, but some languages do not. These languages are called language isolates.
+
+There also are constructed languages, such as Esperanto. Constructed languages are made for different reasons: making a 'world language', for fun, for use in fiction, etc.
+
+"Ethnologue" 22 (2019) lists these language families as "major". Each has at least 1% of all languages on Earth:
+
+
+"Glottolog" 4.0 (2019) lists the following as the largest families, of 8494 languages:
+
+
+Chess
+
+Chess is a board game for two players. It is played on a square board, made up of 64 smaller squares, with eight squares in each row and column. Each player starts with sixteen pieces: eight pawns, two knights, two bishops, two rooks, one queen and one king. The goal of the game is for each player to try and checkmate the king of the opponent. Checkmate is a threat ('check') to the opposing king which no move can stop. It ends the game.
+
+During the game, the two opponents take turns to move one of their pieces to a different square of the board. One player ('White') has pieces of a light color; the other player ('Black') has pieces of a dark color. There are rules about how pieces move, and about taking the opponent's pieces off the board. The player with white pieces always makes the first move. Because of this, White has a small advantage, and wins more often than Black in tournament games.
+
+Chess is popular and is often played in competitions called chess tournaments. It is enjoyed in many countries, and is a national hobby in Russia.
+
+Most historians agree that the game of chess was first played in northern India during the Gupta Empire in the 6th century .<ref name="H/W">Hooper D. and Whyld K. 1992. "The Oxford companion to chess". 2nd ed, Oxford University Press.</ref> This early type of chess was known as "Chaturanga", a Sanskrit word for the military. The Gupta chess pieces were divided, like their military, into the infantry, cavalry, elephants, and chariots. Over time, these pieces became the pawn, knight, bishop, and rook. The English words "chess" and "check" both come from the Persian word "shāh" meaning king.
+
+The earliest written evidence of chess is found in three romances (epic stories) written in Sassanid Persia around 600. The game was known as "chatrang" or "shatranj". When Persia was taken over by Muslims (633–644) the game spread to all parts of the Muslim world. Muslim traders carried the game to Russia and Western Europe. By the year 1000, it had spread all across Europe. In the 13th century, a Spanish manuscript called "Libro de los Juegos" described the games of "shatranj" (chess), backgammon, and dice.
+
+The game changed greatly between about 1470 to 1495. The rules of the older game were changed in the West so that some pieces (queen, bishop) had more scope, piece development was faster, and the game was more exciting. The new game formed the basis of modern international chess. Chess historians consider this to be the most important change since the game's invention.
+
+The rules of chess are governed by the World Chess Federation, which is known by the initials FIDE, meaning "Fédération Internationale des Échecs". The rules are in the section "Laws of Chess" of the "FIDE Handbook". FIDE also give rules and guidelines for chess tournaments.
+
+Chess is played on a square board divided into eight rows of squares called ranks and eight columns called files, with a dark square in each player's lower left corner. There are 64 squares on a chess board. The colors of the squares are laid out in a checker (chequer) pattern with light and dark squares. To make speaking and writing about chess easy, each square has a name. Rank are numbered from 1 to 8, and each file is lettered from "a" to "h". The letter assigned to a file comes before the number. 
+
+its ownbel, such as g1 or f5. The pieces are in white and black sets. The players are called White and Black, and at the start of a game each player has 16 pieces. The 16 pieces are one king, one queen, two rooks, two bishops, two knights and eight pawns.
+
+Definitions: vertical lines are "files"; horizontal lines are "ranks"; lines at 45° are "diagonals".
+Each piece has its own way of moving around the board. The "X" marks the squares where the piece can move.
+
+
+Most pieces capture as they move. If a piece lands on an opponent's piece, the opposing piece is taken off the board. There are three special cases:
+
+If a move that attacks the opposing king is made, the king is said to be 'in check'. The player whose king is in check must make a move that escapes the check. A player can't move into check. The options when a player is in check are moving the king, capturing the threatening piece, or moving another piece between the threatening piece and the king.
+
+To win the game one player must checkmate the other player. Checkmate happens when the other player's king is in check and there is no way to get out of check. The word checkmate is often shorted to "mate". Most games end with one of the players resigning (giving up) when their position is so bad that defeat seems inevitable.
+
+Once in every game, each king can make a special move, known as "castling". When the king castles, it moves two squares to the left or right. When this happens, the rook is moved to stand on the opposite side of the King. Castling is only allowed if all of these rules are kept:
+
+"En passant" ('in passing' in French) is a special capture. It is only available when a pawn moves forward two squares past an opposing pawn on an adjacent file. The opposing pawn must be on the 5th rank from its own side. Then the opponent's pawn can capture the double-mover "as if it had only moved one square forward". This option is open on the next move only.
+
+For example, if the black pawn has just moved up two squares from g7 to g5, then the white pawn on f5 can take it by "en passant" on g6. The "en passant" rule was developed when pawns were allowed to make their double move. The rule made it more difficult for players to avoid pawn exchanges and blockade the position. It kept the game more open.
+
+When a pawn moves to its eighth rank, it must be changed for a piece: a queen, rook, bishop, or knight of the same color (player's choice). Normally, the pawn is "queened", but in some cases another piece is chosen to get an advantage. This is called 'under-promotion'.
+
+Checkmates are rare in competitive chess. The most common ends are decisions made by one or both players.
+
+
+

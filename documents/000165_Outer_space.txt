@@ -1,0 +1,107 @@
+Outer space
+
+
+Outer space, commonly shortened to space, is the near-vacuum between celestial bodies. It is where all of the planets, stars, galaxies and objects are found. It is the expanse that exists beyond Earth and its atmosphere.
+
+On Earth, space begins at the Kármán line (100 km above sea level). This is where Earth's atmosphere is said to stop and outer space begins. This is not a natural boundary but is a convention used by scientists and diplomats.
+
+However, the space near Earth is quite crowded by astronomical standards. A list of spaces goes like this: 
+
+Exploring space by direct travel is difficult, and more or less impossible beyond the near planets. Space contains no air beyond the Earth. It takes three days of travelling to reach the Moon and, depending on speed, it would take a very long time to reach the closest star (Proxima Centauri). Manned spacecraft are designed to keep air inside them and to protect astronauts from extreme temperatures. It is widely thought that people will not be able to travel to nearby stars. A serious problem for humans is the great times taken for interstellar flights, and the danger of radiation to human life.
+
+We gain most of our information about the items in space from different kinds of telescopes. Some of them are space telescopes, put in outer space for a better view. Space probes also explore planets, comets and other space objects that are not too distant.
+
+
+Natural satellite
+
+A natural satellite in astronomy is a smaller body which moves around a larger body. The smaller body is held in orbit by gravitation. The term is often used for moons which go around planets, and it is also used for small galaxies which orbit larger galaxies.
+
+Bodies which orbit planets are called moons. They vary in size. The Earth has only one moon. Some other planets have many moons, and some have none. When people write just ""the" moon", they are usually talking about the moon of the Earth. Earth's moon is written with a capital letter, "Moon". The Latin word for the moon is "luna", which is why the adjective used to talk about the moon is "lunar". For example, lunar eclipse.
+
+Anything that goes around a planet is called a satellite. Moons are natural satellites. People also use rockets to send machines into orbit around the Earth. These machines are called artificial (man-made) satellites.
+
+Moons do not make their own light. We can see the Earth's moon because it acts like a mirror, and reflects the light of the Sun. The same half of the moon faces toward Earth at all times, no matter where it moves. This effect is called tidal locking. But different parts of the moon are lit up by the Sun, so it looks different at different times of the month. This change as seen from Earth is called the phases of the moon, or lunar phases.
+
+A moon's cycle is the time the moon takes to change from looking very bright and round to looking very small and thin, and then back to bright and round again. In the case of the Earth's moon, this is about four weeks. It does this about 13 times in one year. The moon's cycle is about 28 days, a bit shorter than a calendar month.
+
+The Apollo 11 mission helped Neil Armstrong and Buzz Aldrin become the first people to walk on the Moon. They did this on July 20, 1969.
+
+The orbit of a moon or other satellite is affected by two forces: gravity, and the centripetal force.
+For example, the Earth's moon is kept in orbit by the gravitational pull from the Earth. This is also the way the Earth is attracted to the Sun, and stays in its orbit. The orbit of the Earth's moon actually causes the tides and waves on Earth.
+
+No moons that belong to moons have been found. In most cases, the tidal effects of the main body would make such a system unstable.
+
+However, calculations completed after the recent finding of a possible ring system around Saturn's moon Rhea show that Rhean orbits would be stable. The rings are thought to be narrow, something that is known with shepherd moons.
+
+The finding of 243 Ida's moon Dactyl in the early 1990s was the proof that some asteroids have moons; indeed, 87 Sylvia has two. Some, such as 90 Antiope, are double asteroids with two same-sized parts.
+
+The biggest moons in the Solar System (those bigger than about 3000 km across) are Earth's moon, Jupiter's Galilean moons (Io, Europa, Ganymede, and Callisto), Saturn's moon Titan, and Neptune's captured moon Triton.
+
+The following is a table grouping the moons of the solar system by diameter. The column on the right has some notable planets, dwarf planets, asteroids, and Trans-Neptunian Objects for comparing. It is normal for moons to be named after people from mythology.
+
+Planets in our Solar System that have moon(s):
+
+
+Planets in our Solar System that do not have moons:
+
+Galaxies are found in groups called galaxy clusters which are also held together by gravitation. Our own Milky Way is the second largest galaxy in our Local Group (the largest is Andromeda). Many smaller galaxies and star clusters are also held in the Local Group, outside the two main galaxies. They are all in orbits round one of the centres of gravity. That means most of them move round either Andromeda or the Milky Way. so it seems natural for astronomers to use the term 'satellite' for these as well.
+
+Our Local Group is itself part of an even larger group, the Virgo Supercluster. There are other, even larger, groups of galaxies: see the Great Wall for an example.
+
+Gravity
+
+Gravity, or gravitation is one of the fundamental forces of the universe. It is an attraction, or pull, between any two objects with mass. We discuss it in three parts:
+
+Some physicists think gravity is caused by gravitons, but they are still unsure.
+
+In everyday talk, we say things fall because the Earth's gravity pulls on them. We talk as if our weight was a "given". Actually, weight changes when the pull of gravity changes. The Moon is much smaller and the pull of gravity on the Moon is about 1/6th that of Earth. So any object on the Moon weighs 1/6th of its weight on Earth. What does not change is the amount of matter in an object. That is called conservation of mass. On Earth, mass and weight are the same for most purposes, though a sensitive gravimeter can detect the difference. The difference can be very different on other extraterrestrial objects such as the moon, and other planets.
+
+From this we learn two things.
+
+The Earth has mass. Every particle of matter has mass. So the Earth pulls on every object and person, and they pull on the Earth. This pulling force is called "gravity" and it gives weight.
+
+These words mean almost the same thing in everyday use. Sometimes scientists use "gravity" for the force that pulls objects towards each other, and "gravitation" for the theory about the attraction.
+
+According to one of his students, Galileo did a famous experiment about gravity where he dropped balls from the Tower of Pisa. He later rolled balls down inclines. With these experiments, Galileo showed that gravitation accelerates all objects at the same rate regardless of weight.
+
+Johannes Kepler studied the motion of planets. In 1609 and 1616 he published his three laws governing the shape of their orbits and their speed along those orbits, but did not discover why they moved that way.
+In 1687, English mathematician Isaac Newton wrote the "Principia". In this book, he wrote about the inverse-square law of gravitation. Newton, following an idea that had long been discussed by others, said that the closer two objects are to each other, the more gravity will affect them.
+
+According to Newton's law of universal gravitation, gravity is a force between any two objects with mass. Three numbers affect its strength: the mass of each object, and the distance between them. These two objects will both pull on each other with the same force. However, a force has a greater effect on objects with less mass. The force between the Sun and the Earth makes the Earth orbit the Sun, but it only moves the Sun a small amount.
+
+Newton's laws were used later to predict the existence of the planet Neptune based on changes in the orbit of Uranus, and again to predict the existence of another planet closer to the Sun than Mercury. When this was done, it was learned that his theory was not entirely correct. These mistakes in his theory were corrected by Albert Einstein's theory of General Relativity. Newton's theory is still commonly used for many things because it is simpler and is accurate enough for many uses.
+
+Why does the Earth not fall into the Sun? The answer is simple but very important. It is because the Earth moving round the Sun is in a dynamic equilibrium. The speed of the Earth's movement creates a centrifugal force which balances the gravitational force between the Sun and the Earth. Why does the Earth continue spinning? Because there is no force to stop it.
+
+Newton's first law: "If a body is at rest it remains at rest or if it is in motion it moves at the same speed "until it is acted on by an external force"".
+
+There is a kind of analogy between "centrifugal force" and "gravitational force", which led to the "equivalence principle" of general relativity.
+
+In free fall an object's motion balances out the pull of gravity on it. This includes being in orbit.
+
+The special theory of relativity describes systems where gravity is not an issue; by contrast, gravity is the central issue of the general theory of relativity.
+
+In general relativity "there is no gravitational force" deflecting objects from their natural, straight paths. Instead, gravity is seen as changes in the properties of space and time. In turn, this changes the straightest-possible paths that objects will naturally follow. The curvature is, in turn, caused by the energy–momentum of matter. Spacetime tells matter how to move; matter tells spacetime how to curve.
+
+For weak gravitational fields and slow speeds relative to the speed of light, the theory's predictions converge on those of Newton's law of universal gravitation. Newton's equations are used to plan journeys in our Solar System.
+
+General relativity has a number of physical consequences.
+
+Gravity influences the passage of time. Light sent down into a is blueshifted, whereas light sent in the opposite direction (i.e., climbing out of the gravity well) is redshifted; collectively, these two effects are known as the "gravitational frequency shift".
+
+More generally, processes close to a massive body run more slowly when compared with processes taking place farther away; this effect is known as gravitational time dilation.
+
+General relativity predicts that the path of light is bent in a gravitational field; light passing a massive body is deflected towards that body. This effect has been confirmed by observing the light of stars or distant quasars being deflected as it passes the Sun.
+
+Closely related to light deflection is the gravitational time delay (or Shapiro delay), the phenomenon that light signals take longer to move through a gravitational field than they would in the absence of that field. There have been numerous successful tests of this prediction.
+
+A parameter called γ encodes the influence of gravity on the geometry of space.
+
+Gravitational waves are ripples in the curvature of spacetime. They move as a wave, travelling outward from the source. Einstein predicted them in 1915 on the basis of his theory of general relativity. In theory, gravitational waves transport energy as gravitational radiation. Sources of detectable gravitational waves might include binary star systems composed of white dwarfs, neutron stars, or black holes. In general relativity, gravitational waves cannot travel faster than the speed of light.
+
+The 1993 Nobel Prize in Physics was awarded for measurements of the Hulse-Taylor binary star system. These measurements suggested gravitational waves are more than mathematical peculiarities.
+
+On February 11, 2016, the LIGO Scientific Collaboration and Virgo Collaboration teams announced that they had made the first observation of gravitational waves, originating from a pair of merging black holes using the Advanced LIGO detectors. On June 15, 2016, a second detection of gravitational waves from coalescing black holes was announced. Besides LIGO, many other gravitational-wave observatories (detectors) are under construction.
+
+
+

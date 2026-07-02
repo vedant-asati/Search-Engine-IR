@@ -1,0 +1,13 @@
+Richter scale
+
+
+The Richter scale is a scale of numbers used to tell the power (or magnitude) of earthquakes. Charles Richter developed the Richter Scale in 1935. His scale worked like a seismogram, measured by a particular type of "seismometer" at a distance of 100 kilometers (62 mi) from the earthquake. 
+
+Earthquakes 4.5 or higher on the Richter scale can be measured all over the world. An earthquake a size that scores 3.0 is ten times the amplitude of one that scores 2.0. The energy that is released increases by a factor of about 32.
+
+Every increase of 1 on the Richter scale corresponds to an increase in amplitude by a factor of 10 so therefore, it is a logarithmic scale.
+
+The earthquake with the biggest recorded magnitude was the Great Chilean Earthquake. It had a magnitude of 9.5 on the Richter scale and occurred in 1960. Around 6,000 people died because of the earthquake. No earthquake has ever hit 10+ on the Richter Scale.
+
+
+

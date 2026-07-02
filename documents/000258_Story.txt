@@ -1,0 +1,237 @@
+Story
+
+
+A story can be different things:
+
+Governor-general
+
+Governor General is a representative of a head of state. The term is mostly used in Commonwealth realm countries, where the governor general is a representative of the British monarch, who is the head of state of the Commonwealth realm countries.
+
+Sometimes the title is spelled as "Governor General", which is used in Canada, but sometimes it is spelled with a hyphen ""-"", "Governor-General", which is the spelling used in Australia.
+
+
+Black hole
+
+A black hole is a region of space-time from which nothing, not even light, can escape. According to the general theory of relativity, it starts existing when spacetime gets curved by a huge mass. There is a sphere around the black hole. If something goes inside the sphere, it cannot leave. This sphere is called the event horizon. A black hole is black because it absorbs all the light that hits it. It reflects nothing, just like a perfect black body in thermodynamics. Under quantum mechanics, black holes have a temperature and emit Hawking radiation, which makes them slowly get smaller.
+
+Because black holes are very hard to see, people find them by the way they affect other things near them. The place where there is a black hole can be found by tracking the movement of stars that orbit somewhere in space. Or people can find it when gas falls into a black hole, because the gas heats up and is very bright. This can be found by telescopes on Earth or by Earth-orbiting telescopes such as Chandra or XMM Newton. Inside a black hole the rules of physics are very different.
+
+Astronomers have found evidence of supermassive black holes at the center of almost all galaxies. In 2008 astronomers found evidence that a supermassive black hole of more than four million solar masses is near the Sagittarius A* part of the Milky Way galaxy.
+
+In 1783, an English clergyman named John Michell wrote that it might be possible for something to be so heavy you would have to go at the speed of light to get away from its gravity. Gravity gets stronger as something gets more massive. For a small thing, like a rocket, to escape from a larger thing, like Earth, it has to escape the pull of the Earth's gravity or it will fall back. The speed that it must travel to get away is called escape velocity. Bigger planets (like Jupiter) and stars have more mass, and have stronger gravity than Earth. Therefore, the escape velocity would need to be much faster. John Michell thought it was possible for something to be so big that the escape velocity would need to be faster than the speed of light, so even light could not escape. In 1796, Pierre-Simon Laplace wrote about the same idea in the first and second editions of his book "Exposition du système du Monde" (it was removed from later editions).
+
+Some scientists thought Michell might be right, but others thought that light had no mass and would not be pulled by gravity. His theory was forgotten.
+
+In 1916 Albert Einstein wrote an explanation of gravity called general relativity.
+
+A few months later, while serving in World War I, the German physicist Karl Schwarzschild used Einstein's equations to show that a black hole could exist. The Schwarzschild radius is the size of the event horizon of a non-rotating black hole. This radius was the measurement where the escape velocity was equal to the speed of light. If the radius of a star is smaller, then light is unable to escape, and it would be a dark star, or black hole.
+
+In 1930, Subrahmanyan Chandrasekhar predicted that stars heavier than the sun could collapse when they ran out of hydrogen or other nuclear fuels to burn. In 1939, Robert Oppenheimer and H. Snyder calculated that a star would have to be at least three times as massive as the Sun to form a black hole. In 1967, John Wheeler invented the name "black hole" for the first time. Before that, they were called "dark stars".
+
+In 1970, Stephen Hawking and Roger Penrose showed that black holes "must" exist. Although the black holes are invisible (they cannot be seen), some of the matter that is falling into them is very bright.
+
+As of spring 2019, there was an image of a black hole, or rather, the things orbiting the black hole. The image required many photos from different locations. One of the team members (Katie Bouman) made a compilation of all the images into one singular image.
+
+In 2020, Roger Penrose, Reinhard Genzel and Andrea Ghez were awarded the Nobel Prize in Physics for their work on the theory of black holes.
+
+The gravitational collapse of huge (high-mass) stars cause "stellar mass" black holes. This happens when really big stars run out of fuel.
+
+Star formation in the early universe may have created very big stars. These stars were so large that their cores collapsed into black holes. The black hole at the center of these stars slowly consumed the star from within making black holes of up to 10 solar masses. These black holes may be the seeds of the supermassive black holes found in the centers of most galaxies. If these stars really existed, they may even explain where supermassive black holes come from.
+
+Most of the energy released in gravitational collapse is given off very quickly. A distant observer sees the material falling in slowly and then stop just above the event horizon because of gravitational time dilation. The light given off just before the event horizon is delayed an infinite amount of time. So the observer never sees the formation of the event horizon. Instead, the collapsing material seems to become dimmer and increasingly red-shifted, eventually fading away.
+
+Black holes have also been found in the middle of almost every galaxy in the known universe. These are called supermassive black holes (SBH), and are the biggest black holes of all. They formed when the Universe was very young, and also helped to form all the galaxies.
+
+Quasars are believed to be powered by gravity collecting material into supermassive black holes in the centers of distant galaxies. Light cannot escape the SBHs at the center of quasars, so the escaping energy is made outside the event horizon by gravitational stresses and immense friction on the incoming material.
+
+Huge central masses (10 to 10 solar masses) have been measured in quasars. Several dozen nearby large galaxies, with no sign of a quasar nucleus, have a similar central black hole in their nuclei. Therefore, it is thought that all large galaxies have one, but only a small fraction are active (with enough accretion to power radiation) and so are seen as quasars.
+
+A black hole is separated from the rest of the Universe by its event horizon. The Event Horizon is a border which separates the black hole from the rest of the Universe. Anything which crosses it cannot escape, not even light. Anything that happens inside this boundary can't be seen from the outside.
+
+Near a black hole, time appears to slow down. This is known as gravitational time dilation. This happens because gravity affects time. The stronger the gravity, the slower time passes. Objects seem to turn red and fade away when they reach the event horizon. This is known as gravitational redshift. 
+
+The shape of the event horizon for non-rotating black holes is spherical and slightly flattened for spinning ones.
+
+The photon sphere is a spherical boundary of zero thickness in which photons that move on tangents to that sphere would be trapped in a circular orbit about the black hole.
+
+At the middle of a black hole, there is a gravitational center called a singularity. It is impossible to see into it because the gravity prevents any light escaping.
+
+Outside the event horizon, light and matter will still be pulled toward the black hole. If a black hole is surrounded by matter, the matter will form an "accretion disk" around the black hole. An accretion disk looks something like the rings of Saturn. As it gets sucked in, the matter gets very hot and shoots x-ray radiation into space. Think of this as the water spinning around the hole before it falls in.
+
+Most black holes are too far away for us to see the accretion disk and jet. The only way to know a black hole is there is by seeing how stars, gas and light behave around it. With a black hole nearby, even objects as big as a star move in a different way, usually faster than they would if the black hole was not there.
+
+Since we cannot see black holes, they must be detected by other means. When a black hole passes between us and a source of light, the light bends around the black hole creating a mirror image. This effect is called gravitational lensing.
+
+Hawking radiation is black body radiation which is emitted by black holes, due to quantum effects near the event horizon. It is named after the physicist Stephen Hawking, who provided a theoretical argument for its existence in 1974.
+
+Hawking radiation reduces the mass and the energy of the black hole and is therefore also known as "black hole evaporation". This happens because of the virtual particle-antiparticle pairs. Due to quantum fluctuations, this is when one of the particles falls in and the other gets away with the energy/mass. Because of this, black holes that lose more mass than they gain through other means are expected to shrink and ultimately vanish. Micro black holes (MBHs) are predicted to be larger net emitters of radiation than larger black holes and should shrink and dissipate faster.
+
+The no hair theorem basically says that once a black hole has formed, it only has three physical properties that we can measure: mass, charge, and spin. If this is true, then if two black holes had the same mass, charge and spin then they will look the same. As of 2020, it is unclear if the no hair theorem is true for real black holes.
+
+The properties are special, because all of them can be measured from outside the black hole. For example, a charged black hole repels other like charges just like any other charged object. Similarly, the total mass inside a sphere containing a black hole can be found by using the gravitational analog of Gauss's law, far away from the black hole. The angular momentum or spin can also be measured from far away.
+
+When anything falls into a black hole, any property that isn't part of the three properties of a black hole, like shape or charge distribution, gets erased and can't be seen from outside. This is a very big problem because we lose a lot of information about what went into the black hole, including certain quantum properties and physics tells us that information cannot be destroyed. This puzzle is called the black hole information loss paradox. 
+
+Sheffield
+
+Sheffield is a big city in a region called South Yorkshire in the North of England. There are 534,500 people living there. Sheffield is in the middle of lots of hills. The city centre is where the River Sheaf meets the River Don, and Sheffield gets its name from the River Sheaf. The city is east of the Peak District National Park. It is estimated that Sheffield has over two million trees, which is more than any city in Europe per each person. 61% of the city is green space, such as parks and forests.
+
+The area of Sheffield used to be the Anglo-Saxon shire of Hallamshire, the city itself was founded later.
+
+Sheffield is famous for making cutlery (like knives and spoons). People in Sheffield have made cutlery for a very long time (a Sheffield-made knife is referred to in Chaucer's "Canterbury Tales", a book from the Middle Ages). Sheffield is also famous for making steel. Benjamin Huntsman discovered the crucible technique for making steel in 1740. In 1856, Henry Bessemer invented the Bessemer converter steelmaking furnace. Henry moved to Sheffield to make steel. Later, in 1912, Harry Brearley invented stainless steel in Sheffield.
+
+The first football team in the world is from Sheffield, Sheffield F.C., set up in 1857. Sheffield currently has two big professional football teams, Sheffield Wednesday and Sheffield United.
+
+There are lots of famous bands from Sheffield. Some of them are Pulp, the Human League, Def Leppard and the Arctic Monkeys. Michael Palin is also from Sheffield.
+
+There is a big arena called the Motorpoint Arena in Sheffield. WWE have visited this arena to do live shows.
+
+Fertilizer
+
+A fertilizer is a chemical that helps plants to grow. It is used to replace the mineral salts taken by plants or removed/washed away by rain.
+
+Common fertilizers:
+
+
+The important things in fertilizer are:
+
+When fertilizers are offered for sale, the percentage of N, P, and K must be written on the bags or boxes, but for historcal reasons, P is shown as %P2O5 and K is shown as %K2O.
+
+E.g.:9-23-30 which means: 9% N, 23%P2O5 and 30%K2O.
+
+In Australia the pecent of elemental sulfur must also be shown.
+In the UK, the elemental composition (in percentages) may also be shown alongside the mandatory traditional system, provided the numbers are put inside square brackets.
+
+Leafy plants need lots of N. Flowering plants need lots of P and K.
+
+A soil test can tell how much N, P, and K is needed.
+
+
+Military
+
+Military forces (often called the military when specific to a certain group) are a group or groups of people that are given power to defend a country or territory with weapons. They are armed, so they are called the armed forces. The military protects its country by defending it from the armed forces of enemies, if there is a war. The military can also be ordered by the government of the country to attack another country. The word "military" comes from Latin "miles", warrior.
+
+There are many jobs people do in a military. Some jobs are for fighting and some are for other work to support the military. Some things people do in the military include the use of weapons,driving and operating vehicles,and repairing weapons. Other people in the military learn how to fly specialized aircraft, be a pilot on ships, or repair machines. People in the military usually wear clothes called a uniform. In some places, especially where there may be combat, a uniform often has a camouflage pattern which is designed to make the person hard to see in the forest or desert.
+
+There are two ways to join the military. In many countries, people join the military because they want to. In other countries, there are laws that say some people have to be in the military, even if they do not want to be. This is called "the draft" or conscription. It usually depends on age and physical fitness. Old military people or former military people are called "veterans". Some are members of a military reserve force.
+
+The military of a country has different branches or organizations which do different kinds of work. Usually they include:
+
+
+Many countries include other branches:
+
+Some countries even have small units which perform special actions which are difficult. They are called special forces.
+
+There are also mercenaries, soldiers who fight just for pay and have little loyalty to whomever might hire them, and private military contractors (PMC), which are under the command of a company (civilian company). The Medieval Italian "condottieri" were a historical example of PMCs. A warlord may have a private army, which are often no more trustworthy than common gangsters or criminals.
+
+In many countries of the world, young men and (in a few countries) women between 17 and 18 and of good health may be forced by the government of their country to join the military and have military training. This is called "conscription". The countries that do not have conscription include Australia, Bangladesh, Canada, France, Hungary, India, Italy, Japan, Malta, New Zealand, Saudi Arabia, Slovenia, South Africa, Spain, and the United Kingdom. In some countries, such as Argentina and United States, conscription is legal but has not been used in decades.
+
+When a person wants to join the military as a volunteer, they "enlist". (This means simply that they put their name on a list.) They have to be above a certain age, 17 or 18 in most countries. They have to pass physical fitness tests to show that they are well enough to do the jobs that they will have to do. They must also have good enough hearing, to hear orders, and good enough sight to use a rifle. 
+
+New people in the military are often called “recruits”. They have training at a special camp, sometimes called “boot camp" or "basic training". During this training, the recruits usually have very little free time. They learn to understand the "orders" or "commands" that are given by the officers to the "troops". (The troops are the military people in a group.) They learn the right ways to obey the orders. They do a lot of exercise to improve their fitness and strength. They learn about weapons, first aid, and their uniforms and "kit" (their equipment). Recruits also learn how to march. (This is the way to walk together, keeping "in step".) Learning to march is sometimes called “drill”. By the time soldiers finish "boot camp", they should know enough to be a helpful person in their group. The camp usually finishes with a parade in which the newly trained recruits show off their marching and other skills they have learned in front of important visitors. Once the recruits are fully trained, they are ready to defend (protect) their country from attack, or to go to war if necessary.
+
+<nowiki>*</nowiki>includes 169,800 Marine Corps
+<nowiki>**</nowiki>includes Strategic Deterrent Forces, Paramilitary, National Guard, etc.
+<nowiki>***</nowiki>includes 125,000 Revolutionary Guards
+
+
+Photosynthesis
+
+Photosynthesis is how plants and some microorganisms make carbohydrates. It is an endothermic (takes in heat) chemical process which uses sunlight to turn carbon dioxide into sugars. The sugars are used by the cell as energy, and to build other kinds of molecules. Fundamentally, photosynthesis converts light energy into chemical energy. 
+
+Photosynthesis is vital for life on Earth. Before photosynthesis, Earth had no free oxygen in its atmosphere. 
+
+Green plants build themselves using photosynthesis. Algae, protists and some bacteria also use it. Some exceptions are organisms that directly get their energy from chemical reactions; these organisms are called chemoautotrophs.
+
+Photosynthesis is not an accident. It happens because its building blocks occur naturally in space, and get included when planets form. We have no idea as to how common or rare this process is. We do know that higher elements are formed in supernovae, and that is the origin of all elements higher than helium. The higher elements found in Halley's Comet have been analysed.
+
+Before photosynthesis, the Earth's atmosphere had almost no oxygen. Even without oxygen, some simple life-forms could have existed. But the key event for life as we know it was the Great Oxygenation Event. 
+
+Photosynthesis can happen in different ways, but there are some parts that are common.
+
+Photosynthesis occurs in the chloroplasts in leaves (or other green tissues). They contain chlorophyll, the green pigment that absorbs light energy. In leaves, palisade cells have chloroplasts to capture light.
+
+Oxygen is produced as a result of photosynthesis and released into the atmosphere through respiration. "All the oxygen in the atmosphere has its origin in plants" (including those microorganisms which do photosynthesis).
+
+Glucose is used in respiration (to release energy in cells). It is stored in the form of starch (which is converted back to glucose for respiration in the dark). Glucose can also be converted into other compounds for growth and reproduction e.g. cellulose, nectar, fructose, amino acids and fats.
+
+Photosynthesis has two main sets of reactions (phases). Light-dependent reactions which need light to do work; and light-independent reactions which do not need light to do work.
+
+Light energy from the sun is used to split water molecules (photolysis). The sunlight hits chloroplasts in the plant. This causes an enzyme to split the water. Water, when split, gives oxygen, hydrogen, and electrons.
+
+Hydrogen, along with electrons energized by light, converts NADP into NADPH which is then used in the light-independent reactions. Oxygen gas diffuses out of the plant as a waste product of photosynthesis, and ATP is synthesized from ADP and inorganic phosphate. This all happens in the grana of chloroplasts.
+
+During this reaction, sugars are built up using carbon dioxide and the products of the light-dependent reactions (ATP and NADPH) and various other chemicals found in the plant in the Calvin Cycle. Therefore, the light-independent reaction cannot happen without the light-dependent reaction. Carbon dioxide diffuses into the plant and along with chemicals in the chloroplast, ATP, and NADPH, glucose is made and finally, transported around the plant by translocation.
+
+There are three main factors affecting photosynthesis:
+
+If there is little light shining on a plant, the light-dependent reactions will not work efficiently. This means that photolysis (breakdown of water by light) will not happen quickly, and therefore little NADPH and ATP will be made. This shortage of NADPH and ATP will lead to the light-independent reactions not working as NADPH and ATP are needed for the light-independent reactions to work.
+
+The light intensity required is easily investigated in an aquatic plant such as pondweed. The oxygen bubbles given off can be counted or the volume measured. By changing the distance between light and plant, the light intensity is made to vary. Change in light intensity will affect the change in rate of photosynthesis. Artificial lighting can be used in the dark to maximise the photosynthetic rate.
+
+Carbon dioxide is used in the light-independent reactions. It combines with NADPH and ATP and various other chemicals to form glucose. Therefore, if there is not enough carbon dioxide, then there will be a build-up of NADPH and ATP and not enough glucose will be formed.
+
+There are many enzymes working in photosynthetic reactions – such as the enzyme in photolysis. All enzymes work best at their optimum temperature. All light-dependent and light-independent reactions will occur normally at average or optimum temperatures. Tropical plants have a higher temperature optimum than the plants adapted to temperate climates.
+
+When the temperatures are too low, there is little kinetic energy, so the reaction rate decreases. If the temperatures are too high, the enzymes become "denatured" and the catalysis of photosynthesis reaction stops.
+
+Greenhouses must keep an optimum temperature for normal functioning of plants.
+
+The first photosynthetic organisms probably evolved early in the history of life. They may have used reducing agents such as hydrogen or hydrogen sulfide as sources of electrons, rather than water. Cyanobacteria appeared later, and the excess oxygen they produced caused the oxygen catastrophe. After this, the evolution of complex life was possible.
+
+The photosystems of green sulfur bacteria and those of cyanobacteria, algae, and higher plants are not the same. That shows photosynthesis occurred not once, but several times over. 
+
+Today, the average rate of energy capture by photosynthesis globally is about 130 terawatts. This is about six times larger than the current power used by human civilization.
+Photosynthetic organisms also convert about 100–115 thousand million metric tonnes of carbon into biomass per year.
+
+
+Casserole
+
+A casserole is a baked dish for many different types of food, mixed together in a fluid based on liquid. The start ingredient is often a roux. Often, one of the ingredients is a can of soup. The whole point of a casserole is that it cooks material "slowly". That means it can use ingredients which would not be edible if fried or roasted. 
+The casserole needs to simmer below boiling point for hours, depending on the ingredients. That way tough meat and vegetables become soft and edible.
+
+It is a simple way to cook a nutritional meal.
+
+Casserole is from a French word meaning "sauce-pan"; a large, deep dish used either to cook something in an oven or to serve the food cooked in it. The French word  "casserole"  had been derived from the old Provençal word, "cassa" and the Medieval Latin word, "cattia", both of these words meaning "ladle".
+
+Casseroles are usually cooked slowly in the oven, usually covered. They may be served as a main course or a side dish, and may be served in the vessel in which they were cooked. Types of casserole include ragout, hotpot, cassoulet, tajine, moussaka, lasagne, shepherd's pie, gratin, rice or macaroni timballo, and carbonnade.
+
+A popular type of casserole is green bean casserole, which has green beans, milk or cream, and fried onions. It was first cooked in Berlin, New Hampshire in 1866 by, Elmire Jolicoeur.
+
+The second illustration proves how old the idea is. That casserole dish has a lid, and a spout for steam to escape. The heat is applied from below as it is with a stew.
+
+Early casserole dishes were rice-based that were pounded and pressed and then filled with meat. The first popular meals included French cassoulet, British pot pies, Italian lasagna, and Greek moussaka. Macaroni and cheese is the oldest written casserole recipe found in 1250.
+
+Plate
+
+A plate is a type of dish where food can be placed after being cooked for eating. Sometimes they are called dishes. They may be made out of ceramic, plastic, paper, or styrofoam.
+
+A plate is also one of the broken pieces of lithosphere of the Earth. These plates have irregular shapes. They lie and float on the upper mantle. They move very slowly in different directions. Their movement is driven by the convection currents in the magma. A plate can contain both oceanic and continental crusts. Some contain oceanic crust only.
+
+Flea
+
+The flea ("Siphonaptera") is an insect which lives on many animals and sometimes humans. Fleas are ectoparasites and drink the blood of the animal they bite.
+
+Fleas live outdoors in sand or tall grass, and jump to any passing animal and lay eggs. Flea bites are usually red bumps and they itch. 
+
+There are many species of flea such as dog fleas, cat fleas, human fleas, northern rat fleas, and the oriental rat flea. During the Middle Ages, the oriental rat flea spread a bacteria that caused the bubonic plague, also known as the Black Death or Black Plague. This was a huge epidemic much more severe than today's bird flu. The oriental rat flea was infected by the bacteria "Yersinia pestis". 
+
+Terrorism
+
+Terrorism is the use of fear and violence for political, religious or ideological reasons. Many different types of social or political organizations might use terrorism to try to achieve their goals. People who carry out terrorism are called "terrorists". The foundation of modern terrorism is the work of Sergey Nechayev, a Russian radical who developed strategies for carrying out terrorism, which also includes politics.
+
+It is difficult to explain terrorism. Terrorism has no official criminal law definition at the international level. Common definitions of terrorism refer to violent acts which are intended to create fear (terror). The acts may be done for a religious, political, or ideological motive and use illegal violence. Some definitions now include acts of unlawful violence and war crimes. The use of similar tactics by criminal gangs is not usually called terrorism. The same actions may be called terrorism when they are done by a politically-motivated group.
+
+There are over 10000 definitions of "terrorism". In some cases, the same group may be described as "freedom fighters" by its supporters and "terrorists" by its opponents. The term is often used by states to criticize political opponents.
+One form of terrorism is the use of violence against noncombatants for the purpose of gaining publicity for a group, cause, or individual.
+
+According to Memorial Institute for Prevention of Terrorism, terrorists killed 20,498 people in 2006. The major effect of terrorism comes from the fear that is generated.
+
+Counter-terrorism is broad in scope. Specific types of counter-terrorism include:
+
+The more modern governments restrict weapons to their military, the more ordinary people are helpless against terrorists.
+
+The Global Terrorism Database (University of Maryland, College Park) has recorded more than 61,000 incidents of non-state terrorism. These caused at least 140,000 deaths between 2000 and 2014.
+
+
+

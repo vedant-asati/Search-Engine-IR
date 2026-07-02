@@ -1,0 +1,99 @@
+Piano
+
+
+The piano is an acoustic, keyboard and stringed musical instrument in which the strings are struck by wooden hammers that are coated with a softer material (modern hammers are covered with dense wool felt; some early pianos used leather). It is played using a keyboard, which is a row of keys (small levers) that the performer presses down or strikes with the fingers and thumbs of both hands to cause the hammers to strike the strings. It was invented in Italy by Bartolomeo Cristofori around the year 1700 (the exact year is uncertain).
+
+The piano has been an extremely popular instrument in Western classical music since the late 18th century. The piano was invented by Bartolomeo Cristofori of Padua, Italy. He made his first piano in 1709. It developed from the clavichord which looks like a piano but the strings of a clavichord are hit by a small blade of metal called a “tangent”. In the piano the strings are hit by a block of wood called a hammer. The early keyboarded instruments, such as the clavichords, harpsichords and organs that were used at that time, had a much shorter keyboard than they do today. Gradually the keyboard became longer until it had the 88 notes (7 octaves plus three notes) of the modern piano.
+
+At first the instrument was called the “fortepiano”. This means “loud-soft” in Italian. It was given this name because it could be played either loudly or softly, depending on how hard the note was hit (the harpsichord could not do this, and the clavichord could only make a tiny difference between louder and softer). Later this name changed to “pianoforte”. This is normally shortened to “piano”. The word “fortepiano” is sometimes used to describe the pianos of the late 18th and early 19th centuries. In some languages, such as Russian, “fortepiano” is the normal word for a piano.
+Although the piano was invented at the beginning of the 18th century, it was not until 50 years later that it started to become popular. The first time the piano was played in a public concert in London was in 1768 when it was played by Johann Christian Bach. The upright piano was invented in 1800 by John Isaac Hawkings. Seven years later T. Southwell invented “over-stringing”. This means that the strings for the low notes go diagonally across the soundboard so that they can be longer and make a much bigger sound.
+
+The early pianos had strings that were fastened to a frame made of wood. They were not very heavy, but they were not very strong or loud, so they could not be heard very well in a big concert hall. In 1825 the cast-iron frame was invented in America. This made the piano much stronger so that it could make a bigger sound and the strings were not likely to break.
+
+One of the most known fortepiano builders was Johann Andreas Stein from Augsburg, Germany. Stein developed the "Viennese" action, popular on Viennese pianos up to the mid-19th century. Another important Viennese piano maker was Anton Walter. Mozart’s own Walter fortepiano is presently at the Mozart Museum in Salzburg, Austria. Haydn also owned Walter piano, and Beethoven expressed a wish to buy one. The most famous early-romantic piano maker was Conrad Graf (1782–1851), who made Beethoven's last piano. His instruments were played by Chopin, Mendelssohn and Schumann. Johannes Brahms had preferred pianos by Johann Baptist Streicher. The English piano school builders included Johannes Zumpe, Robert Stodart and John Broodwood. Prominent piano makers among the French during the era of the fortepiano included Erard, Pleyel (Chopin’s favorite maker) and Boisselot (Liszt’s favorite).
+
+The production of this older type of instrument had stopped in the end of the 19th century. In the second half of the 20th century people started to be more interested in period instruments, including harpsichord and fortepiano. Some of the more known fortepiano builders included in this 20th-century fortepiano revival have been Philip Belt, Margaret F. Hood, Christopher Clark and Paul McNulty.
+
+A piano has a keyboard with white keys and black keys. When a key is pressed down, the damper comes off the string and a hammer hits the string. It hits it very quickly and bounces off so that the string is free to vibrate and make a sound. Each key is a level that makes a hammer inside the piano hit a string inside, producing a sound. Each string has a different length and so produces-a different note. When the player takes their finger off the key the damper falls back onto the string and the sound stops. The strings are stretched very tightly across the frame, passing over a bridge on the way. The bridge touches the soundboard. This means that the vibrations are sent to the soundboard. The soundboard is a very important part of the piano. If it is damaged the piano will not make a sound.
+
+The mechanism which makes the hammer bounce off the string very quickly is called the “escapement”. In 1821 Sebastian Erard invented a kind of double escapement. This made it possible to repeat the note very quickly. The hammer only touches the string for about one thousandth of a second. The hammers are covered with felt which is a mixture of wool, silk and hair.
+
+At the bottom of every modern piano, there are at least two pedals, which are levers that the pianist presses down with his or her feet to change the sound. Many pianos have three pedals, but a few have even more. Each pedal changes the sound in a different way.
+
+The damper pedal is the most important pedal, and so many composers often write down in a piece of music when the pianist should press and when he or she should let go of the damper pedal. In most classical music, there is a sign that says "Ped." where the pedal should be pressed, and one that looks like an asterisk where the pedal should be let go. Pedal marks can also appear as a straight line under the staff. Often, the pianist will let go of the pedal and press it again right away; this is called "changing pedal". Sometimes, the music will simply say "con pedale", which in Italian means "with pedal". It means that the damper pedal should be used, but the pianist should know when to change the pedal.
+Another sign, which tells a pianist to press the soft pedal is "una corda," (Italian for "one string"). It is held down until another sign, "tre corde" (meaning "three strings"), appears, telling the pianist to let go of the soft pedal. In early pianos, it was possible to press the pedal a little way so that the hammers hit two strings, then press it further so that they hit only one string.
+
+There is no sign for the sostenuto pedal, so it is up to the pianist on whether to use it in a specific piece of music.
+
+Once the piano became popular in the late 18th century many composers wrote music for the piano. Wolfgang Amadeus Mozart started to learn on harpsichords when he was very small, but the piano was becoming popular when he was a young man and he wrote many sonatas and concertos for the piano. Franz Joseph Haydn also wrote a lot of piano music. Ludwig van Beethoven was a very famous pianist before he became very famous as a composer. His piano compositions include 5 concertos and 32 sonatas. In the Romantic period many composers wrote for the piano. They include Franz Schubert, Robert Schumann, Johannes Brahms, Franz Liszt and Frederic Chopin. Later composers include Sergei Rachmaninoff, Claude Debussy, Maurice Ravel, Sergei Prokofiev, Dmitri Shostakovich and Bela Bartok.
+
+Some famous piano players from the early days of the piano include Dussek, Mozart, Muzio Clementi, John Field and Chopin. In the 19th century Franz Liszt was a very great influence on the piano by composing and performing very difficult music. Other great pianists include Clara Schumann and Anton Rubinstein. 20th century pianists include Artur Schnabel, Vladimir Horowitz, Josef Hofmann, Wilhelm Kempff, Dinu Lipati, Claudio Arrau, Artur Rubinstein, Sviatoslav Richter and Alfred Brendel. Among the greatest pianists today are Vladimir Ashkenazy, Daniel Barenboim, Leif Ove Andsnes, Boris Berezovsky and Evgeny Kissin.
+
+Pianists who play popular music include Liberace, Jerry Lee Lewis, Little Richard, Elton John, Billy Joel, Thelonious Monk, Tori Amos and Ray Charles. Perhaps the greatest jazz pianist was Fats Waller.
+
+Also a number of modern harpsichordists and pianists have achieved success in fortepiano performance, including Paul Badura-Skoda, Malcolm Bilson, Andras Schiff, Kristian Bezuidenhout, Ronald Brautigam, Alexei Lubimov, duet Katie and Marielle Labeque, Yuan Sheng, Gary Cooper, Jörg Demus, Richard Egarr, Richard Fuller, Robert Hill, Geoffrey Lancaster, Vladimir Feltsman, Robert Levin, Steven Lubin, Bart van Oort, Trevor Pinnock, Viviana Sofronitsky, Andreas Staier, Melvyn Tan, Jos van Immerseel and Olga Pashchenko.
+
+The piano has been a very popular instrument ever since the mid 18th century when it soon replaced the clavichord and the harpsichord. By the early 19th century the sound that the piano made was big enough to fill large concert halls. Smaller pianos were made for use in people’s homes. At first these included square pianos and giraffe pianos, later on the upright pianos became popular for home use. Pianos are not often used in orchestras (if they are, they are part of the percussion section). They may, however, be used for piano concertos (pieces for solo pianist accompanied by orchestra). There is a vast amount of music written for piano solo. The piano can also be used together with other instruments, in jazz groups, and for accompanying singing.
+
+
+Channel Islands
+
+The Channel Islands are a group of islands near the coast of France. The five largest islands are: 
+The main industries are tourism, horticulture (growing plants for food) and financial services (businesses to do with money). Most people speak English, although some people in Guernsey, Jersey and Sark still speak the traditional language of their island. 
+Constitutionally, the islands are part of the British crown, but are not part of the United Kingdom. Being part of the mediaeval duchy of Normandy, allegiance is owed to the King but not to the Parliament of the United Kingdom, which cannot pass laws for the Bailiwick of Guernsey and the Bailiwick of Jersey except for defence and diplomatic matters, except if the bailiwicks ask it to. In general, the bailiwicks are self-governing, but they often pass laws which are like United Kingdom laws. However some of their laws are still based on Norman law.
+
+Hedonism
+
+Hedonism is the view that pleasure and suffering are the basis for what is good or bad. It is a that first appeared in ancient philosophy. "" is the ancient Greek word for "pleasure". There are many different beliefs in hedonism. But in all forms of hedonism, people think that what makes them happy is good. They also think avoiding suffering is good. Some people think pain is the opposite of pleasure, but others do not. Some forms of hedonism say it is important to get as many pleasurable experiences as possible. Others say that the quality of the pleasure matters.
+
+Hedonism is often wrongly said to be related to sex. Sex can be a very pleasurable experience, but when philosophers talk about hedonism, they think more about the pleasure of reading a good book, listening to classical music, or discussing with other philosophers.
+
+Two main types of hedonism are Cyrenaicism and Epicureanism. Cyrenaicism is where people make themselves happy in the fastest amount of time. Epicureanism is where people like to be happy but they do so slowly so that they cause less pain to themselves. They also look more into the future and go for the higher pleasures in life. On the other hand, Maslowism is the term for when you combine the concepts of utilitarianism and hedonism.
+
+
+Shinkansen
+
+The is a group of high-speed rail lines in Japan, upon which the famous "Bullet Trains" run. It is the world's first high-speed rail.
+
+The Shinkansen are run by the many JR companies. In the past, Japan Railway was called "Japanese National Railways." It is now one group of private companies. JR also runs commuter trains and inter-city trains around Tokyo.
+
+The name "Bullet Train" is the English translation of the Japanese word "dangan ressha" (弾丸列車), which was the name given to the project while it was being studied in the 1940s. Nowadays, the trains are called Shinkansen trains. The name Shinkansen means "New Trunk Line". The trains are called "Super Expresses".
+
+Japan was the first country to build railway lines for high-speed travel. Because Japan has many mountains, the network that already existed was made of 3'6" gauge (1067 mm) narrow gauge lines, which tended to take non-direct routes and could not be adapted to higher speeds. Because of this, Japan had a greater need for new high-speed lines than countries where the existing standard gauge or broad gauge rail system could be upgraded easily. Unlike the older lines, Shinkansen lines are standard gauge, and use tunnels and viaducts to go through and over obstacles, rather than around them.
+
+Construction of the first section of the Tokaido Shinkansen between Tokyo and Osaka started in 1959. The line opened on October 1, 1964, just in time for the Tokyo Olympics. The line was an immediate success, reaching the 100 million passenger mark in less than three years on July 13, 1967 and one billion passengers in 1976.
+
+The first Shinkansen trains ran at speeds of up to , later increased to . Some of these trains, with their classic bullet-nosed appearance, are still in use for stopping services between Hakata and Osaka. A driving car from one of the original trains is now in the British National Railway Museum in York. 
+
+Many more advanced models of the train followed the first type, generally each with its own distinctive appearance. Shinkansen trains now run regularly at speeds of up to , putting them among the fastest trains running in the world, along with the French TGV and German ICE trains.
+
+Originally meant to carry passengers and freight trains by day and night, the Shinkansen lines carry only passenger trains. The system shuts down
+between midnight and 6:00 AM every day to allow maintenance to take place, including the running of Doctor Yellow test trains. The few overnight trains that still run in Japan run on the old narrow-gauge network to which the Shinkansen runs parallel to.
+
+In 2003, JR Tokai reported that the Shinkansen's average arrival time was within 6 seconds of the scheduled time. This includes all-natural and human accidents and errors and is calculated from about 160,000 trips Shinkansen made. The previous record was from 1997 and was 18 seconds.
+
+The first derailment (train accident) of a Shinkansen train in passenger service occurred during the Chuetsu Earthquake on October 23, 2004. 6 of the total of 8 cars of the train on the Joetsu Shinkansen derailed near Nagaoka Station in Nagaoka, Niigata.
+
+In 1965 pay phones were made available on Shinkansen trains. That service ended on 29 June 2021, because of the widespread ownership of mobile phones by passengers.
+
+In recent years, due to noise pollution, increasing speed is getting harder. Thus, the current research is aimed to reduce the amount of noise, mainly when trains exit a tunnel.
+
+Three extensions are under construction for opening by 2014-2018: Nagano-Kanazawa, Aomori-Hakodate and Takeo-Onsen-Isahaya.
+
+The first ever Shinkansen line (built in 1964) travelled at and was called the Tōkaido Shinkansen. In 1972 a second one was developed and the improvements on infrastructure allowed it to travel at around . In 2003 the Japanese built the world's fastest ever Shinkansen, with a top speed of .
+
+
+Two further lines, known as Mini-Shinkansen (ミニ新幹線), have also been constructed by upgrading existing sections of line:
+
+
+Another standard gauge line using Shinkansen trains is not considered to be a Shinkansen line:
+
+
+The following lines are under development:
+
+
+Most Shinkansen lines that were proposed during the boom of the early 1970s have been postponed indefinitely. These include a link to Shikoku by the Honshu-Shikoku bridge system, a link from Tokyo to New Tokyo International Airport, and a route covering the entire Sea of Japan coast of Honshu.
+
+
+
+

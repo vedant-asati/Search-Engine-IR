@@ -1,0 +1,114 @@
+Electricity
+
+
+Electricity is the presence and flow of electric current. Using electricity, we can transfer energy in ways that allow us to do simple chores. Its best-known form is the flow of electrons through conductors such as copper wires.
+
+The word "electricity" is sometimes used to mean "electrical energy". They are not the same thing: electricity is a transmission medium for electrical energy, like sea water is a transmission medium for wave energy. An item which allows electricity to move through it is called a conductor. Copper wires and other metal items are good conductors, allowing electricity to move through them and transmit electrical energy. Plastics are a poor conductor (they are insulators) and don't allow much electricity to move through them. They stop the transmission of electrical energy.
+
+Electrical energy can be made naturally (such as lightning), or by people (such as in a generator). It can be used to power machines and electrical devices. When electrical charges are not moving, electricity is called static electricity. When the charges are moving they are an electric current, sometimes called 'dynamic electricity'. Lightning is the most known - and dangerous - kind of electric current in nature, but sometimes static electricity causes things to stick together in nature as well.
+
+Electricity can be dangerous, especially around water because water is a form of good conductor as it has impurities like salt in it. Salt can help electricity flow. Since the nineteenth century, electricity has been used in every part of our lives. Until then, it was just a curiosity seen in the lightning of a thunderstorm.
+
+Electrical energy can be created if a magnet passes close to a metal wire. This is the method used by a generator. The biggest generators are in power stations. Electrical energy can also be released by combining chemicals in a jar with two different kinds of metal rods. This is the method used in a battery. Static electricity can be created through the friction between two materials - for instance a wool cap and a plastic ruler. This may make a spark. Electrical energy can also be created using energy from the sun, as in photovoltaic cells.
+
+Electrical energy arrives at homes through wires from the places where it is made. It is used by electric lamps, electric heaters, etc. Many appliances such as washing machines and electric cookers use electricity. In factories, electrical energy powers machines. People who work with electricity and electrical devices in homes and factories are called "electricians".
+
+The idea of electricity, or the fact that amber acquires the power to attract light objects when rubbed, may have been known to the Greek philosopher Thales of Miletus, who lived about 600 B.C.
+
+Another Greek philosopher, Theophrastus, stated in a treatise that this power is possessed by other substances.
+
+The first scientific study of electrical and magnetic happenings, however, did not appear until A.D. 1600, from research done by the English physician William Gilbert. Gilbert was the first to apply the term "electric" (Greek, "elektron", "amber") to the force that substances exerted after being rubbed. He also distinguished between magnetic and electric action.
+
+Ben Franklin spent much time in electrical research. His famous kite experiment proved that the atmospheric electricity (that causes the phenomena of lightning and thunder) is identical with the electrostatic charge on a Leyden jar. Franklin developed his theory that electricity is a single "fluid" existing in all matter, and that its effects can be explained by excesses and shortages of this fluid.
+
+There are two types of electric charges that push and pull on each other: positive charges and negative charges. Electric charges push or pull on each other if they are not touching. This is possible because each charge makes an electric field around itself. An electric field is an area that surrounds a charge. At each point near a charge, the electric field points in a certain direction. If a positive charge is put at that point, it will be pushed in that direction. If a negative charge is put at that point, it will be pushed in the exact opposite direction.
+
+It works like magnets, and in fact, electricity creates a magnetic field, in which similar charges repel each other and opposite charges attract. This means that if you put two negatives close together and let them go, they would move apart. The same is true for two positive charges. But if you put a positive charge and a negative charge close together, they would pull towards each other. A short way to remember this is the phrase opposites attract, likes repel.
+
+All the matter in the universe is made of tiny particles with positive, negative or neutral charges. The positive charges are called protons, and the negative charges are called electrons. Protons are much heavier than electrons, but they both have the same amount of electric charge, except that protons are positive and electrons are negative. Because "opposites attract," protons and electrons stick together. A few protons and electrons can form bigger particles called atoms and molecules. Atoms and molecules are still very tiny. They are too small to see. Any large object, like your finger, has more atoms and molecules in it than anyone can count. We can only estimate how many there are. 
+
+Because negative electrons and positive protons stick together to make big objects, all big objects that we can see and feel are electrically neutral. "Electrically" is a word meaning "describing electricity", and "neutral" is a word meaning "balanced." That is why we do not feel objects pushing and pulling on us from a distance, as they would if everything was electrically charged. All big objects are electrically neutral because there is the same amount of positive and negative charge in the world. We could say that the world is exactly balanced, or neutral. Scientists still do not know why this is so.
+
+The electrons can move all around the material. Protons never move around a solid object because they are so heavy, at least compared to the electrons. A material that lets electrons move around is called a conductor. A material that keeps each electron tightly in place is called an insulator. Examples of conductors are copper, aluminum, silver, and gold. Examples of insulators are rubber, plastic, and wood. Copper is used very often as a conductor because it is a very good conductor and there is so much of it in the world. Copper is found in electrical wires. But sometimes, other materials are used.
+
+Inside a conductor, electrons bounce around, but they do not keep going in one direction for long. If an electric field is set up inside the conductor, the electrons will all start to move in the direction opposite to the direction the field is pointing (because electrons are negatively charged). A battery can make an electric field inside a conductor. If both ends of a piece of wire are connected to the two ends of a battery (called the "electrodes"), the loop that was made is called an electrical circuit. Electrons will flow around and around the circuit as long as the battery is making an electric field inside the wire. This flow of electrons around the circuit is called electric current.
+
+A conducting wire used to carry electric current is often wrapped in an insulator such as rubber. This is because wires that carry current are very dangerous. If a person or an animal touched a bare wire carrying current, they could get hurt or even die depending on how strong the current was and how much electrical energy the current is transmitting. You should be careful around electrical sockets and bare wires that might be carrying current.
+
+It is possible to connect an electrical device to a circuit so that electrical current will flow through a device. This current will transmit electrical energy to make the device do something that we want it to do. Electrical devices can be very simple. For example, in a light bulb, current carries energy through a special wire called a filament, which makes it glow. Electrical devices can also be very complicated. Electrical energy can be used to drive an electric motor inside a tool like a drill or a pencil sharpener. Electrical energy is also used to power modern electronic devices, including telephones, computers, and televisions.
+
+Here are a few terms that a person can come across when studying how electricity works. The study of electricity and how it makes electrical circuits possible is called electronics. There is a field of engineering called electrical engineering, where people come up with new things using electricity. All of these terms are important for them to know.
+
+Electrical energy is mostly generated in places called power stations. Most power stations use heat to boil water into steam which turns a steam engine. The steam engine's turbine turns a machine called a 'generator'. Coiled wires inside the generator are made to spin in a magnetic field. This causes electricity to flow through the wires, carrying electrical energy. This process is called electromagnetic induction. Michael Faraday discovered how to do this.
+
+Many sources of heat can be used to boil water for generators. Heat sources may use renewable energy resources in which the supply of heat energy never runs out and non-renewable energy resources in which the supply will be eventually used up.
+
+Sometimes a natural flow, such as wind power or water power, can be used directly to turn a generator so no heat is needed.
+
+
+Sailor Moon
+
+Pretty Soldier Sailor Moon or Sailor Moon is a shojo manga by Naoko Takeuchi. It was adapted to an anime series by Toei Animation CO., LTD. "Sailor Moon" was one of the most popular anime/manga series during the 1990s, spanning five seasons, four movies, and multiple video games. It continues to hold a strong fanbase with many fansites devoted to it.
+
+Usagi (Serena in English) is an eighth grader who is clumsy, a crybaby and who also gets bad grades. One day, she meets a talking cat named Luna, who tells her that she is Sailor Moon, a superhero. She has to fight monsters to save people from getting their energy stolen by evil beings. Usagi has some friends who fight evil along with her. They are named Sailor Mercury, Sailor Venus, Sailor Mars, and Sailor Jupiter. They make up a team called the Sailor Senshi ("Senshi" means "soldier" or "guardian in Japanese"). The Sailor Senshi are named after different planets in the solar system. Each of the Sailor Senshi uses magical powers to become a Sailor Senshi. They are also young Japanese girls. Their real names are not Sailor Mercury, Sailor Venus, Sailor Mars, and Sailor Jupiter. For example, when Sailor Mercury is not fighting evil, her name is Ami Mizuno (Amy in English). The name of Sailor Venus is Minako Aino (Mina in English). The name of Sailor Mars is Rei Hino (Raye in English). The name of Sailor Jupiter is Makoto Kino (Lita in English). Each of them has a transformation sequence where they turn into their Sailor Senshi form, with many colourful effects.
+
+Mamoru Chiba (called Darien Chiba in the English manga and Darien Shields in the English anime) is Usagi's boyfriend. He uses magic powers to transform into a man named Tuxedo Mask, who fights evil along with the Sailor Senshi. In the future, Usagi and Mamoru get married and become the king and queen of the earth. Their daughter, named Chibiusa (Rini in the English version), travels through time to help them and the Sailor Senshi.
+
+Usagi has a cat named Luna, named after the Latin word for moon. Minako has a cat named Artemis after the Greek goddess of the moon (although Artemis is a male cat). Luna and Artemis are not ordinary cats. They can talk, and they have moon symbols on their foreheads. They can also turn into humans in the manga, and Luna turns into a human in one of the anime movies. In the future, they have a kitten named Diana (Diana is the name of the Roman moon goddess).
+
+Later on there are some other Sailor Senshi. They are named after the planets Saturn, Uranus, Neptune, and Pluto (now a dwarf planet). Sailor Saturn's real name is Hotaru Tomoe. Sailor Uranus' real name is Haruka Tenoh (Amara in English). Sailor Neptune's real name is Michiru Kaioh (Michelle in English). Sailor Pluto's real name is Setsuna Meioh (Trista in English). In the manga and anime series, Haruka and Michiru are lesbians, but in the English anime they were changed to cousins. This is because the English anime was made for younger children than the anime series.
+
+Each Sailor Senshi has different powers. Sailor Moon has powers of love and healing. Sailor Mercury has powers of water and ice. Sailor Mars has fire powers, Sailor Jupiter has electricity and plant powers, and Sailor Venus has light and energy powers. Sailor Chibi Moon, (called Sailor Mini Moon in the English version) has love and sugar powers. Sailor Saturn is death and rebirth, Sailor Neptune is water, Sailor Uranus is earth, and Sailor Pluto has time and death powers. Tuxedo Mask can throw roses against enemies.
+
+In the manga there are five series: "Bishoujo Senshi Sailor Moon", "Bishoujo Senshi Sailor Moon R(eturn/omance)", "Bishoujo Senshi Sailor Moon Super" "Bishoujo Senshi Sailor Moon SuperS" "Bishoujo Senshi Sailor Moon Stars". Sailor Moon was originally serialized in the Japanese manga magazine by Kodansha. Afterwards Kodansha published the completed series in volumes. There are eighteen volumes total.
+
+The anime stayed close to the story from the manga. However, due to its popularity, Toei made more seasons and produced movies. Sailor Moon was licensed to be aired in the United States by DIC Entertainment (a company that makes TV and film). DIC cut out some scenes and changed some of the dialogue to make it more acceptable for children. Many anime fans did not like the changes. Due to their complaints, ADV Films and later Pioneer Inc. made uncut versions.
+
+The following TV series and movies were made:
+
+
+Anesthetic
+
+An anaesthetic (anesthetic) is a substance that either stops pain, or causes the user to sleep.
+There are two types: general anaesthesia causes a reversible loss of consciousness. Local anaesthetic cause a loss of sensitivity (and pain) on a local area. 
+
+Anaesthetics can be rubbed onto the skin, given by injection ("shot"), or given as a gas to breathe. Anaesthesia blocks pain during operations. This lets patients undergo surgery and other procedures without the distress and pain they would normally feel. It comes from the Greek roots an-, "without" and aesthetos, "perceptible, able to feel".
+
+The most famous anaesthetic, ether, may have been made as early as the 8th century, but it took many centuries for its anaesthetic importance to be appreciated
+
+The history of modern anaesthetic began with Joseph Lister. Before it, people sometimes used cocaine, alcohol, and other drugs to get the same effects. Modern anaesthesia is complex, with a combination of anesthesia, analgesia and muscle relaxation. These three are known as the "triad of anesthesia".
+
+The most famous anesthetic, ether, may have been synthesized as early as the 8th century, but it took many centuries for its anesthetic importance to be appreciated
+
+
+Fidel Castro
+
+Fidel Alejandro Castro Ruz (August 13, 1926 – November 25, 2016) was a Cuban revolutionary and politician. He was Prime Minister of Cuba from 1959 to 1976, and President from 1976 to 2008. He temporarily gave power to his brother Raúl Castro while recovering from surgery in the summer of 2006. On February 19, 2008, he announced that he would not return to power. He was in power for 49 years.
+
+Castro was born in Birán, Cuba on August 13, 1926. He received a doctorate of law from the University of Havana. He was trained as a military lawyer. He came to power after he and his guerrilla soldiers overthrew the dictatorship of General Fulgencio Batista.
+
+Castro was a communist and he made Cuba the first socialist country of the Americas. During the Cold War he was a friend of the Soviet Union, and he depended on their help until the USSR collapsed. An important moment of the Cold War was the Cuban Missile Crisis of 1962. In October 1962 the United States of America discovered that the Soviet Union was placing missiles on Cuba, close to the United States. After very tense talking, a big nuclear war was avoided between the Soviet Union and the USA.
+
+Some people call Castro a dictator. They criticize him, because they think he has ignored some human rights, for example, torture, murder and oppression of freedom of speech, both at home and in African countries where he sent Cuban soldiers to spread Communism. Other people do not think this is true. For example, Nelson Mandela has spoken in support of Castro and has thanked him for aid to Africa. Amnesty International criticized Cuba's human rights record but noted slow progress in July 2002. Supporters of Castro say he gave Cuba the best health care and education of Latin America and created equality between the poor and the rich.
+
+Castro's first wife was Mirta Díaz - Balart. They married in October 1948. They had a son Fidel Ángel "Fidelito" Castro Díaz-Balart, born in September 1949. Díaz-Balart and Castro divorced in 1955. In 1980, Castro married Dalia Soto del Valle. Their marriage would end with Castro's death in 2016.
+
+On November 25, 2016, Castro died at age 90 of natural causes in Havana, Cuba. President Raúl Castro, his brother, announced Fidel's death on state television. His remains were later cremated on November 26, 2016.
+
+
+Latin America
+
+Latin America is the part of the Americas where the people speak Romance languages: Spanish or Portuguese. This includes most of South America and Central America (also including the Spanish-speaking and sometimes the French-speaking Caribbean islands).
+
+The places in the Americas which speak French (Haiti, French Guiana and the French-speaking Caribbean islands) are not always included as a part of Latin America, although French is also a Romance language.
+
+Latin America has vibrant artistic and cultural traditions. Latin American literature, music, and arts are world famous.
+
+In the United States, the term "Latino" refers to a person who has Latin American heritage. It is different from Hispanic which would only include countries where Spanish is the official language. For example, Hispanic would not include Brazil because its official language is Portuguese.
+
+In Spanish, "latino" is a masculine term (for boys and men) whereas "latina" is a feminine term (for girls and women). In the English language, "latino" is not associated with gender so it is an all-inclusive term (male, female, and non-binary). In the 2010s, the term "Latinx" was created to be a gender-neutral term but very few Latinos actually use it.
+
+
+
+
+

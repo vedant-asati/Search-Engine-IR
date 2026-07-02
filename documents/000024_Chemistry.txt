@@ -1,0 +1,54 @@
+Chemistry
+
+
+Chemistry is a branch of science that deals with chemical elements and compounds, and how they work together and change. In other words, chemistry is the branch of science about fundamental properties of matter and chemical reactions. Chemistry is the study of the substances and their transformations (or change).
+
+Before 100, people studied elements to figure out how to do things such as turn oganeason into lead, but no one managed to do that. This was called alchemy. After 100, using the scientific method alchemists became chemists. Chemists separated the air into many parts and isolated the noble gases from it. They also processed special minerals from a mine in Sweden to get rare earth metals. Radioactivity was also discovered. 118 different elements have been found. Some are very common, like oxygen. Many are very rare and expensive, like platinum. Some cannot be found on earth and can only be made in labs, like rutherfordium.
+
+Since the 1920s, the increased understanding of physics has changed chemists' theories about chemical reactions. With smaller and faster computers, chemists have built better tools for analyzing substances. These tools have been sent to study chemicals on Mars. Police also use those tools to study evidence from crime scenes.
+
+There are several types of chemistry. Analytical chemistry looks at which chemicals are in things. For example, looking at how much arsenic is in food. Organic chemistry looks at things that have carbon in them. For example, making acetylene. Inorganic chemistry looks at things that do not have carbon in them. One example is making an integrated circuit. Theoretical chemistry tries to explain chemical data with mathematics and computers.
+
+A large area of chemistry is polymer chemistry. This looks at plastics. One example is making nylon. Because plastics are made of carbon, polymer chemistry is part of organic chemistry. Another area is biochemistry. This looks at the chemistry of living things. An example would be seeing how arsenic poisons people. Biochemistry is also part of organic chemistry. There are many other small branches of chemistry.
+
+The basic unit of an element is called an atom. An atom is the smallest building block that you can cut an element into without the element breaking down (turning into a lighter element, for example through nuclear fission or radioactive decay). A chemical compound is a substance made up of two or more elements. In a compound, two or more atoms are joined to form a molecule. The tiniest speck of dust or drop of liquid, that one can see is made up of many millions or billions of these molecules. Mixtures are substances where chemicals are mixed but not reacted. An example would be mixing sand and salt. This can be undone again to produce salt and sand separately. Chemical compounds are changed by a chemical reaction. An example would be heating sodium bicarbonate, common baking soda. It will make water, carbon dioxide, and sodium carbonate. This reaction cannot be undone.
+
+One very important concept in chemistry is that different atoms interact with one another in very specific proportions. For example, two hydrogen atoms interacting with one oxygen atom lead to the water molecule, HO. This relationship is known as the "Law of constant proportions" and leads to the idea of "stoichiometry", a term that refers to the ratios of different atoms in chemical compounds. For example, in water, there are always exactly 2 hydrogen atoms to 1 oxygen atom. In carbon dioxide, there are exactly 2 oxygen atoms for 1 carbon atom. These relationships are described using chemical formulas such as HO (two hydrogen atoms and one oxygen atom) and CO (one carbon atom and two oxygen atoms).
+
+Because atoms of different elements react with one another in very specific proportions but atoms of different elements have different weights, chemists often describe the number of different elements and compounds in terms of the number of "moles". A "mole" of any element contains the same number of atoms: 602,214,150,000,000,000,000,000 atoms. The atomic mass of an element can be used to see how much of the element makes a mole. For example, the atomic mass of copper is about 63.55. That means about 63.55 grams of copper metal has a mole of atoms. The atomic mass of chlorine is about 35.45. That means 35.45 grams of chlorine has a mole of atoms in it.
+
+Moles can be used to see how many molecules are in chemical compounds, too. Copper(II) chloride is an example. CuCl is its chemical formula. There is one copper atom (63.55) and two chlorine atoms (35.45 · 2 = 70.90). Add all the molar masses of the elements together to get the molar mass of the chemical compound (63.55 + 70.90 = 134.45). That means in 134.45 grams of copper(II) chloride, there is one mole of copper(II) chloride molecules. This concept is used to calculate how much chemicals are needed in a chemical reaction if no reactants (chemicals that are reacted) should be left. If too much reactant is used, there will be some reactants left in the chemical reaction.
+
+Acids and bases are common chemicals. Acids release H ions when in water, and bases release OH ions when in water. Acids can react with bases. The H ion is taken from the acid by the base. This makes water, HO. A salt is also made when an acid and a base react together. An example would be reacting hydrochloric acid (HCl) and sodium hydroxide (NaOH). Hydrochloric acid releases H and Cl ions in water. The base releases Na and OH ions. The H and the OH react to make water. There is a solution of sodium chloride (NaCl) left. Sodium chloride is a salt.
+
+Chemistry is very useful in everyday life and makes up the foundation of many branches of science. Most objects are made by chemists (people who do chemistry). Chemists are constantly working to find new and useful substances. Chemists make new drugs and materials like paints that we use every day.
+
+Many chemicals are harmless, but there are some chemicals that are dangerous. For example, mercury(II) chloride is very toxic. Chromates can cause cancer. Tin(II) chloride pollutes water easily. Hydrochloric acid can cause bad burns. Some chemicals like hydrogen can explode or catch fire. To stay safe, chemists experiment with chemicals in a chemical lab. They use special equipment and clothing to do reactions and keep the chemicals contained. The chemicals used in drugs and in things like bleach have been tested to make sure they are safe if used correctly.
+
+
+Computer science
+
+Computer science is the science of information. Computer scientists study different ways of reading, using, and encoding information.
+
+There are many different areas within computer science. In some areas, scientists only work with ideas "on paper". In other areas they use those ideas to make things like computers and computer programs.
+
+A person who works in computer science will often need to understand logic and mathematics.
+
+This is so people can find new and easier ways to do things, and the way to approach problems with this information.
+
+While computers can do some things easily (like simple math, or sorting out a list of names from A-to-Z), computers cannot answer questions when there is not enough information, or when there is no real answer. Also, computers may take too much time to finish long tasks. For example, it may take too long to find the shortest way through all of the towns in the USA - so instead a computer will try to make a close guess. A computer will answer these simpler questions much faster.
+
+Algorithms are a specific set of instructions or steps on how to complete a task. For example, a computer scientist wants to sort playing cards. There are many ways to sort them - by suits (diamonds, clubs, hearts, and spades) or by numbers (2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King, and Ace). By deciding on a set of steps to sort the cards, the scientist has created an algorithm. The scientist then needs to test whether this algorithm works. This shows how well and how fast the algorithm sorts cards.
+
+A simple but slow algorithm is: pick up two cards and check whether they are sorted correctly. If they are not, reverse them. Then do it again with another two, and repeat them all until they are all sorted. This is called a bubble sort. This method will work, but it will take a very long time.
+A better algorithm is: find the first card with the smallest suit and smallest number (2 of diamonds), and place it at the start. After this, look for the second card, and so on. This algorithm is much faster, and does not need much space. This algorithm is called a "selection sort".
+
+Ada Lovelace wrote the first computer algorithm in 1843, for a computer that was never finished. Computers began during World War II. Computer science separated from the other sciences during the 1960s and 1970s. Now, computer science has its own methods, and has its own technical terms. It is related to electrical engineering, mathematics, and language science.
+
+Computer science looks at the theoretical parts of computers. Computer engineering looks at the physical parts of computers (hardware). Software engineering looks at the use of computer programs and how to make them.
+
+
+
+
+
+

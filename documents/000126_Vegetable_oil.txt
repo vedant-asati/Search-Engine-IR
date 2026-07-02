@@ -1,0 +1,171 @@
+Vegetable oil
+
+
+Vegetable oils are triglyceride oils made from plants. They are used in food and for cooking. In past centuries they were much used as fuel in oil lamps. Some kinds of plant oils that people use are palm oil, maize, olive, peanut, rapeseed, soy, and sunflower.
+
+Margarine is an artificial butter made from vegetable oil.
+
+
+Verb
+
+A verb is a kind of word (part of speech) that tells about an action or a state. It is the main part of a sentence: every sentence has a verb. In English, verbs are the only kind of word that changes to show past or present tense.
+
+Every language in the world has verbs, but they are not always used in the same ways. They also can have different properties in different languages. In some other languages (Chinese & Indonesian, for example) verbs do not change for past and present tense. This means the definition above only works well for English verbs.
+
+There are sixteen verbs used in . They are: "be, , , , go, see, , , , , , , , , , ."
+
+The word "verb" originally comes from "*were-", a Proto-Indo-European word meaning "a word". It comes to English through the Latin "verbum" and the Old French "verbe".
+
+In simple sentences, the verb may be one word: "The cat "sat" on the mat". However, the verb may be a phrase: "The cat "will sit" on the mat". 
+
+Verbal phrases can be extremely difficult to analyse: "I'm afraid I will need to be going soon". There seem to be three verbal phrases here, which mean something like "Sorry, I must go soon".
+
+In English and many other languages, verbs change their form. This is called inflection. Most English verbs have six inflected forms (see the table), but "be" has eight different forms.
+
+You should notice that some of the verb forms look the same. You can say they have the same shape. For example, the plain present and the plain form of "walk" have the same shape. The same is true for the past and the past participle. But these different forms can have different shapes in other verbs. For example, the plain present of "be" is usually "are" but the plain form is "be". Also, the past of "eat" is "ate", but the past participle is "eaten". When you look for a verb in the dictionary, it is usually the plain form that you look for.
+
+An English sentence must have at least one primary-form verb. Each main clause can only have one primary-form verb.
+
+English has two main kinds of verbs: normal verbs (called lexical verbs) and auxiliary verbs. The difference between them is mainly in where they can go in a sentence. Some verbs are in both groups, but there are very few auxiliary verbs in English. There are also two kinds of auxiliary verbs: modal verbs and non-modal verbs. The table below shows most of the English auxiliaries and a small number of other verbs.
+
+There are several auxiliary verbs:
+
+The following verbs are "modal auxiliaries".
+
+Auxiliary verbs also inflect for negation. Usually this is done by adding "not" or "n't".
+
+Sometimes the verb "do" is used with other verbs. It does not really change the meaning, but it can be used to make a strong statement.
+
+It is also used in the negative when no other auxiliary verbs are used.
+
+Sometimes it comes before the subject. This is called inversion and it usually means the sentence is a question.
+
+Many other languages do not use the verb "do" as an auxiliary verb. They use the simple present for "do", and the simple past or perfect for "did".
+
+There are three main systems related to the verb: tense, aspect, and mood.
+
+Tense is mainly used to say when the verb happens: in the past, present, or future. In order to explain and understand tense, it is useful to imagine time as a line on which past tense, present tense and future tense are positioned.
+
+Some languages have all three tenses, some have only two, and some have no tenses at all. English and Japanese for example have only two tenses: past and present. Chinese and Indonesian verbs do not show tense. Instead they use other words in the sentence to show when the verb happens.
+
+Aspect usually shows us things like whether the action is finished or not, or if something happens regularly. English has two aspects: progressive and perfect. In English, aspect is usually shown by using participle verb forms. Aspect can combine with present or past tense.
+
+English uses the gerund-participle, usually together with the auxiliary "be" (and its forms am, is, are, was, and were) to show the progressive aspect.
+
+Many other languages, such as French, do not use progressive tenses.
+
+
+The past perfect can be used to express an unrealized hope, wish, etc.
+
+After If, wish and would rather, the past perfect can be used to talk about past events that never happened.
+
+Finally, English mood is now usually shown by using modal verbs. In the past, English had a full mood system but that has almost completely disappeared. The subjunctive mood now uses the plain form. There is also a form of "be" that is used in conditionals to show that something is not true (e.g., If I were a bird, I would fly to California.)
+
+Certain parts of a sentence naturally come before verbs or after them, but these are not always the same for all verbs. The main sentence parts are: subject, object, complement, and modifier. 
+
+Almost all English sentences have subjects, but sentences that are orders (called imperatives) usually do not have any subjects. A subject usually comes before a verb, but it can also come after auxiliary verbs. In the following examples, the subject is underlined and the primary verb is in bold.
+
+Many verbs can be followed by an object. These verbs are called transitive verbs. In fact, some verbs must have an object (e.g., "take"), but some verbs never take an object (e.g., "sleep"). Verbs that do not take an object are called intransitive verbs. Some verbs can even have two objects. They are called ditransitive verbs. In the following examples, the object is underlined and the primary verb is in bold.
+
+Some verbs can or must be followed by a complement. These verbs are called linking verbs or copula. In the following examples, the complement is underlined and the verb is in bold.
+
+Verbs can be modified by various modifiers, mainly adverbs. Note that verbs generally do not need modifiers; it's usually a choice. In the following examples, the adverb is underlined and the verb is in bold.
+
+Verbs also commonly take a variety of other modifiers including prepositions.
+
+Sometimes a verb and another word can have the same shape. In these cases you can usually see the difference by looking at various properties of the words.
+
+Sometimes a verb and an adjective can have the same shape. Usually this happens with participles. For example, the present participle "interesting" and the adjective "interesting" look the same. Verbs are different from adjectives, though, because they cannot be modified by "very", "more", or "most". For example, you can say "That is very interesting," so you know interesting is an adjective here. But you cannot say "My teacher is very interesting me in math" because in this sentence "interesting" is a verb. On the other hand, if you cannot change the 'be' verb to 'seem' or 'become', it is probably a verb. 
+
+The gerund-particle sometimes looks like a noun. This is especially true when it is used as a subject, as in the following example:
+
+The main differences between these verbs and nouns are: modifiers, number, and object/complement
+
+Verbs cannot generally be modified by adjectives and nouns cannot generally be modified by adverbs. So, in "Running regularly is good for you", "running" is a verb because it is modified by "regularly", an adverb.
+
+Verbs cannot change for number, so if you can make the word plural, it is a noun, not a verb. For example, "this drawing is nice" can change to "these drawings are nice", so "drawing" is a noun. But "drawing trees is fun" cannot change to "drawings trees is fun", so it is a verb here.
+
+Many verbs can take objects or complements, but nouns cannot. So, in "parking the car is hard", "parking" is a verb because it takes the object "the car". But, if you say, "there's no parking", parking may be a noun because it does not have an object.
+
+Some verbs have become prepositions. Again, usually these share a shape with participles. Here are some examples:
+
+The main difference between verbs and prepositions is that verbs have a subject. Even if the subject is not written, you can understand what it is. Prepositions do not have a subject.
+
+Volume
+
+The volume of an object is a measure of the amount of space occupied by that object, and is not to be confused with mass. The volume of a mountain is much larger than the volume of a rock, for instance.
+
+By convention, the word volume implies a three-dimensional context where: 
+
+For objects at or near the Earth's surface, height or depth often refers to the dimension of the object along the local vertical. All physical objects occupy a volume, even if some are so thin that they appear to be two-dimensional, like a sheet of paper.
+
+The unit of volume in the International System of Units is the cubic meter, which is represented by the symbol m.
+
+In some fields or applications, one often uses different units to simplify the discussions or writings. For instance:
+
+
+Traditional units are still in encountered in some countries: Imperial units such as the gallon or the fluid ounce were in widespread use within the British Empire. Some of them are still popular in the United States, which also uses units like the bushel, the quart, the cup and the teaspoon (in cooking recipes, for example). See U.S. customary units for more examples.
+
+The volume of an object is not a fundamental property of that object: it can change with environmental conditions such as pressure and temperature, especially if the object is highly compressible.
+
+The volume of a mixture of fluids (liquids, gases) may or may not be equal to the sum of their volumes before they were mixed.
+
+In mathematics, the volume of simple geometric objects, written formula_1, can often be calculated on the basis of their shape and dimensions:
+
+The volume of a gas is typically that of its container, but it could be ill-defined, as in the case of the atmosphere, which has no clear upper limit. The volume of a liquid is often measured by pouring it into a graduated container. The volume of a small solid can be estimated by immersing it into a graduated container partially filled with a known amount of liquid, provided the solid is not soluble in the liquid.
+
+
+Venus
+
+Venus is the second planet from the Sun. Venus is the only planet in the Solar System that has a day longer than a year. The year length of Venus is 225 Earth days. The day length of Venus is 243 Earth days.
+
+Venus is a "terrestrial planet" because it has a solid, rocky surface like other planets in the inner Solar System. Astronomers have known Venus for thousands of years. The ancient Romans named it after their goddess Venus, goddess of love and beauty.
+
+Venus is the brightest thing in the night sky except for the Moon. It is sometimes called the "morning star" or the "evening star" as at some elongations it is easily seen just before the sun comes up in the morning. At other times, it can be seen just after the sun goes down in the evening. Venus comes closer to the Earth than any other planet does.
+
+Venus is sometimes called the sister planet of Earth as they are quite similar in size and gravity. In other ways the planets are very different. Venus' atmosphere (air) is mostly carbon dioxide with clouds of sulphuric acid. Sulphuric acid is a chemical that is poisonous to life. For this it is sometimes known as the Earth's "evil twin".
+
+The thick atmosphere makes it hard to see the surface. Until the late twentieth century many thought there might be life there. The pressure on Venus' surface is 92 times that of Earth. Venus is one of only 2 planets in the Solar System (the other being Mercury) that has no moons. Venus spins very slowly on its axis and it spins in the opposite direction to the other planets.
+
+Venus is a terrestrial planet so, like the Earth, its surface is made of rock. Venus is much hotter than Earth. All the carbon dioxide in the atmosphere acts like a blanket, trapping heat from the Sun. This effect is called the greenhouse effect and it is very strong on Venus. This makes the surface of Venus the hottest of any planet's surface in the Solar System with an estimated average temperature of . This is hot enough to melt lead or zinc.
+
+Venus has no oceans because it is much too hot for water. Venus' surface is a dry desert. Because of the clouds, only radar can map the surface. It is about 80% smooth, rocky plains, made mostly of basalt. Two higher areas called continents make up the north and south of the planet. The north is called "Ishtar Terra" and the south is called "Aphrodite Terra". They are named after the Babylonian and Greek goddesses of love.
+
+The surface of Venus looks like it has been shaped by volcanic activity. Venus has a lots of volcanoes. The surface of Venus is estimated to be 300–600 million years old.
+
+Unlike Earth or Mars, Venus does not have defined highlands or lowlands, and it does not have tectonic plates.
+
+Venus' atmosphere is mostly carbon dioxide and nitrogen gas with clouds of sulphuric acid. Because the atmosphere is so thick or dense the pressure is very high. The pressure is 92 times the pressure on Earth, enough to crush many things.
+
+It is impossible to see the planet's surface from space as the thick cloud layer reflects 60% of the light that hits it. The only way scientists are able to see it is by using infrared and ultraviolet cameras and radar.
+
+Scientists believe that billions of years ago, the atmosphere of Venus could have been like Earth's atmosphere. There may have been lots of water on the surface of Venus. But after 600 million to several billion years, the evaporation of the water put greenhouse gases into its atmosphere.
+
+In 1967, Venera 4 found that the magnetic field of Venus was much weaker than that of Earth. This magnetic field is induced by an interaction between the ionosphere and the solar wind. Venus' magnetosphere is not strong enough to protect the atmosphere from cosmic rays.
+
+Venus can sometimes be seen passing between the Sun and Earth. Venus looks like a black dot when seen through a special telescope. These passages are called "transits". These "transits" happen in pairs eight years apart. Then it is more than a hundred years to the next pair.
+
+Venus orbits the Sun at an average distance of about 108 million km (68~ million mi). It completes an orbit every 224.7 days. The rotation of Venus is slow. A Venusian sidereal day is longer than a Venusian year.
+
+Many man-made satellites have been sent to Venus to study it. They are:
+
+Mariner 2 was launched on August 27, 1962. It was made to study the atmosphere of Venus, its magnetic field, and mass. The last radio signal from Mariner 2 was received on January 3, 1963. Mariner 2 is still orbiting around the Sun today.
+
+Venera 4 was a probe made by the Soviet Union to explore Venus. The probe had a two probes. One was designed to enter the atmosphere of Venus and use a parachute to land on the surface. Another received the information from the probe on Venus to mission controllers on Earth. Venera 4 was launched on June 12, 1967. The last radio signal from Venera 4 was received on October 18, 1967.
+
+Mariner 5 was a spacecraft of the Mariner program. Mariner 5 was launched on June 14, 1967. The last radio signal from Mariner 5 was on October 14, 1968. Mariner 5 was made to study the magnetic field of Venus and to measure the hard ultraviolet spectrum, of the Venusian atmosphere.
+
+Venera 9 was a spacecraft made by the Soviet Union. It consisted of a probe to orbit Venus which was called an orbiter and another probe that will land on Venus which was called a lander. It was launched on June 8, 1975. The last radio signal from the orbiter was on March 22, 1976. The last radio signal was on October 22, 1975. The orbiter was the first spacecraft to orbit Venus, while the lander was the first to return pictures from the surface of another planet.
+
+Venera 10 was a spacecraft made by the Soviet Union. It consisted of an orbiter and a lander. It was launched on June 14, 1975.
+
+Venera 13 was a probe in the Soviet Venera program. It was made to explore Venus. It was launched on October 30, 1981. The last radio signal from the lander was on March 1, 1982. The last radio signal from the spacecraft that took the lander to Venus was on April 25, 1983.
+
+Venera 14 was a probe in the Soviet Venera program. It was made to explore Venus. It was launched on November 4, 1981. The last radio signal from the lander was on March 5, 1982. The last radio signal from the spacecraft that took the lander to Venus was on April 9, 1983.
+
+Venera 15 was a spacecraft sent to Venus by the Soviet Union. It was made to map the surface of Venus. It was launched on June 2, 1983. The last radio signal from Venera 15 was on January 5, 1985.
+
+Venera 16 was a spacecraft sent to Venus by the Soviet Union. It was made to map the surface of Venus. It was launched on June 7, 1983. Its last radio signal from Venera 16 was on June 13, 1985.
+
+
+

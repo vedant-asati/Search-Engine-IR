@@ -1,0 +1,204 @@
+Eighty Years' War
+
+
+The Eighty Years' War, also called Dutch Revolt, was a war between the Netherlands and Spain. It lasted from 1568 to 1648 but was interrupted by a truce between 1609 and 1621. The Peace of Westphalia ended the war. The Netherlands achieved independence in the Eighty Years' War.
+
+Exponent
+
+In mathematics, an exponent indicates how many copies of a number (known as the base) is multiplied together. 
+
+For example, in the number formula_1, 5 is the base and 4 is the exponent. This can be read as "5 to the power of 4". Therefore, in this example, four copies of 5 are multiplied together, which means that formula_2.
+
+In general, given two numbers formula_3 and formula_4, the number formula_5 can be read as "formula_3 raised to the power of formula_4" or "formula_3 to the formula_4th power", where formula_4 is the exponent.
+
+Bases raised to the power of two, formula_11, can be read the base "squared", because the area of a square with a side length of x is formula_12.
+
+Similarly, bases raised to the power of three, formula_13, can be called the base "cubed", because the area of a cube with a side length of x is formula_14.
+
+Exponents are used in algebra. Exponentiation is a way of shortening the process/equation of repeatedly multiplying many copies of a number. 
+
+An exponent is a number or symbol, placed above and to the right of the expression to which it applies, that indicates the number of times the expression is used as a factor. For example. the exponent "x" in formula_15 indicates x copies of formula_16 are multiplied together.
+
+There are some basic rules used in exponentiation
+
+1. Product Rule:
+
+Proof - When multiplying a base term by two different exponents formula_18, there are "m" number of "a'"s and "n" number of "a"'s.
+
+Since exponentiation is simply repeated multiplication of a base term, we get that: 
+
+therefore formula_20.
+
+For example, formula_21. This is true because at first, we had 2 threes times 4 threes which, when multiplied together, gives us 3 multiplied by itself 6 times, or 4+2 times. 
+
+2. Quotient Rule:
+
+Proof (when m > n) - formula_23
+
+By grouping the corresponding "a"’s, we get:
+
+Since corresponding "a"’s become 1, we are then left with
+
+therefore, formula_26.
+
+For example, formula_27. Notice that formula_28, which confirms the proof.
+
+In fact, this property holds when m < n as well, but in that case, we get negative exponents instead. When m < n, the format of the problem becomes formula_29. 
+
+For more information on negative exponents, see § Negative exponents below.
+
+3. Zero Rule:
+
+Proof: we showed in #1 that formula_31.
+
+This equation holds true for formula_32 as well, so 
+
+If this statement is true where formula_34, then formula_32 must equal one. That is:
+A negative exponent is the reciprocal of a number with a positive exponent which can be mathematically represented as formula_37 In the same way that regular exponents are considered repeated multiplication, negative exponents can be considered repeated division. 
+
+Negative exponents can also be different from -1. In this case the negative exponent can be separated from the positive exponent, so formula_38
+
+The formula for a negative exponent in terms of a whole number exponent is formula_39 There are more than one ways to prove this. The first proof involves a pattern form. It is not always a good idea to use patterns because in cases like exponents they may not be complete patterns for every case, but the proof still holds. 
+
+Proof #1: Why is formula_40 ?
+
+divide both sides by formula_44
+
+The second proof proves exactly the same thing but dives further into matching equalities 
+
+Proof #2: formula_47
+
+everything in the next row is proved by the rules in the exponent section
+
+therefore formula_52
+
+If we also have a multiplication, like in formula_53, it would be written as formula_54
+
+A complex number can also be taken to the power of another complex number. The relationship between imaginary numbers and trigonometry, which produces the multiplication formula
+
+This formula basically states that the multiplication of complex numbers is related to addition of angles.
+
+There are some relationships between functions and “infinite degree polynomials”, that are called series representations of the functions. The important series representations that we will focus on are:
+
+From these representations, you should notice that the terms of the sine and cosine series combine, along with some sign changes, to make the exponential series over factorial. By introducing the number i into the equation, we get
+
+This result is often used as the beginning of the definition for complex number exponents.
+
+There are some cases where we are raising other numbers to the power i. For example, we can use the following relationship formula_60. Here using base 2 and exponent i, we get
+
+When using base i and exponent i, we get
+
+Now we can look at a general formula.
+
+We can rewrite the formula_64 in the trigonometric form formula_65.
+
+By the relationship we found between trigonometry and complex exponent, we can rewrite the equation in complex exponential form, formula_66.
+
+Substituting this equation in the exponent in our original equation, we get formula_67
+
+This can be simplified to be formula_68
+
+The real and imaginary parts of the exponent can be simplified separately to obtain to result formula_69
+
+Because there are many ways to describe the angle P, this formula can give many answers. If we allow the variable P to vary by multiples of formula_70, we get the final result 
+
+
+Moresnet
+
+Moresnet or Neutral Moresnet () was a very small territory that existed from 1816 to 1919. It had a size of 3.5 km². It existed because its neighbours could not agree on who should own it, so they decided to make it a neutral territory where both neighbours would both have power. It was 7 km Southwest of Aix-la-Chapelle (Germany), and south of the points were the borders of Germany, Belgium and the Netherlands come together on the Vaalserberg. The Inhabitants was Germans, Flemish, Walloons and Dutchs.
+
+At the Congress of Vienna in 1815 many borders and countries changed. One of the borders was the one between the new United Kingdom of the Netherlands and Prussia. For the most part Prussia and the Netherlands agreed on the border, because it was mostly the same as the old border. Around Moresnet there was a problem. Between the villages of Moresnet and Neu-Moresnet was the zinc mine of Vieille Montagne (in French) / Altenberg (in German). Both countries wanted to have this mine. In 1816 it was decided that the village of Moresnet itself would become part of the Netherlands, Neu-Moresnet would become part of Prussia and the mine and the village of Kelmis around it would become neutral territory where both countries shared the power.
+
+Neutral Moresnet was shaped more or less like a triangle. The southern border was the road between Aix-la-Chapelle and Liège. The mine was just to the north of this road. The most northerly point of the country was the Vaalserberg. When Belgium became independent from the Netherlands in 1830, the land on the Dutch side became Belgian. So from 1830 Belgium and Prussia were in power in Moresnet. At first Moresnet was governed by two royal commissioners, one from each neighbour. Later Moresnet got its own rulers: a mayor and a council of ten members were installed. The mayor was the Head of State, he was appointed by the council.
+
+Most people in Moresnet worked in the zinc mine. Many people from the neighbouring countries also worked in the zinc mine. Because Moresnet was neutral, there were very low taxes and there were no import-tariffs (like in Andorra now). The people from Moresnet were allowed to choose in which army they wanted to serve, but they were not allowed to have their own army.
+
+The mine was exhausted by 1885, so people from Moresnet had to find a new way to find money. Some wanted to start a casino, or issue their own stamps. Dr. Wilhelm Molly, wanted to change Moresnet into a country where everyone would speak Esperanto. He wanted to name the country Amikejo ("place of friendship"). None of these plans succeeded. Belgium and Prussia (which became a part of Germany in 1871) both wanted to take over the territory. In 1914, in the First World War, Germany invaded Belgium and occupied Moresnet. In 1915 they officially annexed it, so Neutral Moresnet did not exist any more.
+
+In 1919, after the war, in the Treaty of Versailles it was decided that Moresnet would become part of Belgium. From 1940 to 1944, during World War II, Moresnet was occupied by Germany again, but since 1944 it has been part of Belgium again.
+
+MacGyver
+
+MacGyver was an American television series. It was first shown in September 1985 on the television network, ABC. The main character, Angus MacGyver (played by Richard Dean Anderson), often prevented inevitable defeats, saved lives, distracted enemies, made weapons, and even performed everyday tasks usually using very few objects that seemed irrelevant or abnormal to use in such situations. His use of duct tape has led some parts of the world to call it "MacGyver tape."
+
+The term "MacGyver" now means someone who is able to perform amazing feats with the use of very few and often irrelevant objects.
+
+Quark
+
+A quark is an elementary particle which makes up hadrons, the most stable of which are protons and neutrons. Atoms are made of protons, neutrons and electrons. It was once thought that all three of those were fundamental particles, which cannot be broken up into anything smaller, but after the invention of the particle accelerator, it was discovered that electrons are fundamental particles, but neutrons and protons are not. Neutrons and protons are made up of quarks, which are held together by gluons.
+
+There are six types of quarks. The types are called flavours. The flavours are up (u), down (d), strange (s), charm (c), top (t), and bottom (b). Up, charm and top quarks have a charge of +, while down, strange and bottom quarks have a charge of -. Each quark has a matching antiquark. Antiquarks have a charge opposite to that of their quarks; meaning that up, charm and top antiquarks have a charge of - and down, strange and bottom antiquarks have a charge of +.
+
+Only up and down quarks are found inside of atoms of normal matter. Two up quarks and one down make a proton ( + - = +1 charge) while two down quarks and one up make a neutron ( - - = 0 charge). The other four flavours are not seen naturally on Earth, but they can be made in particle accelerators. Some of them may also exist inside of stars.
+
+When two or more quarks are held together by the strong nuclear force, the particle formed is called a hadron. Quarks that make the quantum number of hadrons are named 'valence quarks'. The two families of hadrons are baryons (made of three valence quarks) and mesons (which are made from a quark and an antiquark). Some examples of baryons are protons and neutrons, and examples of mesons are pions and kaons.
+
+When quarks are stretched farther and farther, the force that holds them together becomes bigger. When it comes to the point when quarks are separated, they form two sets of quarks, because the energy that is put into trying to separate them is enough to form two new quarks. So scientists think it is not possible to have one quark by itself.
+
+Quarks also have color charge and react via the weak force. For baryons, each quark is green, red or blue. One can be one color at one time. For mesons, the quark is red, green or blue and the antiquark is antired (cyan), antiblue (yellow) or antigreen (pink). Quarks can change color by emitting a W boson. For example, if a green color-charged quark emits a red-antigreen W boson to a red quark, the green quark will become red and the red quark will become green. Therefore, W and Z bosons (which mediate the weak force for neutrinos) help particles react via the weak interaction.
+
+This also causes the beta and beta-plus decay of atoms where a neutron decays into a proton, electron and electron antineutrino, and makes a proton turn into a neutron, positron and electron neutrino.
+
+The idea (or model) for quarks was proposed by physicists Murray Gell-Mann and George Zweig in 1964. Other scientists began searching for evidence of quarks, and succeeded in 1968.
+
+
+Northern Hemisphere
+
+The Northern Hemisphere is the part of the planet that is north of the equator. It has about 90 percent of the world's population and most of the world's land. All of North America and Europe are in the Northern Hemisphere. Most of Asia, two-thirds of Africa and 10 percent of South America are also in this hemisphere. The three largest countries by population; India, China, and the United States, are in the Northern Hemisphere.
+
+
+Yesterday
+
+Yesterday might mean:
+
+
+Messiah
+
+Messiah or the Anointed One is the figure promised by God to the Jews for the salvation of the world. 
+
+Other people in real life or fiction are called messianic if they have the qualities of a messiah, or people think they will bring about a better world.
+
+
+Christianity, which began in Israel with Jewish followers of Jesus (), holds that the Messiah foretold by the Jewish Scriptures is Jesus, and that in fulfillment of prophecy Jesus died for the sins of the world, rose from the dead and lives today, seated at the right hand of God until His return. Most Jews do not hold these beliefs; those who do are sometimes called Messianic Jews. Some Messianic Jews and other Christians see the fact that a majority of Jews do not hold these beliefs as a fulfillment of prophecy. (see Epistle to the Romans chapter 10)
+
+Muslims believe that Jesus was the son of Mary, that he was a mighty prophet of God and that he was the Messiah (though, in Islam, the Messiah has a different role than he does in Christianity or Judaism). They believe that he will come again one day in his Second Coming to fight besides the Mahdi against the "Dajjal" ("false messiah").
+
+César Chávez
+
+Cesar Chavez (born César Estrada Chávez (March 31, 1927April 23, 1993) was an American farmworker, labor leader and civil rights activist. Chávez started the National Farm Workers Association (NFWA) along with Dolores Huerta. He wanted equal rights for Mexicans working in the United States. This union became the United Farm Workers. He led a boycott against grape companies to gain rights for workers. Chávez used nonviolence to make these changes. Chavez is thought of as one of the leaders in the movement for Chicanos to gain more rights in the late-20th century.
+
+Chávez was born near Yuma, Arizona and went to over 37 schools. He graduated from the eighth grade. He did most of his organizing in California, especially near Bakersfield. Fred Ross taught him to lead unions. Fred Ross was a student of Saul Alinsky.
+
+In 1965, Chávez and the NFWA started a strike for grape-pickers in California. At the same time, he asked Americans to boycott grapes from California. In 1970, the migrant workers won their fight for better pay.
+
+He kept working against unfair labor rules. He stopped eating in protest three times because of low pay and bad working conditions. When he died, he was leading another grape boycott to stop the use of pesticides.
+
+Chávez is respected in California and other states. In 2000, California's state legislature started a holiday to honor him. The holiday is on March 31, Chávez's birthday. This is the first time that a US public holiday honored a Mexican American or a union leader. Many cities have streets or places named for him. These cities include San Francisco, Los Angeles, Albuquerque, New Mexico, Austin, Texas, Chicago, Illinois, Milwaukee, and Salt Lake City. In 1998 he was inducted into the Hall of Honor by the United States Department of Labor.
+
+
+Hamilton, Ontario
+
+Hamilton is a medium-sized city in the Canadian province of Ontario.
+
+For over 150 years, Hamilton has had factories. For over 100 years, most of them have been steel factories like Stelco and Dofasco. Since the strike of 1946, the workers at Stelco have had a trade union. The workers at Dofasco do not have a trade union. There was also a Studebaker car factory in Hamilton until 1966.
+
+Since the 1980s, industries in Hamilton have had trouble making money and keeping people working. In 2004, Stelco filed for bankruptcy. This means Stelco asked the courts if it could stop paying money it borrowed back to banks. The future for industry does not look good for Hamiltonians.
+
+However, other businesses look much better. People might not think of schools like McMaster University and Mohawk College as businesses, but they are. Students and teachers come to Hamilton and spend their money here. Doctors, teachers, nurses and other professionals train here. Even Tim Hortons doughnut stores started in Hamilton in 1965.
+
+CKOC 1150
+
+CHCH CH
+
+CH has been a local TV station in Hamilton since 1954. Steve Smith, known for starring in "The Red Green Show", started working at CH. "Tiny Talent Time" is another popular show on CHCH which features many children.
+
+Some movies were filmed in and around Hamilton, such as "Anne of Green Gables","5ive Girls" and "Rocky V", because it looks like other places.
+
+Folksinger Stan Rogers was born in Dundas, which became part of Hamilton in 2001. The Appleton sisters, now famous in Britain, were born in Hamilton. Daniel Lanois is an important singer himself and helped the band U2 with its music. He lived in Hamilton and recorded at Grant Avenue Studios.
+
+"The Hamilton Spectator" newspaper has been around since the 1840s. It offers tours showing its giant printing press and writers' offices. It also has school projects which include a classroom subscription to the newspaper for every student.
+
+Government is how people organize themselves to be directed by politics. Hamilton was part of Wentworth County until 1974. Wentworth County included the townships of: Ancaster, Barton, Beverly, Binbrook, East Flamborough, West Flamborough, Glanford and Saltfleet. Here is how the government of Hamilton changed over the years:
+
+
+

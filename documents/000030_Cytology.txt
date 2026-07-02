@@ -1,0 +1,96 @@
+Cytology
+
+
+Cytology is the study of the cells, especially their appearance and structure. Cells are the small parts that make up all living things, and their effects on each other and their environment.
+
+There are two types of cells. Prokaryotic cells do not have a clear and easy-to-see nucleus, and do not have a membrane, or wall, around them. Eukaryotic cells have an easy-to-see nucleus where all of the cell's functions take place, and a membrane around them. The main organelles of a cell and their uses are: 
+
+
+Christian
+
+A Christian () is a person who believes in Christianity, a monotheistic religion. Christianity is mostly about the life and teachings of Jesus Christ, in the New Testament and interpreted or prophesied in the Hebrew Bible/Old Testament. Christianity is the world's largest religion, with 2.1 billion followers around the world.
+
+Christians consider the Holy Bible to be a sacred book, inspired by God. The Holy Bible is a combination of the Hebrew Bible, or Torah, and a collection of writings called the New Testament. Views on the importance of these writings vary. Some Christian groups prefer to favor the New Testament, while others believe the entire Bible is equally important. Also, while many Christians prefer to consider the Bible as fully true, not all Christian groups believe that it is completely accurate. 
+
+The question of "Who is a Christian?" can be very difficult. Christians often disagree over this due to their differences in opinion on spiritual matters. In countries where most persons were baptized in the state church or the majority Christian church, the term "Christian" is a default label for citizenship or for "people like us".
+In this context, religious or ethnic minorities can use "Christians" or "you Christians" as a term for majority members of society who do not belong to their group - even in a very secular (though formally Christian) society.
+
+Persons who are more devoted the their Christian faith prefer not to use the word so broadly, but only use it to refer to those who are active in their Christian religion and really believe the teachings of Jesus and their church. In some Christian movements (especially Fundamentalism and Evangelicalism), to be a born-again Christian is to undergo a "spiritual rebirth" by believing in the Bible's teachings about Jesus and choosing to follow him.
+
+Many Christians choose to go to church. Most Christians believe this to be a sign of their religious devotion to God and an act of worship. However, some Christian groups think that one can be a Christian without ever going to a church. Though there are many different viewpoints on the issue, most Protestants believe all Christians are part of the spiritual church of Christ, whether or not those Christians go to an actual church each week. On the other hand, Catholics in the past have believed that the Holy Catholic Church is the only true church.
+
+
+Cheese
+
+Cheese is a dairy product that is made from milk that is from cows. There are many types of cheese, such as cheddar, Swiss, and provolone. 
+
+Many things affect the form, texture, colour and flavour of a cheese. These include the milk (cow or goat), if the milk has been pasteurized, the amount of butterfat, bacteria and mold in the cheese, how the cheese is made, how much fat is in the cheese, and how old the cheese is.
+
+People have been making cheese since before history was written down. It is not known when cheese was first made. It is known that cheese was eaten by the Sumerians in about 4000 BC. 
+There are many different ways to classify cheeses. Some ways include:
+
+
+There are also man-made foods that some people use instead of cheese. These are called Cheese analogues.
+
+Different types of cheese include:
+
+Constitution
+
+The constitution of a country (or a state) is a special type of law document that tells how its government is supposed to work. It tells how the country's leaders are to be chosen and how long they get to stay in office, how new laws are made and old laws are to be changed or removed based on law, what kind of people are allowed to vote and what other rights they are guaranteed, and how the constitution can be changed.
+
+Limits are put on the Government in how much power they have within the Constitution "(see Rule of Law )". On the other hand, countries with repressive or corrupt governments frequently do not stick to their constitutions, or have bad constitutions without giving freedom to citizens and others. This can be known as dictatorship or simply "bending the rules". A Constitution is often a way of uniting within a Federation.
+
+The UK's constitution is not written in one single document like many other countries' are. In fact, the UK's constitution is not completely written down at all. Some of it can be found in writing, starting with the Magna Carta of 1215 and the Bill of Rights Act 1689 and including more modern Acts of Parliament. Other parts of it are considered common law and are made up of the decisions of judges over many hundreds of years in a system called legal or judicial precedence. Because of this, some people say that the United Kingdom has a "de facto" or "unwritten" constitution.
+The United States in 1787 began a trend in the writing of constitutions. The United States Constitution is also the shortest that people are still using, and it has been changed (amended) many times over the years. It was made after the colonists won their independence from Britain. At first they had the Articles of Confederation but the Articles were replaced with today's Constitution.
+
+The Indian constitution of 1950 is the longest ever written constitution in the world. It originally consisted of 395 Articles arranged under 22 Parts and 8 Schedules. As of 2021, it has 470 Articles, 12 schedules, and 25 Parts with 5 appendices and 98 amendments.
+
+
+Circle
+
+A circle, also known as a nought, is a round, two-dimensional shape. All points on the edge of the circle are at the same distance from the center.
+
+The radius of a circle is a line from the center of the circle to a point on the side. Mathematicians use the letter formula_1 for the length of a circle's radius. The center of a circle is the point in the very middle. It is often written as formula_2.
+
+The diameter (meaning "all the way across") of a circle is a straight line that goes from one side to the opposite and right through the center of the circle. Mathematicians use the letter formula_3 for the length of this line. The diameter of a circle is equal to twice its radius (formula_3 equals formula_5 times formula_1):
+
+The circumference (meaning "all the way around") of a circle is the line that goes around the center of the circle. Mathematicians use the letter formula_8 for the length of this line.
+
+The number formula_9 (written as the Greek letter "pi") is a very useful number. It is the length of the circumference divided by the length of the diameter (formula_9 equals formula_8 divided by formula_3). As a fraction the number formula_9 is equal to about formula_14 or formula_15 (which is closer) and as a number it is about formula_16.
+
+The area, formula_17, inside a circle is equal to the radius multiplied by itself, then multiplied by formula_9 (formula_17 equals formula_9 times formula_1 times formula_1).
+
+formula_9 can be measured by drawing a circle, then measuring its diameter (formula_3) and circumference (formula_8). This is because the circumference of a circle is always equal to formula_9 times its diameter.
+
+formula_9 can also be calculated by only using mathematical methods. Most methods used for calculating the value of formula_9 have desirable mathematical properties. However, they are hard to understand without knowing trigonometry and calculus. However, some methods are quite simple, such as this form of the Gregory-Leibniz series:
+
+While that series is easy to write and calculate, it is not easy to see why it equals formula_9. A much easier way to approach is to draw an imaginary circle of radius formula_1 centered at the origin. Then any point formula_34 whose distance formula_3 from the origin is less than formula_1, calculated by the Pythagorean theorem, will be inside the circle:
+
+Finding a set of points inside the circle allows the circle's area formula_17 to be estimated, for example, by using integer coordinates for a big formula_1. Since the area formula_17 of a circle is formula_9 times the radius squared, formula_9 can be approximated by using the following formula:
+
+Using the radius: formula_44
+
+Using the diameter: formula_45
+
+Using the circumference: formula_46
+
+Using the radius: formula_47
+
+Using the diameter: formula_48
+
+Using the area: formula_49
+
+Using the radius: formula_7
+
+Using the circumference: formula_51
+
+Using the area: formula_52
+
+Using the diameter: formula_53
+
+Using the circumference: formula_54
+
+Using the area: formula_55
+
+
+

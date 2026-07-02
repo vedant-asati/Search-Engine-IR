@@ -1,0 +1,18 @@
+Angle
+
+
+When two straight lines come together, they make an angle. The two lines are called the "sides" of the angle, and they meet at a point. A flat surface (called a plane) also forms an angle when it meets another.
+
+To represent an angle, Greek letters such as formula_1 (alpha), formula_2 (beta), formula_3 (gamma) and formula_4 (theta) are sometimes used. An angle indicates the space between its sides, or the amount of rotation needed to make one side coincide the other.
+
+To measure the size of an angle, we use units called degrees. A degree is a standard unit and we use the symbol ° after a number to show that it is a number of degrees. We can use a decimal number or a fraction for part of a degree, but a degree can also be divided into 60 minutes (1° = 60'), and a minute can be divided into 60 seconds (1' = 60"). So 22.5°, 22° and 22° 30' are all the same angle. 
+
+In mathematics, angles can also be (and often are) measured in radians instead of degrees, by using the conversion factor formula_5 (for example, formula_6). Yet another unit of angle is gradian, with formula_7. 
+
+Angles are studied in geometry, where an angle where edges meet is often called a vertex. For example, the three sides of a triangle are its "edges" and two of the edges meet at each "vertex". Similarly, two of the six sides (or "faces") of a cube meet at each of its twelve edges, and three edges meet at each of its eight corners (or vertices, which is the plural version of "vertex").
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+Student
+
+
+A student is a person who goes to school to learn something. Students can be children, teenagers, or adults who are going to school, but it may also be other people who are learning, such as in college or university. A younger student is often called a pupil. Usually, students will learn from a teacher or a lecturer if at university. They also do much reading. A student can also be a person studying for a specific profession.
+
+Students in school learn subjects. There are many subjects in school like:
+
+
+Suburb
+
+A suburb is an area of a town or city, a little away from the downtown (city center), where there are fewer big buildings and mainly houses, schools and shops. Such places are called suburban areas or suburban districts. Sometimes, the suburbs cover a very large area. The suburbs are part of the metropolitan area and may be legally part of the main city.
+
+Since the Industrial revolution, urbanization has spread very quickly and far. Transport in the form of trams, buses, trains and cars allows commuting from distant homes to work in the inner city. This led to the growth of suburbs as residential areas. Housing commonly includes Detached houses and semi-detached houses and flats. Houses are built farther apart than in the inner city and there is often space for gardens and parks.
+
+As cities grow outwards, they begin to take over the surrounding countryside. Authorities have created green belts on the undeveloped land around a city to prevent urban sprawl and to prevent the towns and cities merging into one. They also encourage development within the town, and protect the countryside. The need for new houses, particularly large detached and semi-detached houses in pleasant surroundings, means that some areas of green belt land have been built on and others are threatened. That's because it is cheaper to build on empty land than to redevelop brownfield sites in older parts of the town or city.
+
+
+Skyscraper
+
+A skyscraper is a very tall high-rise building, usually more than 152 metres (500 feet) in height. Most skyscrapers are built in urban areas such as cities, and they are very common in the central business district (also called downtown) areas of many large cities including New York City, Chicago, London, Paris, Sydney, Beijing, Berlin, Toronto, Moscow, Hong Kong and Tokyo. Skyscrapers are common in downtown districts where it's more economical to build up instead of out.
+Originally, the word skyscraper meant a tall sail on a sailing ship. Over time, the word's meaning has changed, and today it means a tall building. Until the nineteenth century, buildings taller than six stories tall were not common. Tall buildings made of weak materials would fall down. In addition, people did not like walking up many steps and running water could only be brought up to fifty feet (15m) high.
+
+Better technology helped make skyscrapers more common. Stronger building materials such as steel and reinforced concrete were developed, so stronger buildings could be made. Water pumps brought water up to heights above fifty feet.
+
+The first building to be considered a skyscraper, the Home Insurance Building, was built in Chicago, Illinois in the United States, and was designed by William LeBaron Jenney. The building, ten stories high, was built from 1884 to 1885. It was destroyed in 1931 because they wanted to build another building in its previous place.
+
+In the same year the Home Insurance Building was destroyed, one of the oldest and most famous skyscrapers, the Empire State Building, opened in New York City. Later in the 20th century, people started building skyscrapers in cities that did not have many tall buildings in the past. In 1973, the then-called Sears Tower in Chicago was finished and became the world's tallest building until the late 1990s. It took the record from the World Trade Center in New York City, which opened in 1970 but was destroyed in the September 11, 2001 attacks.
+
+Many taller buildings have been built since then, including Taipei 101 in Taipei. This building was the world's tallest from 2004 until 2008, when the Burj Khalifa in Dubai opened. Burj Khalifa is at this time the tallest building and man-made structure ever made, but the Jeddah Tower in Jeddah, which is still being built, will be even taller.
+
+
+Integer
+
+In mathematics, integers are whole numbers (natural numbers, their negatives and zero). Integers can also be shown on a number line like this:
+
+formula_1
+
+In particular, zero or 0 is an integer that is neither positive nor negative. An integer is a whole number with no fractional or decimal part.
+
+Integers have no smallest or largest value because for any given integer, there is always a larger and smaller integer. Any integer is either greater than or smaller than any other integer. Consecutive integers are integers that come after each other (as in formula_2).
+
+The sum, difference and product of integers is always an integer.(for example, (12 + 2345 × (67 - 8)) × 9 is an integer). An integer divided by an integer is sometimes not an integer (for example, 1 ÷ 2 = 0.5).
+
+formula_3 or formula_4 is the name of the set of integers, and formula_5 is the set of positive integers. (formula_3, +, 0) is an abelian group.
+
+The number of integers is infinite. The cardinal number of formula_3 is formula_8. The ordinal number of formula_3 is formula_10.
+
+To sum up, an integer is a whole number that has no decimals.
+
+In some programming languages, like C, there are types called "int" or "integer."
+
+Natural number
+
+Natural numbers, also called counting numbers, are the numbers used for counting things. Natural numbers are the numbers small children learn about when they first start to count. Natural numbers are always whole numbers (integers) and exclude zero, so one is the smallest natural number. The set of natural numbers can be represented by the symbol formula_1.
+
+There is no largest natural number. The next natural number can be found by adding 1 to the current natural number, producing numbers that go on "forever". There is no natural number that is infinite in size. Any natural number can be reached by adding 1 enough times to the smallest natural number.
+
+The following types of numbers are not natural numbers:
+
+
+
+
+

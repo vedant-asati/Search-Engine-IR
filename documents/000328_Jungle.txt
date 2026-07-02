@@ -1,0 +1,100 @@
+Jungle
+
+
+The jungle is a place in a rainforest where the forest floor is covered with plants. Like other rainy places, they have many rivers or streams. Scientists think that more types of animals and plants live in the jungles than everywhere else. When people talk about jungles, they sometimes mean the whole rainforest.
+
+The crowding in a jungle leaves little room to walk. This may make it dangerous to people. However, it also has benefits. The many plants and animals can provide food for foraging. 
+
+The Amazon rainforest is thick and dark jungle in many places in nine countries. However, most of this forest is in Brazil, South America.
+
+Light
+
+Light is a form of electromagnetic radiation. It is the natural agent that stimulates sight and makes things easy to see. Light is the opposite of darkness.
+
+Light has a wavelength. Some wavelengths can be seen by the human eye. Others cannot. Many animals can see light. They need it to find food, water, and other things.
+
+Light makes up a part of both the electromagnetic spectrum and radiation given off by stars, like the sun. The light that comes from the sun reaches the Earth and makes it bright. This is called daytime.
+
+The study of light is known as optics. When light hits an opaque object, it makes a shadow. When light hits a transparent object, it passes through it, almost completely with making a shadow.
+
+Light is a form of electromagnetic radiation that shows properties of both waves and particles. It is a form of energy. Light also keeps the Earth warm. Light exists in tiny energy packets called photons. Each wave has a wavelength or frequency. The human eye sees each wavelength as a different color. Rainbows show the entire spectrum of visible light. The separate colors, moving in from the outer edges, are red, orange, yellow, green, blue, indigo and violet. Other colors can be seen only with special cameras or instruments: Wavelengths up the frequency of red are called infrared, and higher than of violet are called ultraviolet.
+
+The main properties of light are intensity, polarization, phase and orbital angular momentum.
+
+In physics, the term "light" sometimes means electromagnetic radiation of any wavelength, whether it can be seen or not.
+
+In a vacuum, the speed of light is 299,792,458 meters per second, or about 186,282 miles per second. This means it takes about 7 minutes for light to reach Earth from the Sun. 
+
+Light moves in a straight line. The straight line path is often drawn as a ray that moves in one direction. Ray diagrams are used to illustrate light traveling from one place to another. A beam of light can be thought of as a set of light rays.
+
+Objects that block rays of light can create shadows. Opaque objects block all light rays and create a darker shadow. Translucent objects block some rays and scatter others. They create a lighter shadow. Transparent things will allow almost all light rays to pass straight through. They have no or very little shadow. Light can easily move through transparent things. When light is not in a vacuum, it travels slower than the speed of light. The slowest speed of light ever recorded was 39 miles per hour.
+
+Our eyes react to light. When we see something, we see the light it reflects, or the light it gives off. For example, a lamp gives off light. Everything else in the room the lamp is in reflects the lamp's light. As the viewer, one cannot directly determine where the ray of light came from prior to reflecting off an object. Humans can only see rays of light traveling directly into the eyes.
+
+Every color of light has a different wavelength. The shorter the wavelength, the more energy the light has. The speed of light does not depend on its energy. Going through translucent objects can slow light down by a very small amount.
+
+White light is made up of all the many colors of light added together. When white light shines through a prism, it splits up into different colors, becoming a spectrum. The spectrum contains all of the wavelengths of light that we can see. Red light has the longest wavelength, and violet (purple) light has the shortest.
+
+Light with a wavelength shorter than violet is called ultraviolet light. X-rays and gamma rays are forms of light with even shorter wavelengths than ultraviolet. Light with a wavelength longer than red is called infrared light. Radio waves are a form of electromagnetic radiation with a wavelength longer than infrared light. The microwaves that are used to heat food in a microwave oven are also a form of electromagnetic radiation. Our eyes cannot see those kinds of energy, but there are some cameras that can see them. The various forms of light, both visible and invisible are the electromagnetic spectrum.
+
+When light is refracted in raindrops, a rainbow is made. The raindrop acts like a prism and refracts the light until we can see the colors of the spectrum.
+
+Light and color are forms of analog information. However, electronic cameras and computer displays work with digital information. Electronic cameras or document scanners make a digital version of a color image by separating out the full color image into separate red, green, and blue images. Later, a digital display uses pixels of just those three colors. Computer screens use only these three colors in different brightness levels. The brain puts them together to see all of the other colors in the image.
+
+People think objects "have" a color. The color of objects is because the molecules that make up the object absorb certain light waves, leaving the other light waves to bounce off. The human eye sees the wavelengths of all of the light that was not absorbed. This gives the brain the impression that there is a color.
+
+Light is very hot if it is centered in one direction. That is why if you point a magnifying glass at an ant, it burns the ant. Centered light can also burn metal.
+
+Stockholm
+
+Stockholm is the capital city of Sweden. It is also the biggest city in Sweden. It is on the east coast of the country. The city is built on islands, with canals and open water in the inner city. Stockholm is found between Sweden's third largest lake, Mälaren, and the Baltic Sea.
+
+Tyresta National Park is near Stockholm.
+
+Central Stockholm has four different parts - Kungsholmen, Södermalm, Norrmalm and Östermalm. Kungsholmen and Södermalm are islands, while Norrmalm and Östermalm are parts of the mainland. Also, there are several smaller islands in the inner city - Gamla Stan, Riddarholmen, Djurgården and Skeppsholmen. Since Stockholm has so many islands, it is sometimes referred to as the "Venice of the North".
+
+Gamla Stan is the oldest part of the city - the name means "Old Town", and is usually called that in English. Djurgården is mostly a large park, but there are buildings on the island. Most of these are museums that commemorate Sweden's and Stockholm's past - like Skansen, a zoo with a Swedish theme. Skeppsholmen is an island that used to be a training ground and military school, but most of the buildings are now used for museums and art galleries, such as the Modern Museum, or the East Asian museum. Riddarholmen is a part of Gamla Stan, but actually a different island.
+
+All of the islands in Stockholm are connected by several bridges. The biggest one is Västerbron, going from Kungsholmen to Södermalm.
+
+Birger Jarl is considered the founder of Stockholm. It is believed that he rebuilt a defense building in the 13th century on what is today the island of the Old town. Around the fortification, a town grew. The town grew mainly because of its sea and land trading.
+
+The last Wikimania conference is hosted in this city in 2019.
+
+Rain
+
+Rain is a kind of precipitation. Precipitation is any kind of water that falls from clouds in the sky, like rain, hail, sleet and snow. It is measured by a rain gauge. Rain is part of the water cycle.
+
+Clouds will often absorb smoke to create rain, commonly referred to as "nature's laundry" due to this process.
+
+Some places have frequent rain. This makes rainforests. Some have little rain. This makes deserts.
+
+A rainstorm is a sudden heavy fall of rain. It may cause flash floods in valleys. Heavy rain for a long time may make floods that destroy houses and drown people. Also, landslides may happen.
+
+When the Sun heats the Earth's surface, the ground heats the air above it. Convection makes the air rise and cool. When it cools to the dew point, clouds form and rain follows.This usually occurs on flat land. This type of rainfall often causes summer showers and thunderstorms.
+
+Relief rain usually occurs along coastal areas where a line of hills runs along the coast. When wet onshore wind from the sea meets a mountain, hill or any other sort of barrier, it is forced to rise along the slope and cools. When the air temperature falls to its dew point, water vapour condenses to form clouds. When the clouds can no longer hold the water droplets, relief rain begins to fall on the windward slope of the mountain. On the leeward slope, air sinks, it is warmed and further dried by compression. Therefore, the leeward slope is known as rain shadow. Moist winds blow in from the sea and are forced to rise over the land. The air cools and the water vapour condenses, forming rain drops. The rainiest places in the world are places that have relief rainfall. 
+
+Frontal rain happens when cooler air and warmer, humid air meet in a weather front. The less dense warm air rises and condenses forming clouds. These clouds grow and eventually create rain. In some places on the northern temperate zone the cold air front tends to come from the north west and the warm air front comes from the south west.
+
+Some people collect rain in a rainwater tank. People use rainwater for watering plants, cleaning the house, bathing, or drinking. It is not always safe to drink rainwater. It can have bacteria, parasites, viruses, and chemicals that could make people sick.
+
+
+rain water drink
+
+2009
+
+2009 (MMIX) was .
+2009 was called the:
+2009 was the Chinese Year of Earth Ox based on the 12-year Chinese Zodiac cycle.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,199 @@
+Abel Tasman
+
+
+Abel Janszoon Tasman (1603–1659) was a Dutch sea explorer. He found Tasmania and New Zealand while on voyages in 1642 and 1644, in the service of the VOC (Dutch East India Company). He also made the first historical sightings of large parts of Australia.
+
+He was born in Lutjegast, Netherlands. He went to Batavia (now called Jakarta) to work for the VOC in 1633. He went back to Holland in 1636. He went back to Batavia with his wife, Jannetie Tjaerss, two years later. He went north to Japan in 1640. In 1642 Tasman went south to Palembang.
+
+Tasman set Governor General of the Dutch East Indies. This man sailed around to the east coast of Van Diemen's Land and claimed the land for the Dutch on December 3, 1642. The ships then sailed west and found New Zealand. His ships were attacked by Maori in large war canoes (boats) and four sailors died. Tasman then sailed north-east to Tonga and Fiji. He then sailed north west to New Guinea and got back to Batavia in June 1643.
+
+In 1644 Tasman sailed from Batavia with the ships "Limmen", "Zeemeeuw" and "Bracq". He sailed along the west coast of New Guinea, and then the coast of Australia from Cape York to North West Cape. He went back to Batavia in August 1644. He showed that Western Australia and Queensland were part of the same country. He was not able to get through Torres Strait, but his maps were used for the next 200 years. Tasman made more trips including to Sumatra in 1646, Siam in 1647, and Manila in 1648. He purchased a lot of land in Batavia where he died in October 1659.
+
+Several places have been named after him, including Tasmania, the Tasman Peninsula, Tasman Island and the Tasman Sea.
+
+Hard science
+
+Hard science is science that uses systematic observation, experiments and sometimes mathematics to get knowledge. In hard science, experiments have to be reproducible (if the experiment is done a second time, it will have to produce the same results as the first time). Also, in hard sciences there is usually good agreement as to what is known for sure. This is not true of soft sciences. Also, in hard science there is a world-view or theory which is widely agreed.
+
+Hard science subjects include the natural sciences, which are about the natural world. These include physics, chemistry, biology, geology, astronomy, and botany. Soft science is any of the social sciences, including history, sociology, and political science. Those sciences are soft because something could be done more than once, and produce a very different result each time. Also, there are radical disagreements between various schools of thought. Some aspects of psychology are hard science, especially relating to perception.
+
+Artificial intelligence
+
+Artificial intelligence (AI) is the ability of a computer program or a machine to think and learn. It is a field of study which tries to make computers "smart". John McCarthy came up with the name, "Artificial Intelligence" in 1955. Intelligence allows an organism to act in a meaningful way in its environment. It includes the ability to get sensory inputs, and to react to these. Artificial intelligence is also about processing information and about storing knowledge. One of the goals of "artificial intelligence" is to make a machine that behaves in a similar way. 
+
+The term "intelligence" is misleading, here. Alan Turing wrote in 1950 "I propose to consider the question 'can machines think'?" He proposed the question should be changed, from whether a machine "thinks", to "whether or not it is possible for machinery to show intelligent behaviour". Alain Turing also created the Turing test. This is a very general test. If a human cannot tell if at the other end of the line, there is a machine or a human answering questions, the machine is intelligent. 
+
+The authors of agree with Turing that AI must be defined in terms of "acting" and not "thinking". However, they are critical that the test compares machines to "people". "Aeronautical engineering texts," they wrote, "do not define the goal of their field as making 'machines that fly so exactly like pigeons that they can fool other pigeons. AI founder John McCarthy agreed, writing that "Artificial intelligence is not, by definition, simulation of human intelligence".
+
+In general use, the term "artificial intelligence" means a programme which mimics human cognition. At least some of the things we associate with other minds, such as learning and problem solving can be done by computers, though not in the same way as we do. Andreas Kaplan and Michael Haenlein define AI as a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.
+
+An ideal (perfect) intelligent machine is a flexible agent which perceives its environment and takes actions to maximize its chance of success at some goal or objective. As machines become increasingly capable, mental faculties once thought to require intelligence are removed from the definition. For example, optical character recognition is no longer regarded as an example of "artificial intelligence": it is just a routine technology.
+
+At present we use the term AI for successfully decoding human speech, competing at a high level in strategic game systems (such as chess and Go), self-driving cars, and interpreting complex data. Some people also consider AI a danger to humanity if it continues to progress at its current pace.
+
+An extreme goal of AI research is to create computer programs that can learn, solve problems, and think logically. In practice, however, most applications have picked on problems which computers can do well. Searching databases and doing calculations are things computers do better than people. On the other hand, "perceiving its environment" in any real sense is way beyond present-day computing.
+
+AI involves many different fields like computer science, mathematics, linguistics, psychology, neuroscience, and philosophy. Eventually researchers hope to create a "general artificial intelligence" which can solve many problems instead of focusing on just one. Researchers are also trying to create creative and emotional AI which can possibly empathize or create art. Many approaches and tools have been tried.
+
+Borrowing from the management literature, Kaplan and Haenlein classify artificial intelligence into three different types of AI systems: analytical, human-inspired, and humanized artificial intelligence. Analytical AI has only characteristics consistent with cognitive intelligence generating cognitive representation of the world and using learning based on past experience to inform future decisions. Human-inspired AI has elements from cognitive as well as emotional intelligence, understanding, in addition to cognitive elements, also human emotions considering them in their decision making. Humanized AI shows characteristics of all types of competencies (i.e., cognitive, emotional, and social intelligence), able to be self-conscious and self-aware in interactions with others.
+
+AI research really started with a conference at Dartmouth College in 1956. It was a month-long brainstorming session attended by many people with interests in AI. At the conference they wrote programs that were amazing at the time, beating people at checkers or solving word problems. The Department of Defense started giving a lot of money to AI research and labs were created all over the world.
+
+Unfortunately, researchers seriously undervalued how challenging several issues were. They still couldn't offer computers things like emotions or common sense using the techniques they had employed. In a paper on AI, mathematician James Lighthill stated that "no aspect of the discipline has so far seen discoveries generated the huge influence that was previously anticipated." The governments of the US and UK desired to support more profitable initiatives. An "AI winter" in which little research was conducted was brought on by cuts. 
+
+AI revived again in the 90s and early 2000s with its use in data mining and medical diagnosis. This was possible because of faster computers and focusing on solving more specific problems. In 1997, the chess computer Deep Blue became the first computer program to beat chess world champion Garry Kasparov. Faster computers, advances in deep learning, and access to more data have made AI popular throughout the world. In 2011 IBM Watson beat the top two Jeopardy! players Brad Rutter and Ken Jennings, and in 2016 Google's AlphaGo beat top Go player Lee Sedol 4 out of 5 times.
+
+The idea is perhaps much older. Julien Offray de La Mettrie (1709-1751) was a materialist thinker of the Enlightenment. In his work of 1748, L'Homme Machine, he had the idea that both matter and life organized themselves. He is seen as one of the precursors of Darwin's theory of evolution. Today, one field of artificial intelligence, called 'strong artificial intelligence' wants to build a machine that mimics human thought. In contrast to this, weak artificial intelligence is about building a system that can support a human when taking certain decisions. One of the key problems is to make systems that can model uncertainity; most of the time, this is done with probabiliity theory and statistics. 
+
+There are different domains of artificial intelligence. Most of these are independent, and research in one domain rarely influences the other domains. Common domains are:
+
+There is a domain of study called artificial life, which also influences artificial intelligence.
+
+
+The two most widely used textbooks in 2023. (See the Open Syllabus).
+
+Programmer
+
+A computer programmer is a person who makes computer programs using a programming language. Programmers are also called software developers or software engineers or often coders.
+
+A programmer's main jobs are writing program source code, testing if it works, and debugging (fixing) the program if there are problems. Programmers often use software tools such as text editors and IDEs (Integrated Development Environments) to help them work.
+
+Computer programming is a profession that can be done from a computer anywhere in the world. This is called "telecommuting" - doing work on the Internet instead of in an office.
+
+Some programmers are famous because their software is used by many people. One example is Linus Torvalds, who created an important part of the Linux operating system.
+
+Programming can be done in many different languages and can look very different but do the same thing. An example of this is the Hello world program.
+
+
+Programming language
+
+A programming language is a type of written language that tells computers what to do. Examples are: Python, Ruby, Java, JavaScript, C, C++, and C#. Programming languages are used to write computer programs and computer software. A programming language is like a set of commands that tell the computer how to do things.
+
+Usually, the programming language uses real words for some of the commands (e.g. "if... then... else...", "and", "or"), so that the language is easier for a human to understand. Like any normal language, many programming languages use punctuation. To make a program, a programmer writes commands in their chosen programming language and saves the commands to a text file. This text file is called source code. Some programming languages, such as Python and JavaScript, can be read by the computer right away. If not, the source code has to be compiled, which means that the computer translates the source code into another language (such as assembly language or machine language) that a computer can read, but which is much harder for a person to read.
+
+Computer programs must be written very carefully. If a programmer makes mistakes, then the program might then stop working, which is called "crashing". When a program has a problem because of how the code was written, this is called a "bug". A very small mistake can cause very serious bugs.
+
+There are many types of programming languages. Most programming languages do not follow one type alone, so it is difficult to assign a type for each language. The examples of each type are given in each section below because they are the best well-known examples of that type.
+
+High-level programming languages require less knowledge about the hardware compared to low-level programming languages. This is because high-level programming languages abstract away the hardware the program is running on. Many high-level languages require an interpreter to run the source code on the hardware in real time. On the other hand, low-level languages usually convert the whole source code to machine code before running, because the source code is so close to the hardware that it is easy to do so.
+
+"Declarative" programming languages describe a "problem" but they usually do not say how the problem should be solved. The problem description uses logic, and "solving" the problem often looks like automatically proving a system of logical axioms. Examples for such programming languages are Prolog, XSLT, LISP and SQL.
+
+"Imperative" programming languages describe a system of state changes. At the start, the program is in a certain "state", and the computer is given steps to follow, in order to perform an action. Following the steps causes the program to "change state".
+
+In general, declarative programming languages are safer and shorter. Imperative programming languages are more common, because they are easier to use.
+
+Functional programming looks at programming like a function in mathematics. The program receives "input", together with some information, and uses this information to create "output". It will not have a state in between, and it will also not change things that are not related to the computation.
+
+Procedural programs specify or describe sets of steps or state changes.
+
+Stack-based languages look at some of the program's memory like a stack of cards. There are very few things that can be done with a stack. A data item can be put on the top of the stack. This operation is generally called "push". A data item can be removed from the top of the stack. This is called a "pop". You can look at the item at the top of the stack without removing it. This is called a "peek".
+
+If a program is written as "push 5; push 3; add; pop;" it will put 5 on the top of the stack, put 3 on top of the 5, add the top two values (3 + 5 = 8), replace the 3 and 5 with the 8, and print the top (8). Examples for programming languages that are stack-based are the languages Postscript and Forth.
+
+Object-oriented programming languages place data and "functions" that change data into a single unit. This unit is called an "object". Objects can interact with each other and change another object's data. This is usually called encapsulation or information hiding. Most modern programming languages are object-oriented, or at least allow this style of programming. Examples of this are Java, Python, Ruby, C++, C# and other C languages.
+
+Flow-oriented programming sees programming as connecting different components. These components send messages back and forth. A single component can be part of different "programs", without the need to be changed internally.
+
+Some of the languages above can be used for scientific computing. For example, C++ and Python are also used in this way. On the other hand, there are some languages that has scientific computing as their main purpose. The following are some examples:
+
+
+LaTeX and SATySFi are programming languages which helps document creation.
+
+Every programming language has rules about what it can and can not do. These include:
+
+
+Most languages have official standards that define the rules of how to write the source code. Some programming languages have two or more standards. This can happen when a new standard replaces an old one. For example, the Perl 5 standard replaced Perl 4 in 1993. It can happen because two people made two standards at the same time. For example, there are several standards for APL.
+
+Object-Oriented Programming (sometimes shortened to OOP) is a form of programming where all parts of the program are objects. Objects are pieces of memory with the same structure that can be used again and again. A bank account, bitmap, or hero from a video game could all be objects within a program. Objects are made up of properties (pieces of information the object stores) and methods which are things the object can do. A Dog object might have properties like height and hairColor. Its methods might include bark() and wagTail().
+
+All objects are created from templates called classes. You can think of a class as a mold from which objects are made. The class defines all the properties and methods that its objects will have. Objects created from a class are called instances of the class. A class can "extend" another class, which means that it takes all the properties and methods of the class but can add its own.
+
+Here is an example of what a class might look like in a programming language:
+
+Notice that the Dog class extends the Mammal class, so all dogs will have the properties of a mammal, like hairLength, and methods, like eat() or sleep().
+
+Object-oriented programming is used in many of today's most popular programming languages, such as Java, C#, Objective-C, C++, Python, Ruby, Javascript, and ActionScript.
+
+Here is a simple program written in Visual Basic (a language made by Microsoft):
+This program asks the user his or her age and responds based on what the user typed. If the user typed something that is not a number, the program says so. If the user typed a number less than zero, the program says so. If the user says he or she is older than 100 years old, the program says "That's old!". If the user typed a correct age, the program says back to the user how old he or she is.
+
+Here is a program that does the same thing as the program above, but in Python:
+The same thing as the program above, but in C#:
+using System;
+
+public class Hello
+The same thing again, but in Haskell:
+import Text.Read
+main = do
+
+
+Visual Basic
+
+Visual Basic (VB) is a programming language developed by Microsoft for their operating system Windows. The BASIC language is said to be easier to read than other languages. 
+
+"Visual Basic" is a widely understood high-level programming language, written using simple English-like words and syntax. It is an interpreted language, code can be run immediately after being written.
+
+Having an interpreter makes it simpler to use, as there is no need for the computer to compile the code, possibly finding errors to fix, before the compiled version can be run. Once the code is working, it can be compiled into an .exe file so that it will run on all modern Windows computers, whether VB is installed or not. The language allows a beginning programmer to produce professional-looking Windows applications, as it includes drawing tools to create normal Windows forms. VB also includes advanced features - concepts and structures which allow programs to be adapted for use with the Internet. "Visual Basic" will not run on operating systems other than Windows and on machines with non-Intel compatible processors.
+
+Though the program has received criticism for its faults, Visual Basic was a runaway commercial success since its release for version 3 in the summer of 1993. Many companies offered third party controls greatly extending its functionality. 
+
+Dim MyInput
+MyInput = InputBox("How old are you?")
+If Not IsNumeric(MyInput) Then
+ElseIf MyInput < 0 Then
+ElseIf MyInput > 100 Then
+Else
+End If
+
+Private Sub Form_Load()
+End Sub
+VB 1.0 was introduced in 1991. The drag and drop design for creating the user interface is derived from a prototype form generator developed by Alan Cooper and his company called "Tripod". Microsoft contracted with Cooper and his associates to develop Tripod into a programmable form system for Windows 3.0, under the code name "Ruby" (no relation to the Ruby programming language). Tripod did not include a programming language at all. Microsoft decided to combine Ruby with the Basic language to create Visual Basic. The Ruby interface generator provided the "visual" part of Visual Basic and this was combined with the "EB" Embedded BASIC engine designed for Microsoft's abandoned "Omega" database system. Ruby also provided the ability to load dynamic link libraries containing additional controls (then called "gizmos"), which later became the Visual Basic Extension (VBX) interface. Versions of Visual Basic are listed below:
+
+Visual Basic .NET is the next series of products in Microsoft's successful "Visual Basic" range of products. It makes creating programs easier because it is possible to drag-and-drop controls into the program. It runs on the .NET Framework and features another long line of programs (see Visual Basic .NET#Editions).
+
+This is a scripting language used in Microsoft Office and a few other programs. It is based on Visual Basic 6.0, and can change data in an office application, write it to a file, and do other actions.
+
+All versions of the Visual Basic development environment from 1.0 to 6.0 have been retired and are now unsupported by Microsoft. The associated runtime environments are unsupported too. This is except for the Visual Basic 6 core runtime environment, which will be officially supported by Microsoft until support of Windows 10 and Windows Server 2012 ends. Third party components that shipped with Visual Studio 6.0 are not included in this support statement. Some legacy Visual Basic components may still work on newer platforms. This is despite being unsupported by Microsoft and other vendors. 
+
+Development and maintenance development for Visual Basic 6 is possible on Windows XP, Windows Vista and Windows 2003 using Visual Studio 6.0 platforms, but is unsupported. Documentation for Visual Basic 6.0, its application programming interface and tools is best covered in the last MSDN release before Visual Studio.NET 2002. Later releases of MSDN focused on .NET development and had significant parts of the Visual Basic 6.0 programming documentation removed. The Visual Basic IDE can be installed and used on Windows Vista, where it exhibits some minor incompatibilities which do not hinder normal software development and maintenance. As of August 2008, both Visual Studio 6.0 and the MSDN documentation are available for download by MSDN subscribers.
+
+Booting
+
+Booting is what happens when a computer starts. This happens when the power is turned on. It is called "reboot" if it happens at other times. When you boot a computer, your processor looks for instructions in system ROM (the BIOS) and executes them. They normally 'wake up' peripheral equipment and search for the boot device. The boot device either loads the operating system or gets it from somewere else.
+
+People use the word "boot" to mean "to start a computer" or other device with electronics built in. For example, if a person wants to ask a friend to turn on a satellite phone, they would say "could you boot up the satellite phone?".
+
+Most operating systems call the first data storage device it uses a boot device. It may also be called a bootstrap loader. This is because the computer is making itself go, as in the idiom. When we start a computer, we can often see the simple instructions the computer uses to start, then more complicated pictures or software. 
+
+The phrase "to boot" in this meaning is short for "to bootstrap". This use is part of net jargon along with similar multi-use words like Internet or web. Often the computer is just called a box, so a phrase like "to boot the box" means "to start the computer".
+
+The term "reboot" can also be used in a different context to mean a restarting of a storyline established in previous iterations of a series of fiction.
+
+DBS
+
+DBS may stand for:
+
+Tea
+
+Tea is a drink that is made from steeping the leaves of the Camellia sinensis plant. Tea can have other herbs, spices, or fruit flavors in it, like lemon. All teas are made from the Camellia sinensis plant.
+
+Sometimes the word "tea" is used for other drinks that have been made by soaking fruit or herbs in hot water, like "rosehip tea" or "chamomile tea". These are called "herbal teas". After drinking water, tea is the most widely consumed drink in the world.
+
+There are three main types of tea: black tea, oolong, and green tea.
+
+To make black tea, workers take the leaves and spread them out on shelves where they can dry. Next they are rolled and broken into pieces and put into a room where they absorb oxygen, or oxidize. Chemical reactions change the taste and style of the tea. Finally the leaves are dried with hot air until they turn brown or black. Most black tea comes from Sri Lanka, Indonesia and eastern Africa. When black tea leaves are brewed in boiling water, the tea made from them looks deep dark red, so another name used for black tea, especially in China, is red tea. 
+
+The process for oolong is similar to making black tea. It is made by partially oxidizing the tea leaves, rather than fully oxidizing them. Rutter’s has tea.
+
+Green tea is made by putting freshly picked leaves into a steamer. This keeps them green. Then they are crushed and dried in ovens. India is the biggest maker and user of green tea.
+
+Tea is mainly grown in China, India, Pakistan, Sri Lanka, Taiwan, Japan, Nepal, Australia, Argentina and Kenya. 
+
+The word "tea" can also be used as another word for an afternoon meal (mostly in the Commonwealth countries), as in "I am having tea in a short while." The word also applies to "afternoon tea", a small snack meal served sometimes, usually featuring sandwiches, cakes and tea. This small snack meal is also called "tea time".
+
+Green tea is usually steeped for 2–3 minutes in water at , while black tea is steeped for 3–5 minutes in boiling water.
+
+
+
+

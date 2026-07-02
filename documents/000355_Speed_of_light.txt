@@ -1,0 +1,108 @@
+Speed of light
+
+
+The speed of light, in any medium, which is usually denoted by formula_1, is a physical constant important in many areas of physics. It is denoted by 'c^0' especially in vacuum medium, although the symbol 'c' can be used to refer to that in any medium. It is exactly by definition. A photon (particle of light) travels at this speed in a vacuum. 
+
+According to special relativity, formula_1 is the maximum speed at which all energy, matter, and physical information in the universe can travel. It is the speed of all massless particles such as photons, and associated fields—including electromagnetic radiation such as light—in a vacuum. 
+
+It is predicted by the current theory to be the speed of gravity (that is, gravitational waves). Such particles and waves travel at formula_1 regardless of the motion of the source or the inertial frame of reference of the observer. In the theory of relativity, formula_1 interrelates space and time, and appears in the famous equation of mass–energy equivalence .
+
+The special theory of relativity is based on the prediction, so far upheld by observations, that the measured speed of light in a vacuum is the same whether or not the source of the light and the person doing the measuring are moving relative to each other. This is sometimes expressed as "the speed of light is independent of the reference frame."
+
+This behavior is different from our common ideas about motion as shown by this example:
+
+George is standing on the ground next to some train tracks (railroad). There is a train rushing by at . George throws a baseball at in the direction the train is moving. Tom, a passenger on the train, has a device (like a radar gun) to measure throwing speeds. Because he is on the train, Tom is already moving at in the direction of the throw, so Tom measures the speed of the ball as only .
+
+In other words, the speed of the baseball, as measured by Tom on the train, depends on the speed of the train.
+
+In the example above, the train was moving at 1/3 the speed of the ball, and the speed of the ball as measured on the train was 2/3 of the throwing speed as measured on the ground.
+
+Now, repeat the experiment with light instead of a baseball; that is, George has a flashlight instead of throwing a baseball. George and Tom both have devices that are the same to measure the speed of light (instead of the radar gun in the baseball example).
+
+George is standing on the ground next to some train tracks. There is a train rushing by at 1/3 the speed of light. George flashes a light beam in the direction the train is moving. George measures the speed of light as . Tom, a passenger on the train, measures the speed of the light beam. What speed does Tom measure?
+
+Intuitively, one may think that the speed of the light from the flashlight as measured on the train should be 2/3 the speed measured on the ground, just like the speed of the baseball was 2/3. But in fact, the speed measured on the train is the full value, , not .
+
+It sounds impossible, but that is what one measures. 
+
+A consequence of this fact, that the speed of light is the same for all (inertial) observers, is that no matter how much energy is used, nothing with mass can be accelerated to reach or go faster than the speed of light. Other key consequences of the constancy of the speed of light, that the lengths of two identical objects, and the rate at which two identical clocks tick, also depend on the reference frame of the observer. These ideas were discovered in the early 1900s by Albert Einstein in his theory of Special Relativity which completely changed our understanding of space and time.
+
+Maxwell's equations predicted the speed of light and confirmed Michael Faraday's idea that light was an electromagnetic wave (a way that energy moves). From these equations, we find that the speed of light is related to the inverse of the square root of the permittivity of free space, "ε", and the permeability of free space, "μ":
+
+The index of refraction of a clear material is the ratio between the speed of light in a vacuum and the speed of light in that material.
+
+Ole Christensen Rømer used an astronomical measurement to make the first quantitative estimate of the speed of light. When measured from Earth, the periods of moons orbiting a distant planet are shorter when the Earth is approaching the planet than when the Earth is receding from it. The distance travelled by light from the planet (or its moon) to Earth is shorter when the Earth is at the point in its orbit that is closest to its planet than when the Earth is at the farthest point in its orbit, the difference in distance being the diameter of the Earth's orbit around the Sun. The observed change in the moon's orbital period is actually the difference in the time it takes light to traverse the shorter or longer distance. Rømer observed this effect for Jupiter's innermost moon Io, and he deduced that light takes 22 minutes to cross the diameter of the Earth's orbit.
+
+Another method is to use the aberration of light, discovered and explained by James Bradley in the 18th century. This effect results from the vector addition of the velocity of light arriving from a distant source (such as a star) and the velocity of its observer (see diagram on the right). A moving observer thus sees the light coming from a slightly different direction and consequently sees the source at a position shifted from its original position. Since the direction of the Earth's velocity changes continuously as the Earth orbits the Sun, this effect causes the apparent position of stars to move around. From the angular difference in the position of stars, it is possible to express the speed of light in terms of the Earth's velocity around the Sun. This, with the known length of a year, can be easily converted to the time needed to travel from the Sun to the Earth. In 1729, Bradley used this method to derive that light travelled 10,210 times faster than the Earth in its orbit (the modern figure is 10,066 times faster) or, equivalently, that it would take light 8 minutes 12 seconds to travel from the Sun to the Earth.
+
+Nowadays, the "light time for unit distance"—the inverse of "c" (1/c), expressed in seconds per astronomical unit—is measured by comparing the time for radio signals to reach different spacecraft in the Solar System. The position of spacecraft is calculated from the gravitational effects of the Sun and various planets. By combining many such measurements, a best fit value for the light time per unit distance is obtained. , the best estimate, as approved by the International Astronomical Union (IAU), is:
+The relative uncertainty in these measurements is 0.02 parts per billion (2), as equivalent to the uncertainty in Earth-based measurements of length by interferometry. Since the metre is defined to be the length travelled by light in a certain time interval, the measurement of the light time for unit distance can also be interpreted as measuring the length of an AU in metres. The metre is considered to be a unit of proper length, whereas the AU is often used as a unit of observed length in a given frame of reference.
+
+The finite speed of light is a major constraint on long-distance space travel. Supposing a journey to the other side of the Milky Way, the total time for a message and its reply would be about 200,000 years. Even more seriously, no spacecraft could travel faster than light, so all galactic-scale transport would be effectively one-way, and would take much longer than than any modern civilisation has existed.
+
+The speed of light can also be of concern over very short distances. In supercomputers, the speed of light imposes a limit on how quickly data can be sent between processors. If a processor operates at 1 gigahertz, a signal can only travel a maximum of about in a single cycle. Processors must therefore be placed close to each other to minimize communication latencies; this can cause difficulty with cooling. If clock frequencies continue to increase, the speed of light will eventually become a limiting factor for the internal design of single chips.
+
+
+Denial
+
+Denial is a word used in psychology on defense mechanism. It means that someone denies that something has happened or is happening although he really knows it is true. Usually this happens because admitting it would cause a lot of pain.
+
+Denial is usually the first state of coping with loss. For example, if someone close to a person dies, the survivor's first feeling might be denial, or refusal to accept the fact that the person is really dead.
+
+Denial, is also when you think that a team (like in football) will win a football match before its even started and refuse to accept the fact thet they could lose
+
+Denial, is also when you refuse to accept the fact that someone else did something (like change something) when you 'think you know' it was a different person
+
+Tokyo
+
+Tokyo () is the capital and largest city of Japan. It is on the island of Honshu in the region of Kanto. Tokyo is the center of the Japanese government. The Imperial Palace is in Tokyo, it's not actually public for tourist. Tokyo is the center of business, trade, and industry of Japan. The city is the center of the largest metropolitan area in the world. It faces Tokyo Bay.
+
+It became the capital city of Japan in the middle of 19th century, when its name changed from "Edo" to "Tokyo". Before then, Kyoto was the capital of Japan. The Emperor of Japan, or Tenno, lived in Kyoto. Edo was the place where the Tokugawa Shoguns lived. The city grew up under the control of the shoguns. Before then it was a small town on the sea. Edo means "the mouth of a river" in Japanese.
+
+Tokyo was destroyed by fires started by the Great Kantō earthquake in 1923. It was also badly damaged by bombs during World War II. After Japan lost the war, the city was rebuilt.
+
+Tokyo began as a small fishing village named Edo. Edo was in the old Musashi Province. 
+
+The Edo clan built walls to protect the town in the late 12th century. In 1457, Ōta Dōkan built Edo Castle. In 1590, Tokugawa Ieyasu made Edo his base. He became shogun in 1603, and the town became the center of his military government. This marked the beginning of the Edo period. During this time, Edo grew into one of the largest cities in the world. More than one million people lived there by the 18th century.
+
+Edo was not the capital of Japan. The emperor lived in the capital, Kyoto. However, since the shogun was more powerful than the emperor throughout Japanese history, Edo had more power. After about 263 years, the Meiji Restoration removed the shogun from power. In 1869, the 17-year-old Emperor Meiji moved to Edo. The old Edo Castle became the Kokyo, the Imperial Palace.
+
+The Tokyo Prefecture and the city of Tokyo were established. This was the capital city until 1943.
+
+In 1943, Tokyo City and the "associated municipalities of what was formerly (1869-1943)" combined into one.
+
+Central Tokyo is built around major railway stations. Suburban railways were built relatively cheaply at street level. There are some expressways.
+
+Tokyo suffered two major catastrophes in the 20th century. The 1923 Great Kantō earthquake left 140,000 dead or missing. World War II was the other disaster for the city. The Bombing of Tokyo from 1944 through 1945 killed between 75,000 and 200,000 people and destroyed half the city. This was almost as much damage as the atomic bombs of Hiroshima and Nagasaki combined.
+
+Tokyo was completely rebuilt after the war. The 1964 Summer Olympics were a major world event. New high-rise developments such as Sunshine 60 started in the 1970s.
+
+Tokyo has a four-season humid subtropical climate (Köppen climate classification: "Cfa") with hot rainy summers and cool dry winters.
+
+As of October 2007 about 8.7 million were living in Tokyo's 23 special wards. The number of people in Tokyo increases to over 15 million during the day. About 2.5 million workers and students enter the city everyday. The three central wards of Chiyoda, Chūō, and Minato increase the most. As of 2005, the regular population in those three areas was only 326,000 at night, but there are 2.4 million in those areas during the day.
+
+Tokyo has many international residents. As of 2005, the most common groups in Tokyo are Chinese (123,661), Koreans (106,697), and Filipinos (31,077). Americans (18,848), British (7,696), Brazilian (5,300) and French (3,000) are less common.
+
+The 23 special wards of Tokyo are the same area that had been called Tokyo City. On July 1, 1943, Tokyo City was merged with to become a special government area. This made the wards different from other wards in Japan. Other city wards are part of a larger city government, but these are not.
+Each ward is a municipality with its own mayor and assembly like the other cities of Japan. The special wards often use the word city in their official English name, e.g. Chiyoda City.
+
+The wards have a unique administrative relationship with the prefectural government. The Tokyo Metropolitan Government manages some public works such as water, sewer, and fire-fighting. To pay for these things, the prefecture collects the municipal taxes usually collected by a city.
+
+The special wards of Tokyo are:
+Three wards of Tokyo make up the central part of the city. They are Chiyoda, Chūō and Minato.
+
+Tokyo has many sight-seeing spots, but very few of them are old. There are very few buildings in Tokyo that are more than 50 years old. Popular places for visitors range from Tokyo Tower in the center of the city to Mount Takao out in the western countryside. Tokyo Skytree is a new tower and is the tallest in Japan. Traditional religious sights such as Meiji Shrine and Sensō-ji attract many tourists. The Imperial Palace can be seen in the middle of the city, but is not open to the public.
+
+Tokyo is the cultural, business, and political center of the country. It is also the center of many transport systems. There are many air, rail, sea, and road links in and out of the city. Local subway and bus systems serve every part of the city.
+
+Two commercial airports serve Tokyo. Haneda Airport is in the city limits next to Tokyo Bay. This airport is mostly for domestic travel. Most international flights to and from Tokyo go through Narita Airport in Chiba Prefecture.
+
+Several Shinkansen super-express railway lines begin at Tokyo Station, including the Tōkaidō Shinkansen going west, and the Tōhoku Shinkansen going northeast. Tokyo Metro is the city's major subway system.
+
+Tokyo has a busy international and domestic port, but more traffic goes through the nearby port of Yokohama. There are domestic ferries to the islands of Tokyo, but also to other parts of the country such as Hokkaido.
+
+Many highways meet in Tokyo, including: the Chūō, Kan-Etsu, Tōhoku, and Tōmei Expressways. All highway distances in Japan start from zero at a marker at Nihonbashi, Tokyo.
+
+
+
+

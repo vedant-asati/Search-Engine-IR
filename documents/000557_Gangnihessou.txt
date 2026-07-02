@@ -1,0 +1,52 @@
+Gangnihessou
+
+
+Do-Aklin or Gangnihessou (Ganye Hessou) or Dogbari was the first of twelve kings of Dahomey in Africa. Gangnihessou might have been the king around the year 1620. One of his symbols was a bird called "gangnihessou" after his name. His other symbols were a drum, and sticks used for throwing or hunting. He had a younger brother called Dakodonou, who was a king. Some historians think Gangnihessou was not actually a king. Instead, Gangnihessou might have led people by giving advice to his brother.
+
+Contract bridge
+
+Contract bridge, or just bridge, is a trick-taking card game. It is played by two pairs of players, one pair against the other pair. Partners sit opposite each other at a table.
+
+In face-to-face games, a convenient table size is from 32 to 40 inches (80 to 100 centimeters) square. The table is usually covered by green baize cloth. The point of the cloth is to stop cards skittering (sliding) across the table. In online computer play, players from anywhere in the world sit at a virtual table.
+
+Millions of people play bridge in clubs, tournaments, online and with friends at home. It is one of the world's most popular card games. The World Bridge Federation is the governing body for international competitive bridge.
+
+The game is played in a number of "deals". Each deal goes through four phases: dealing the cards, the auction (also referred to as bidding), playing the cards, and scoring the results.
+
+Most club and tournament play uses duplicate bridge, where the cards are not re-dealt during a session. The same deals are played by most or all players. This allows comparative scoring. The method has one peculiarity: in competition between pairs, all boards count for an equal number of points. The same number of points are available on each and every board (hand). These points are distributed according to the scores. This is a fundamental difference between duplicate bridge pairs and rubber bridge.
+
+In duplicate play between teams, the original scoring method is
+used. This is because teams play the same set of boards at each table, but with the seating of players changed (N/S to E/W and E/W to N/S). Thus both teams play the same set of boards.
+
+It is played with the standard 52 cards in four suits. The game developed out of whist, which is a relatively old card game. Bridge developed in a series of stages from about 1890 to about 1930. The stages included bridge-whist and auction bridge, and the developments took place mostly in New York and London. The origin of the word "bridge" in this context is not really known. One possibility is that it is taken from an 1886 book, "Biritch, or Russian Whist" by John Collinson.
+
+Contract bridge became one of the most popular pastimes when it was publicised by Ely Culbertson, a leading American player and organiser. Anglo-American matches got huge publicity in the newspapers, cinema and radio of the 1930s.
+
+Whist is played with the trump suit chosen by chance, whereas in bridge it is chosen by a process called "bidding". A trump is a card which can beat any card from the other three suits.
+
+In whist, the winners had to get most of the tricks (a trick is a round of four cards), that is, seven or more tricks. However, in bridge the players bid in sequence to decide what the "contract" shall be. The contract is decided by the last bid, and will be in one of the four suits, or in "no trumps", without a trump suit.
+
+The scoring rules and the bidding process evolved through stages between 1890 and about 1930. Bids at the one level are offers to make at least seven tricks. Bids at the seven level are offers to make all thirteen tricks. The lowest bid one can make is "one club" and the highest bid is "seven no trumps".
+
+The scoring system for bridge is very much more complicated than it is for whist. Fundamentally, it depends on whether or not declarer makes his contract or not. If he does not, the defending side collect penalty points. If he does make the contract his side wins points. How many points are won or lost depends on the scoring system (not discussed here). Harold S. Vanderbilt played a key role in designing the scoring system, and in 1927 the Whist Club of New York produced a code for contract bridge. They and the Portland Club of London became the authorities who guided the later minor changes to the rules.
+
+The set-up for playing the cards is also different from whist. The side which wins the bidding sequence plays with only one partner ("declarer") controlling both hands. His or her partner is called "dummy", and that hand is played face up on the table so all players can see it.
+
+Like much else in the game, the idea of duplicate play was invented for whist. At "whist drives" North/South pairs sat in the same positions throughout, East/West pairs moved up the series of tables and boards moved down. This simple movement was invented in the 19th century. The first game of duplicate whist was organised by "Cavendish" in London 1857, but it was not followed up. It was played in Chicago in 1880, and the first book about it was written in 1891 by John T. Mitchell. His simple method is known as the Mitchell movement.
+Duplicate bridge for pairs differs in one important way from rubber bridge or team-of-four bridge. That is: in duplicate bridge every hand is equal, and so every hand offers the same number of points. It is by far the most popular form of bridge today, but it is the form least like the original game.
+
+At matchpoints, all hands offer the same number of points when the result is scored. Points available for each board are the same, no matter whether they are bid to a part-score or a slam. Making one more overtrick than everybody else on a board gives the same result (the top) as making a slam that nobody else bid.
+
+This has all kinds of consequences. Beginners are still taught the original game, but most bridge is duplicate. Many players never discover the difference, and few understand how to play this version differently from older types of bridge.
+
+The main features of the tactics are:
+Due to the above, it is often unclear to the defence, and sometimes even to declarer, what their goals are. Thus mastering matchpoints play requires additional skills.
+
+In the example above, West was the dealer and first to bid. The bidding goes as shown with South becoming the declarer in a 4 spades contract, he being the first to bid spades. East-West become the defenders and West becomes the opening leader, North becomes the dummy and spades the trump suit.
+
+Ten tricks are required by North–South, six tricks plus the 4-level bid.
+
+Mostly, bridge is a social game played in clubs. A number of tables play the same set of hands, which allows for the scoring of individual pairs to be ranked. The deal is done by a computerised method. A pseudo-random algorithm sets the hands (the sets of cards held by each player). The computer is linked to a mechanical device which deals the cards and delivers them into the hands. These are put into the holding boards. The boards are then put on the tables.
+
+
+

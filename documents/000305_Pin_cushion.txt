@@ -1,0 +1,243 @@
+Pin cushion
+
+
+A pin cushion is small cushion used for holding pins and needles. It is used so that the pins and needles are stored safely and can be taken out by pulling the head.
+
+Chemical cell
+
+A chemical cell converts chemical energy into electrical energy. Most batteries are chemical cells. A chemical reaction takes place inside the battery and causes electric current to flow.
+
+There are two main types of batteries - those that are "rechargeable" and those that are not.
+
+A battery that is not rechargeable will give electricity until the chemicals in it are used up. Then it is no longer useful. It can be rightly called 'use and throw'.
+
+A rechargeable battery can be "recharged" by passing electric current backwards through the battery; it can then be used again to produce more electricity. It was Gaston Plante, a French scientist who invented these rechargeable batteries in 1859.
+
+Batteries come in many shapes and sizes, from very small ones used in toys and cameras, to those used in cars or even larger ones. Submarines require very large batteries.
+
+
+An extremely important class of oxidation and reduction reactions are used to provide useful electrical energy in batteries. A simple electrochemical cell can be made from copper and zinc metals with solutions of their sulphates. In the process of the reaction, electrons can be transferred from the zinc to the copper through an electrically conducting path as a useful electric current.
+
+An electrochemical cell can be created by placing metallic electrodes into an electrolyte where a chemical reaction either uses or generates an electric current. Electrochemical cells which generate an electric current are called voltaic cells or galvanic cells, and common batteries consist of one or more such cells. In other electrochemical cells an externally supplied electric current is used to drive a chemical reaction which would not occur spontaneously. Such cells are called electrolytic cells.
+
+An electrochemical cell which causes external electric current flow can be created using any two different metals since metals differ in their tendency to lose electrons. Zinc more readily loses electrons than copper, so placing zinc and copper metal in solutions of their salts can cause electrons to flow through an external wire which leads from the zinc to the copper. As a zinc atom provides the electrons, it becomes a positive ion and goes into aqueous solution, decreasing the mass of the zinc electrode. On the copper side, the two electrons received allow it to convert a copper ion from solution into an uncharged copper atom which deposits on the copper electrode, increasing its mass. The two reactions are typically written
+Zn(s) --> Zn(aq) + 2e
+
+Cu(aq) + 2e --> Cu(s)
+The letters in parentheses are just reminders that the zinc goes from a solid (s) into a water solution (aq) and vice versa for the copper. It is typical in the language of electrochemistry to refer to these two processes as "half-reactions" which occur at the two electrodes.
+In order for the voltaic cell to continue to produce an external electric current, there must be a movement of the sulfate ions in solution from the right to the left to balance the electron flow in the external circuit. The metal ions themselves must be prevented from moving between the electrodes, so some kind of porous membrane or other mechanism must provide for the selective movement of the negative ions in the electrolyte from the right to the left.
+
+Energy is required to force the electrons to move from the zinc to the copper electrode, and the amount of energy per unit charge available from the voltaic cell is called the electromotive force (emf) of the cell. Energy per unit charge is expressed in volts (1 volt = 1 joule/coulomb).
+
+Clearly, to get energy from the cell, you must get more energy released from the oxidation of the zinc than it takes to reduce the copper. The cell can yield a finite amount of energy from this process, the process being limited by the amount of material available either in the electrolyte or in the metal electrodes. For example, if there were one mole of the sulfate ions SO on the copper side, then the process is limited to transferring two moles of electrons through the external circuit. The amount of electric charge contained in a mole of electrons is called the Faraday constant, and is equal to Avogadro's number times the electron charge:Faraday constant = F = Ne = 6.022 x 10 x 1.602 x 10 = 96,485 Coulombs/moleThe energy yield from a voltaic cell is given by the cell voltage times the number of moles of electrons transferred times the Faraday constant.
+Electrical energy output = nFE
+The cell emf E may be predicted from the standard electrode potentials for the two metals. For the zinc/copper cell under the standard conditions, the calculated cell potential is 1.1 volts.
+
+A simple cell typically has plates of copper (Cu) and zinc (Zn) in dilute sulphuric acid. The zinc dissolves and bubbles of hydrogen appear on the copper plate. These hydrogen bubbles interfere with the passage of current so a simple cell can only be used for a short time. To provide a steady current, a depolarizer (an oxidizing agent) is needed to oxidize the hydrogen. In the Daniel cell, the depolarizer is copper sulphate, which exchanges the hydrogen for copper. In the Leclanche battery, the depolarizer is manganese dioxide, which oxidizes the hydrogen to water.
+
+English chemist John Frederick Daniell developed a voltaic cell in 1836 which used zinc and copper and solutions of their ions.
+
+
+Deutschlandlied
+
+Deutschlandlied (; "Song of Germany"), officially known as Das Lied der Deutschen (; "The Song of the Germans"), is a song written by Joseph Haydn and Hoffmann von Fallersleben. Part of this song is the national anthem of Germany (German National Anthem).
+
+A line from this song, "Einigkeit und Recht und Freiheit" ("Unity and Justice and Freedom") is the considered to be the unofficial motto of Germany.
+
+The music was written by Haydn in 1797 as the personal anthem of Francis II, Holy Roman Emperor. It was called "Gott erhalte Franz den Kaiser" ("God protect our Emperor Franz"). The words which are used today were written by the poet August Heinrich Hoffman von Fallersleben in 1841. 
+
+Today, the first line "Germany, Germany above all" sounds too strong for some people, and is often misunderstood. Fallersleben wanted a united Germany when he wrote it. At that time, Germany was not one country, but many small countries. So "Germany above all" meant that the most important thing to do was to have a unified Germany. Also, the poet was written in Heligoland, where people spoke German but were ruled by the British.
+
+Fallersleben's music was very popular in Germany during the second part of the 19th century. This song was not a national anthem then, but a patriotic song supporting a united German state. On 11 August 1922, after 4 years of the end of the First World War and the abdication of Wilhelm II, German Emperor, it replaced the previous anthem "Heil Dir im Siegerkranz" ("Hail Thee in the Victor's Crown"). In 1921, a "fourth stanza", a new part or verse, was written by poet Albert Matthai with words about the difficult life in Germany at that time. This verse was rarely used.
+
+During the time of Adolf Hitler, only the first stanza of the song was used. This offended the international audience as the first stanza supports Germany holding colonial powers in non-consenting nations. This was often followed by Horst-Wessel Lied, the anthem of the Nazi Party.
+
+After the Second World War, Germany was divided into two countries. In 1949, the new West Germany tried to get a new song for the national anthem. Another song was chosen, written by poet Rudolf Alexander Schröder. It was not very popular. Finally, on 2 May 1952, President Theodor Heuss approved the decision to make Das Lied der Deutschen the national anthem of Germany. However, only the third stanza was used.
+
+In the other part of Germany, known as East Germany, the words of poet Johannes R. Becher ("Auferstanden aus Ruinen" - "Risen from Ruins") were used with a song written by Hanns Eisler. It was not very popular, and from the 1970s the words were not sung, because of the line "Germany, [our] unified fatherland".
+
+After East and West Germany united in 1990, the song again became the national anthem of Germany but only the third stanza is used. Today, the first part of the song is popular with nationalist extremists.
+
+<poem>
+Translated by Kevin Kallande
+
+Unity and Right and Freedom,
+For the German Fatherland!
+Let us all be strive towards them;
+Brotherly with Heart and Hand!
+
+𝄆 Unity and Right and Freedom,
+Are the pledge of Happiness;
+Flourish in this pledge of fortune,
+Flourish, German Fatherland! 𝄇
+
+Flourish in this pledge of fortune,
+Flourish, German Fatherland!
+</poem>
+
+
+Cavity
+
+A cavity is a hole.
+
+It can also mean:
+
+Evidence
+
+Evidence is something that is used to support an argument. It gives examples of why something is true. 
+
+Evidence is defined by Merriam-Webster dictionary as: 
+1a : an outward sign : INDICATION
+1b : something that furnishes proof : TESTIMONY
+specifically: something legally submitted to a tribunal to ascertain the truth of a matter
+2 : one who bears witness
+especially: one who voluntarily confesses a crime and testifies for the prosecution against one's accomplices
+
+Choo states “Evidence is the information with which the matters requiring proof in a trial are proved.” The study of evidence, therefore, is the study of the process by which such matters are proved in court.” (Choo, 42). 
+
+Peter Achinstein defines evidence as “information that increases probability of a hypothesis” or “information on the basis of which a hypothesis has high probability.” (Achinstein, 44).
+
+The Division of Extension Research and Training at the University of Arkansas defines evidence as “the outward sign, the indication, the proof” (University of Arkansas, 1).
+
+For example, if someone come across a cup of spilled milk, that person could look for evidence as to how the milk was spilled. If hairs of a cat and paw prints were found on the ground, they could be evidence that a cat was the cause of the spilled milk. If a witness saw the cat spilling the milk, her testimony would also be evidence.
+
+Choo, Andrew. Evidence. Oxford ; New York : Oxford University Press, 2006, https://archive.org/details/evidence0000choo/page/n9/mode/2up.
+
+Webster, Merriam. “Evidence.” Merriam Webster, https://www.merriam-webster.com/dictionary/evidence.
+
+Miller, Colin. Evidence: Best Evidence Rule. 1st ed., CALI, eLangdell Press, 2012,https://www.cali.org/sites/default/files/BestEvidenceRule_Miller_Dec2014.pdf.
+
+Achinstein, Peter. The Book of Evidence. Oxford University, 2001, https://books.google.com/books?id=cZHflkcvCEUC&q=evidence.&pg=PP9
+
+Forsyth, Stewart. “What Is Opinion and What Is Evidence?” InfoKat, 2019, https://saalck-uky.primo.exlibrisgroup.com/permalink/01SAA_UKY/ija67f/cdi_webofscience_primary_000486649800003.
+
+What Is Evidence? University of Arkansas, June 1955, https://archive.org/details/CAT10680953/mode/2up.
+
+Dyadic
+
+A dyadic is a math function that needs two things in order to give something out. Addition and multiplication are dyadic. Powers are also dyadic. There are many more functions that are dyadic.
+
+Dyadic may specifically refer to:
+
+
+Hill
+
+A hill is a landform that is higher than the surrounding terrain and that is smaller than a mountain. Hill is a highland of much lower elevation than a mountain. Normally it is not as steep as a mountain. By definition, a hill is often described as being lower than 600 meters (about 2,000 feet). However, some definitions say a hill is lower than 300 meters (about 1,000 feet). The surface of a hill is much more stable than that of a dune. Hill have long been used for hill forts
+
+Enzyme
+
+An enzyme is a protein molecule in cells which works as a biological catalyst. Enzymes speed up chemical reactions in the body, but do not get used up in the process, so they can be used over and over again.
+
+Almost all biochemical reactions in living things need enzymes. With an enzyme, chemical reactions go much faster than they would without the enzyme. Other biocatalysts are catalytic RNA molecules, called ribozymes.
+
+The substances at the start of a reaction are called substrates. The substances at the end of a reaction are the products. Enzymes work on the substrates, and turn them into products. The study of enzymes is called enzymology.
+
+The first enzyme was found in 1833 by Anselme Payen.
+
+There are thousands of different enzymes and each one is specific to the reaction which it catalyses. Enzymes have names which show what they do. Enzyme names usually end in –ase to show that they are enzymes. Examples of this include ATP synthase. It makes a chemical called ATP. Another example is DNA polymerase. It reads an intact DNA strand and uses it as a template to make a new strand.
+
+One example of an enzyme is amylase, found in saliva. It breaks down starch molecules into smaller glucose and maltose molecules. Another kind of enzyme is lipase. It breaks down fats into smaller molecules, fatty acids and glycerol.
+
+The proteases are a whole class of enzymes. They break down other enzymes and proteins back into amino acids. Nucleases are enzymes that cut DNA or RNA, often in specific place in the molecule.
+
+Enzymes are not only for breaking large chemicals into smaller chemicals. Other enzymes take smaller chemicals and build them up into bigger chemicals, and do many other chemical tasks. The classification below lists the main types.
+
+Biochemists often draw a picture of an enzyme to use as a visual aid or map of the enzyme. This is hard to do because there may be hundreds or thousands of atoms in an enzyme. Biochemists can not draw all this detail. Instead, they use ribbon models as pictures of enzymes. Ribbon models can show the shape of an enzyme without having to draw every atom.
+
+Most enzymes will not work unless the temperature and pH are just right. In mammals the right temperature is usually about 37C degrees (body temperature). The correct pH can vary greatly. Pepsin is an example of an enzyme that works best when pH is about 1.5.
+
+Heating an enzyme above a certain temperature will destroy the enzyme permanently. It will be broken down by protease and the chemicals will be used again.
+
+Some chemicals can help an enzyme do its job even better. These are called "activators". Sometimes, a chemical can slow down an enzyme or even make the enzyme not work at all. These are called "inhibitors". Most drugs are chemicals that either speed up or slow down some enzyme in the human body.
+
+Enzymes are very specific. In 1894 Emil Fischer suggested that both the enzyme and the substrate have "specific complementary geometric shapes" that fit exactly into one another. This is often referred to as "the lock and key" model. However, this model fails to explain what happens next.
+
+In 1958, Daniel Koshland suggested a modification to the lock and key model. Since enzymes are rather flexible structures, the active site is reshaped by interactions with the substrate. As a result, the substrate does not simply bind to a rigid active site. The amino acid side-chains of the active site are bent into positions so the enzyme does its catalytic work. In some cases, such as glycosidases, the substrate molecule also changes shape slightly as it enters the active site.
+
+The general equation for an enzyme reaction is:
+
+Enzymes lower the activation energy of a reaction by forming an intermediary complex with the substrate. This complex is called an enzyme-substrate complex.
+
+For example, sucrase, 400 times the size of its substrate sucrose, splits the sucrose into its constituent sugars, which are glucose and fructose. The sucrase bends the sucrose, and strains the bond between the glucose and fructose. Water molecules join in and make the cleavage in a fraction of a second. Enzymes have these key features:
+
+There are five main ways that enzyme activity is controlled in the cell.
+
+
+Inhibitors can be used to stop an enzyme from binding to a substrate. This may be done to slow down an enzyme-controlled reaction. The inhibitors fit loosely or partially into the enzyme's active site. This prevents or slows down an enzyme-substrate complex being formed.
+
+Denaturation is the "irreversible" alteration of an enzyme's active site, caused by an extreme change in temperature or pH. It will decrease the rate of reaction because the substrate molecule will not be able to fit into the active site, so products cannot be formed.
+
+Cofactors, or coenzymes, are helper molecules which are needed to make an enzyme work. They are not proteins, and may be organic or inorganic molecules. Both types of molecules sometimes contain a metal ion at the centre, such as Mg, Cu, Mn or iron-sulphur clusters. This is because such ions may act as electron donors, and this is important in many reactions. The need of enzymes for various little helpers is the basic reason why animals, including ourselves, need trace elements and vitamins.
+
+Enzymes have been classified by the "International Union of Biochemistry". Their Commission on Enzymes has grouped all known enzymes into six classes:
+The individual enzymes are given a four-figure number which classifies them in the database.
+
+Enzymes are used commercially for:
+
+
+Mountain
+
+A mountain is a large natural rise of the Earth's surface that usually has a "summit" (the name for a mountain's top, which can also be called a peak). It is usually steeper and taller than a hill. By definition, mountains are often thought of as being a hill which is higher than 600 meters (about 2,000 feet). However, some definitions say a mountain is a hill higher than 300 meters (about 1,000 feet).
+
+
+The forming of a mountain is called orogeny. Mountains are formed when rock layers in the ground are pushed from opposite sides, and by being pushed, they push the crust up. A mountain range is a large group of mountains beside each other. There are three main ways a mountain may be made:
+
+Fold mountains occur when two plates collide. The less dense continental crust "floats" on the denser mantle rocks beneath. The continental crust is normally much thicker under mountains, compared to lower lying areas. Rock can fold either symmetrically or asymmetrically. The upfolds are anticlines and the downfolds are synclines. The Jura Mountains are an example of fold mountains.
+
+Folded mountains make up some of the highest mountains in the world. Folded mountains commonly form along boundaries, where 2 continents meet. Some really complex folds are in parts of the Andes, Alps, Himalayas, Appalachians, and Russia's Ural Mountains. These long mountain chains also show lots of signs of folding.
+
+Block mountains are caused by faults in the crust: a seam where rocks can move past each other. When rocks on one side of a fault rise relative to the other, it can form a mountain. The uplifted blocks are block mountains or "horsts". The dropped blocks are called "graben". They can form extensive rift valley systems. This form of landscape can be seen in East Africa, the Vosges, the Basin and Range province of Western North America and the Rhine valley. These areas often occur when the regional stress is extensional and the crust is thinned.
+
+Volcanoes are formed in one of these ways:
+
+Examples of volcanoes include Mount Fuji in Japan and Mount Pinatubo in the Philippines. The magma does not have to reach the surface in order to create a mountain: magma that solidifies below ground can still form dome mountains, such as Navajo Mountain in the states of Utah and Arizona, in the United States.
+
+Volcanic mountains form when molten rock erupts onto the Earth's surface. They can either form on land or in the ocean. The Cascade Range in Washington, Oregon and northern California is made of volcanoes. Some of the largest volcanoes are on divergent boundaries, which form the mid-ocean ridges. The mid-ocean ridges have big volcanic mountain chains that run through the Atlantic, Pacific and Indian Oceans. The mountains in the mid-ocean ridges can grow tall enough to create islands such as Iceland or the Azores.
+
+Other volcanic mountains form over hot spots, pockets of magma beneath the crust which erupt onto Earth's surface. The Hawaiian Islands are the tops of really high volcanic islands that have formed over a hot spot on the sea floor. The main Hawaiian island is a volcano about above the ocean floor. Its base is about wide. Almost of this island is above sea level.
+
+Dome mountains, like those in the Black Hills of South Dakota and the Adirondack Mountains of New York, are an unusual domish type of mountain that is formed when molten rock rises through the crust and push up the rock layers above it. This creates a circular dome on the Earth's surface. The molten rock later cools off and forms hardened rock. When the pushed up rocks are worn away, the hardened rock is shown. This hardened rock then wears away in places. When it wears away, it leaves mountains, and they are called dome mountains.
+
+Plateau mountains are formed a bit like folded mountains. They are large areas of flat topped rocks that have been lifted high above the crust by continental plates. Most plateaus are near folded mountains.
+
+The height of a mountain is measured as distance above sea level.
+
+The highest known mountain in the Solar System is Olympus Mons (27 km high) on Mars. The highest mountain on Earth is Mount Everest (8,848m) which is in Nepal and Tibet, in Asia.
+
+The "tallest" mountain in the world is Mauna Loa, in Hawaii. The "height" of a mountain is measured from sea level, but the "tallness" of a mountain is measured from its base, even if under water. The highest mountain in North America is Mount McKinley (6,194m) in Alaska in the USA. The highest in South America is Aconcagua (6,962m) in Argentina. For Africa, it is Kilimanjaro (5,963m) of Tanzania. In Europe, the highest mountain is in Russia called Elbrus (5,633m). Antarctica's highest mountain is Vinsin Massiff (5,140m). In Oceania, a mountain called Puncak Jaya (5,030m) is the highest there. This particular mountain is in Papua New Guinea / Indonesia.
+
+Machine code
+
+Machine code is a computer program written in machine language. It uses the instruction set of a particular computer architecture. It is usually written in binary. Machine code is the lowest level of software. Other programming languages are translated into machine code so the computer can execute them.
+
+An instruction tells the process what operation to perform. Each instruction is made up of an opcode (operation code) and operand(s). The operands are usually memory addresses or data. An instruction set is a list of the opcodes available for a computer. Machine code is what assembly code and other programming languages are compiled to or interpreted as.
+
+Program builders turn code into another language or machine code. Machine code is sometimes called native code. This is used when talking about things that work on only some computers.
+
+Machine code can be written in different forms:
+
+There are many kinds of instructions usually found in an instruction set:
+Many modern processors use microcode for some of the commands. More complex commands tend to use it. This is often done with CISC architectures.
+
+Every processor or processor family has its own instruction set. Instructions are patterns of bits that correspond to different commands that can be given to the machine. Thus, the instruction set is specific to a class of processors using (mostly) the same architecture.
+
+Newer processor designs often include all the instructions of an earlier one and may add more instructions. Sometimes, a newer design will discontinue or alter the meaning of an instruction code (typically because it is needed for new purposes), affecting code compatibility; even nearly completely compatible processors may show slightly different behavior for some instructions, which may or may not be a problem.
+
+Systems may differ in other details, such as memory arrangement, operating systems, or peripheral devices. Because a program normally relies on such factors, different systems will typically not run the same machine code, even when the same type of processor is used.
+
+Most instructions have one or more opcode fields. They specify the basic instruction type. Other fields may give the type of the operands, the addressing mode, and so on. There may also be special instructions that are contained in the opcode itself. These instructions are called "immediates".
+
+Processor designs can be different in other ways. Different instructions may or may not have the same length. Having all instructions with the same length can simplify the design.
+
+The MIPS architecture has instructions which are 32 bits long. This section has examples of code. The general type of instruction is in the "op" (operation) field. It is the highest 6 bits. J-type (jump) and I-type (immediate) instructions are fully given by "op". R-type (register) instructions include the field "funct". It determines the exact operation of the code. The fields used in these types are:
+
+"rs", "rt", and "rd" indicate register operands. "shamt" gives a shift amount. The "address" or "immediate" fields contain an operand directly.
+
+Example: add the registers 1 and 2. Place the result in register 6. It is encoded:
+
+Load a value into register 8. Take it from the memory cell 68 cells after the location listed in register 3:
+
+Jump to the address 1024:
+
+
+

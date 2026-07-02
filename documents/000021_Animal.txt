@@ -1,0 +1,91 @@
+Animal
+
+
+Animals (or Metazoa) are living creatures with many cells. Animals get their energy from other living things. Usually, they eat them or are parasites. Animals, plants, fungi, and some other living things have complex cells, so they are grouped together as eukaryotes.
+
+The study of animals is called zoology. The study of ancient life is called palaeontology.
+
+Most animals are mobile, meaning they can move around. Animals take in oxygen, and give out carbon dioxide. This cellular respiration is part of their metabolism (chemical working). In both these ways they are different from plants. Also, the cells of animals have different cell membranes to other eukaryotes like plants and fungi. 
+
+Plants are also multicellular eukaryotic organisms, but live by using light, water and basic elements to make their tissues.
+
+There are many different types of animals. The common animals most people know are only about 3% of the animal kingdom. When biologists look at animals, they find things that certain animals have in common. They use this to group the animals in a biological classification. Several million species may exist, but biologists have only identified about one million.
+
+Animals can mainly be divided into two main groups: the invertebrates and the vertebrates. Vertebrates have a backbone, or spine; invertebrates do not. Vertebrates are the only group to have an adaptive immune system, which may be partly responsible for their size and success.
+
+Vertebrates are:
+
+Some invertebrates are:
+
+The animal mode of nutrition is called heterotrophic because they get their food from other living organisms. Some animals eat only plants; they are called herbivores. Other animals eat only meat and are called carnivores. Animals that eat both plants and meat are called omnivores. Some animals get their energy from photosynthetic protists that live inside them. 
+
+The environments animals live in vary greatly. By the process of evolution, animals adapt to the habitats they live in. A fish is adapted to its life in water and a spider is adapted to a life catching and eating insects. A mammal living on the savannahs of East Africa lives quite a different life from a dolphin or porpoise catching fish in the sea.
+
+The fossil record of animals goes back about 600 million years to the Ediacaran period, or somewhat earlier. During the whole of this long time, animals have been constantly evolving, so that the animals alive on Earth today are very different from those on the edges of the sea-floor in the Ediacaran.
+
+In scientific usage, humans are animals. But in everyday use, humans are often not regarded as animals.
+
+Acceleration
+
+Acceleration is a measure of how fast velocity changes. Acceleration is the change of velocity divided by the change of time. Acceleration is a vector, and therefore includes both a size and a direction. Acceleration is also a change in speed and direction, there is:
+
+Speed (a scalar quantity) (uses no direction)
+
+
+Velocity (a vector quantity) (uses a direction)
+
+
+The measurement of how fast acceleration changes is called jerk. 
+
+
+Acceleration is the rate of change of the velocity of an object. Acceleration formula_1 can be found by using:
+
+where
+
+Sometimes the change in velocity formula_7 is written as Δformula_8. Sometimes the change in time formula_9 is written as Δt.
+
+In difficult situations, the acceleration can be calculated using mathematics: in calculus, acceleration is the derivative of the velocity (with respect to time), formula_10.
+
+Acceleration has its own units of measurement. For example, if velocity is measured in meters per second, and if time is measured in seconds, then acceleration is measured in meters per second squared (m/s).
+
+Acceleration can be positive or negative. When the acceleration is negative (but the velocity does not change direction), it is sometimes called deceleration. For example, when a car brakes it decelerates. Physicists usually only use the word "acceleration".
+
+Newton's laws of motion are rules for how things move. These rules are called "laws of motion". Isaac Newton is the scientist who first wrote down the main laws of motion.
+According to Newton's Second Law of Motion, the force something needs to accelerate an object depends on the object's mass (the amount of "stuff" the object is made from or how "heavy" it is).
+The formula of Newton's Second Law of Motion is formula_11,
+where formula_12 is the acceleration, formula_13 is the force, and formula_14 the mass. 
+This formula is very well-known, and it is very important in physics. Newton's Second Law of Motion, in short "Newton's Second Law", is often one of the first things that physics students learn.
+
+Deceleration is negative or backwards acceleration. This means that something slows down instead of speeding up. For example, when a car brakes, it is decelerating.
+
+Black pudding
+
+Black pudding is an English name for zwarte pudding. It is food made by cooking down the blood of any mammal (usually pigs or cattle) with meat, fat or filler until it is thick enough to congeal (become firm or solid) when cooled.
+
+In Great Britain, blood sausage is called "black pudding". The ingredients include pig's blood, suet, bread, barley and oatmeal. Bury is well known for them. The most common kind of German "Blutwurst" is made from fatty pork meat, beef blood and filler such as barley. Though already cooked and "ready to eat" it is usually served warm.
+
+Other kinds of blood sausage include "boudin noir" (France), "boudin rouge" (Creole and Cajun) and "morcilla" (Spain).
+
+A legend says that blood sausage was invented in a bet between two Bavarian butchers drunk on the alcoholic drink absinthe during the 14th century. Homer's "Odyssey" from Ancient Greece says that "As when a man besides a great fire has filled a sausage with fat and blood and turns it this way and that and is very eager to get it quickly roasted...".
+
+Boot device
+
+A boot device is used to start a computer. It is named after a boot which fits on the foot. The word bootstrap is also closely related, and means, to use something simpler to get something more complex to make itself work better. It comes from the English phrase "pull yourself up by your own bootstraps."
+
+Before a computer can operate normally, it must have operating system instructions that tell it how to perform basic functions. A boot device loads the operating system into the memory of the computer. 
+
+Devices that can boot a computer are usually boot disks or boot drives (normally a hard drive or Solid State Drive, but can be a floppy disk, flash drive or a CD). Some network computers use "boot chips" that get the operating system over a network. Web phones also use such chips to identify the user to the mobile phone network. Boot card standards may let many users boot kiosk computers with full privacy and access to all application software they own. There are also boot boards or boot "add-in" cards that are more permanent than boot cards.
+
+Some people refer to the boot device as just a boot and non-boot devices as data devices, although it is not the computer but the operating system that cares about the difference between these.
+
+The boot in boot device is the same as booting (or starting up). This is short for bootstrapping, or to start with simple stuff and make complex stuff out of it.
+
+
+Boot
+
+A boot is a type of footwear that protects the foot and ankle. Boots are higher and larger than shoes and sandals. Some boots are high enough to protect the calves (lower part of the leg) as well. Some boots are held on with "bootstraps" or "bootlaces". Some also have spats or "gaiters" to keep water out. Most have a very strong "boot sole", the bottom part of a boot.
+
+
+
+
+

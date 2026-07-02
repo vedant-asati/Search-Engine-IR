@@ -1,0 +1,82 @@
+Pollution
+
+
+Pollution is when harmful substances are added to the environment and then change it in a bad way. There are six kinds of pollution of the environment: water pollution, air pollution, light pollution, noise pollution, soil pollution and thermal pollution.
+
+As pollution grows, ways to combat it have been in demand. Solar energy and wind energy give people clean opportunities to power their homes. But these may also have depending on the situation. When people use these alternative forms of energy, they put less carbon dioxide into the environment.
+
+Water pollution is the presence of harmful materials in water, such as sewage, dissolved metal, waste from farms, factories and crude oil spilled from oil tankers. The three main substances that pollute water are nitrates from fertilizers, sewage and detergents.
+
+Activities such as bathing and washing clothes near lakes, ponds or rivers add nutrients like nitrate and phosphate into the water bodies.This leads to excessive growth of algae on the surface of water. It blocks the penetration of sunlight and air, thus reducing oxygen.
+
+It causes harm to organisms living in water and can also harm people's health. In extreme cases, it may cause diseases like cancer. It also leads to loss of a large amount of aquatic life.
+
+Water pollution has been a problem from the time human population increased, and live in cities. Cities have been prone to cholera and typhoid fever and other infectious diseases since Roman times. Existing water systems put in place in the 19th century are overwhelmed by the rapid growth of population in cities.
+
+Air can be polluted by many things. Examples include poisonous gases, sulphur dioxide, nitrogen dioxide, carbon monoxide and very small particulates. Smoke and harmful gases released by fires, industries, and thermal power plants cause air pollution. Using coal and wood as fuels for fire causes a lot of air pollution. Petroleum produces less pollution per ton, but it causes a lot of pollution since a lot of it is burned globally. Air pollution may cause health problems such as asthma or other breathing problems.
+
+Air pollution causes global warming and acid rain. This makes it difficult for some living things to survive.
+
+Noise pollution, also known as sound pollution, is harmful to the brain and hearing of all animals and humans. This includes the sound of vehicles, loud speakers, airplanes, jets, train horns etc. Noise pollution can cause ear problems or even permanent deafness, especially to older people. The schools which are beside the roads suffer from noise pollution. Students cannot concentrate in their studies. People in hospitals near main roads also suffer.
+Thermal pollution is the harmful release of heated liquid into a body of water or heat released into the air as a waste product of an industry.
+
+A common cause of thermal pollution is using water as a coolant by power stations and industrial manufacturers. This puts back warm water, and so raises the temperature and decreases how much oxygen is in the water. The heat released into the air will make the air warmer which increase global warming.
+
+Immunity (medical)
+
+Immunity is the ability of the body to defend itself from 'foreign bodies'. This means rejecting infections, clearing up dust which gets in the lungs, and killing cancer cells. 
+
+Immunity is of two types. Innate immunity protects the host against infection, but has no 'memory', and so gives no long-term immunity.
+
+The second type is adaptive immunity, which does have a kind of 'memory'. It does give long-term protection against specific pathogens.
+
+All animals, plants and fungi have some innate immunity. Vertebrates also have adaptive immunity.
+
+People can be immunised from some diseases by having a vaccination 
+(injection of some dead or weakened virus, or bacteria that causes the disease). Vaccination builds on the natural immune system to make a person resist certain diseases. By doing so, the body reacts more quickly to fight the virus/bacteria when it comes. 
+
+Immunology is a science that examines the structure and function of the immune system. The earliest known mention of immunity was during the plague of Athens in 430 BC. Thucydides noted that people who had recovered from a previous bout of the disease could nurse the sick without contracting the illness a second time.
+
+In the 18th century, Pierre-Louis de Maupertuis made experiments with scorpion venom and observed that certain dogs and mice were immune to this venom.
+
+This and other observations of acquired immunity was later exploited by Louis Pasteur in his development of vaccination and his proposed germ theory of disease. Pasteur's theory was in direct opposition to contemporary theories of disease, such as the miasma theory.
+
+It was not until Robert Koch's 1891 proofs, for which he was awarded a Nobel Prize in 1905, that microorganisms were confirmed as the cause of infectious disease. Viruses were confirmed as human pathogens in 1901, with the discovery of the yellow fever virus by Walter Reed.
+
+Immunology made a great advance towards the end of the 19th century. Humoral immunity (antibodies) and cellular immunity (T cells and dendritic cells). were all recognised.
+
+Particularly important was the work of Paul Ehrlich, who proposed the side-chain theory to explain the specificity of the antigen-antibody reaction; his contributions to the understanding of humoral immunity were recognized by the award of a Nobel Prize in 1908, which was jointly awarded to the founder of cellular immunology, Elie Mechnikov.
+
+Humoral immunity is immunity that is done by macromolecules. Antibodies, complement proteins, and certain antimicrobial peptides are in extracellular fluids.
+
+This is an immune response which does not involve antibodies. Cell-mediated immunity is the activation of phagocytes, antigen-specific cytotoxic T-lymphocytes, and the release of various cytokines in response to an antigen.
+
+Roman numerals
+
+Roman numerals are a numeral system that was used by ancient Rome. Numbers in this system use letters from the Latin alphabet. Currently, it uses seven symbols:
+
+The Europeans still used Roman numerals even after the fall of the Roman Empire. From the 14th century, the Europeans replaced Roman numerals with Arabic numerals. However, people still use Roman numerals to this day.
+
+One place in which they are sometimes seen is on clock faces (the front of a clock). For example, on the clock of Big Ben, the hours from 1 to 12 are written as:
+
+The and can be read as "one less than 5" (4) and "one less than 10" (9). On many clocks that use Roman numerals, however, 4 is written as .
+
+Instead of writing the same letter four times, a rule for subtraction is used. The letter is written once, then the next largest Roman numeral is written. When a lower number (such as ) appears before a higher one (such as ), the lower number is subtracted from the higher one. For example, 4 is not written as , but instead as , because is (5) minus (1). The same is done for 9 - it is not written as , but instead as , because is (10) minus (1).
+
+It is very easy to write a number as a Roman numeral. Simply subtract the largest possible Roman numeral as many times as possible from the number. This system will result in a valid Roman numeral, but will not take the subtraction rule into account.
+Getting the number from the numeral is equally simple, by adding the values of the symbols.
+
+In general, the values for 5, 50, and 500 are not subtracted. Here is the same number using the subtraction rule:
+
+The number zero does not have its own Roman numeral. At about 725, Bede or one of his colleagues used the letter N, the abbreviation (short form) of "nihil" (the Latin word for "nothing").
+
+The Romans also used fractions. The most common base for fractions was 1/12, which in Latin is called "uncia" (ounce).
+
+A number of numeral systems are developed for large numbers that cannot be shown with , , , , , and .
+
+One of the systems is the "apostrophus", in which D is written as IƆ (500) and M is written as CIƆ (1,000). In this system, an extra Ɔ means 500, and multiple extra Ɔs are used to mean 5,000, 50,000 etc.
+Another system is the "vinculum", in which V, X, L, C, D and M are multiplied by 1,000 by adding an overline.
+
+
+
+

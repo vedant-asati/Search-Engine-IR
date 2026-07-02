@@ -1,0 +1,77 @@
+The FIDE rules for competitive chess include all the rules above, as well as several others.
+
+
+If a player wishes to adjust a piece on the board, they must first say "J'adoube" (I adjust) or the equivalent. Apart from that, if a piece is touched it must be moved if possible. This is the 'touch and move' law. If no legal move is possible with the touched piece, the player must make a legal move with another piece. When a player's hand leaves a piece after moving it then the move is over and may not be changed (if the move was legal).
+
+There are a few famous cases where players appeared to break this rule without being punished. The most famous example was by the then World Champion Garry Kasparov against Judit Polgar in a top-class tournament.
+
+Competitive games of chess must be played with special chess clocks which time a player only when it is their turn to move. After moving, the player presses a button on the clock, which stops the player's clock and starts the opponent's clock. Usually the clocks are mechanical, but some are electronic. Electronic clocks can be set to various programs, and they can count moves made.
+
+The moves of a chess game are written down by using a special chess notation. This is compulsory for any competitive game. Usually, algebraic chess notation is used. In algebraic notation, each square has one name, regardless of whether you are looking from White's side of the board or Black's. Here, moves are written in the format of: initial of piece moved – file where it moved – rank where it moved. For example, Qg5 means "queen moves to the g-file and 5th rank" (that is, to the square g5). If there are two pieces of the same type that can move to the same square, one more letter or number is added to show the file or rank from which the piece moved, e.g. Ngf3 means "knight from the g-file moves to the square f3". The letter P showing a pawn is not used, so that e4 means "pawn moves to the square e4".
+
+If the piece makes a capture, "x" is written before the square in which the capturing piece lands on. Example: "Bxf3" means "bishop captures on f3". When a pawn makes a capture, the file from which the pawn left is used in place of a piece initial. For example: exd5 means "pawn captures on d5."
+
+If a pawn moves to its eighth rank, getting a promotion, the piece chosen is written after the move, for example e1Q or e1=Q. Castling is written by the special notations 0-0 for kingside castling and 0-0-0 for queenside. A move which places the opponent's king in check normally has the notation "+" added. Checkmate can be written as # or ++. At the end of the game, 1-0 means "White won", 0-1 means "Black won" and ½-½ is a draw.
+
+In print, "figurines" (like those in diagrams, but smaller) are used for the pieces rather than initials. This has the advantage of being language-free, whereas the initials of pieces are different in every language. Typefaces which include figurines can be purchased by chess authors. Also, basic notes can be added by using a system of well-known punctuation marks and other symbols. For example: ! means a good move, !! means a very good move, ? means a bad move, ?? a very bad move (sometimes called a "blunder"), !? a creative move that may be good, and ?! a doubtful move. The purpose of these methods is to make publications readable in a wider range of countries. For example, one kind of a simple "trap" known as the Scholar's mate, as in the diagram to the right, may be recorded:
+
+1. e4 e5
+2. Qh5?! Nc6
+3. Bc4 Nf6?? (3...Qe7 would prevent the mate, with 4...Nf6 next move)
+4. Qxf7# 1-0
+
+With figurines in place of the initials, the chess notation is understood universally.
+
+Players are not allowed to smoke in the playing area. They are only allowed to smoke in areas designated by the organiser. Mobile phones may not be used or even switched on. In many tournaments players may not bring mobile phones into the playing area. Players cannot use any source of advice during a game, such as other players or chess books, nor analyse the game on a device. These and other matters are covered by the FIDE Laws on the conduct of the players.
+
+A game is divided into three stages: the opening, the middlegame, and the endgame.
+
+The first moves of a chess game are called the "opening". A chess opening is a name given to a series of opening moves. Recognized patterns of opening moves are "openings" and have been given names such as the Ruy Lopez or Sicilian defence. They are listed in reference works such as the "Encyclopaedia of Chess Openings". There are dozens of different openings. They range from gambits, where material, such as pawns are offered for fast development (e.g. the King's Gambit), to slower openings, which lead to a maneuvering type of game (e.g. the Réti opening). In some opening lines, the sequence thought best for both sides has been worked out to 20–30 moves; most players avoid such lines. Expert players study openings throughout their chess career, as opening theory keeps on developing.
+
+The basic aims of the opening phase are:
+
+White, by virtue of the first move, begins the game with a better chance of winning. Black normally tries to equalize or to get counterplay during the game.
+
+The middlegame is the part of the game where most pieces have been developed. It is where most games are won and lost. Many games will end in resignation before the endgame takes place.
+
+A middlegame position has a structure. That structure is determined by the opening. The simplest way to learn the middlegame is to select an opening and learn it well (see examples in English Opening and French Defence).
+
+These are some things to look for when analyzing a middlegame position:
+
+Here is an example from the borderline between opening and middlegame. In the diagram to the left, White will mainly play on the queenside, while Black will play on the kingside.
+
+If White to play, he may wish to stop Black's threat of playing 10...Nf4. He can do this by playing 10.g3, or by playing 10.Re1 so that if 10...Nf4 11.Bf1 will preserve the bishop (in this position it is an important defensive piece). However, White may try to plough ahead with 10.c5, the key move on the queenside. ChessBase shows that the number of tournament games with these choices were:
+
+The database also shows that the overall results were significantly better for 10.Re1. During a middlegame, the player should note the features of the position on the board, and formulate a game plan. The opponent will try to interfere with the plan or gain counterplay.
+
+The endgame is the part of the game when there are few pieces left on the board. There are three main strategic differences between earlier parts of the game and the endgame:
+
+
+Endgame positions are easier to analyze than middlegames, as there are fewer pieces on the board. Many endgame positions can be won by force. A drawn endgame is one that is legally drawn (checkmate is impossible), or drawn by chess experience (drawn with best play by both sides). All endgames in master chess revolve around the borderline between winning and drawing. Generally, once a 'textbook' drawn position is reached, the players will agree a draw.
+
+Endgames can be studied according to the types of pieces that remain on the board. For example, king and pawn endgames have only kings and pawns on one or both sides, and the task of the stronger side is to promote one of the pawns. Other endings are studied according to the pieces on board other than kings, e.g. rook and pawn versus rook endgame.
+
+Basic checkmates are positions in which one side has only a king and the other side has one or two pieces, enough to checkmate the opponent's king. They are usually learned at the beginner stage. Examples are mate with K+Q v K; K+R v K; K+2B v K; K+B&N v K (this one is quite difficult).
+
+There are two types of chess programs. One is to play against you; the other is to help you become a better player by learning more. The two types can be made to work together, though they have different functions.
+
+Chess engines are computer systems that can play chess games against human opponents. Quite a number have been devised; they can play at master level, though their processes are quite different from a human being.
+
+Every year brings new advances, which if listed here would soon be out of date. Best advice is to go to English Wikipedia, which keeps an up-to-date chart of the leading software: .
+
+Chess databases give access to the recorded history of master chess games. There are two components: software, which lets one search and organise the database material, and the actual database. There are usually over a million games in a given database.
+
+In practice, databases are used for two purposes. First, for a player to train his/her ability at specific openings. Second, to look up specific opponents to see what they play, and prepare against them beforehand.
+
+The existence of chess databases is one of the reasons players can achieve mastery at an young age.
+
+ChessBase is the biggest database, and widely used by masters. Although it can be used online, most users download the software and data onto their computer. If that computer happens to be a laptop, then they might take the laptop to tournaments to help prepare for games. Players cannot use computers or any other aid during games, so much of the preparation goes on before a game. ChessBase has to be purchased, and it is not cheap.
+
+This is a Dutch magazine for advanced players, which runs an online database called NicBase as part of its services. NicBase is free, and has over a million games.
+
+Chessgames.com runs an online database of games. It is mostly free; full access to all its facilities costs a subscription. It has over half a million games on its database.
+
+There are websites which a player can join (for a fee) and play on line. In this case, the subscriber will play against other subscribers, not a computer. All standards of players are amongst the members, and various events are on offer at different rates of play. Online chess websites include:
+
+
+

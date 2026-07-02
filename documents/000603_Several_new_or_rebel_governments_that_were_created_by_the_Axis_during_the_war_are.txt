@@ -1,0 +1,121 @@
+Several new or rebel governments that were created by the Axis during the war are:
+
+
+
+Axis
+
+Axis means several things:
+
+
+Icelandic language
+
+Icelandic is the language spoken by the people of Iceland.
+
+It is a Germanic language. It comes from the Old Norse language, the language spoken by the Vikings. Because Iceland is far away from other countries, the language has not changed much. Icelandic people can still read words from hundreds of years ago.
+
+Icelandic uses four characters that are not used in English: þ (thorn), (like 'th' in thin), ð (edh), (like 'th' in this), æ (pronounced like I) and ö (pronounced like the French U). It can also be said that ð is a "softer" version of þ.
+
+Some linguists say there are only two Nordic languages, Eastern-Nordic and Western-Nordic, which includes Icelandic and Faroese because of their similarity.
+
+Icelandic is also one of the most difficult languages to learn.
+
+Passu
+
+Passu is a small village by the Khunjerab River in Gilgit-Baltistan, Pakistan. It lies at an altitude of 2500m. The Batura and Passu glaciers and the Karakoram Highway are close to the village. The people speak the Wakhi language and follow the Ismaili sect of Islam. 
+
+Equator
+
+The equator is a line which is not real drawn around a sphere or planet, such as the Earth. It is one of the lines known as a line of latitude, or circle of latitude. The name "equator" is Latin for "even-maker"; at equator the day and night are exactly the same length around the year.
+
+The equator is halfway between the North Pole and the South Pole. There, the surface of the planet is parallel to the axis of rotation. The equator divides the surface into the northern hemisphere and the southern hemisphere.
+
+Unlike the northern hemisphere and the southern hemisphere, countries around the equator do not experience the four seasons, and the climate is usually very humid.
+
+
+Rocket
+
+A rocket may be a missile, spacecraft, aircraft or other vehicle which is pushed by a rocket engine. Some big rockets are launch vehicles and some are manned (e.g. Saturn V). Other rockets, for example missiles, are unmanned. ("Manned" means that a person is in it; "unmanned" means that the machine goes without a person.)
+
+Most rockets can be launched from the ground because exhaust thrust from the engine is bigger than the weight of the vehicle on Earth. Some are used to bring satellites into orbit, for example from a spaceport. Some rockets such as ion thrusters are too weak and heavy to lift themselves. They work after other rockets bring them to outer space.
+
+The rocket was invented by the Chinese, using gunpowder. The first rockets were shaped like arrows and were not very fast. Most rockets still work by fire. The fire makes hot exhaust gases that expand and shoot out a nozzle. This makes the rocket go forward.
+
+Most rockets still use solid fuel to make the fire. The biggest ones use liquid fuel because it makes a hotter fire so the rocket is more powerful. However, handling the liquid fuel safely is difficult and expensive. Some satellite launch vehicles use both.
+
+Rockets are also used for fireworks and weapons and to control moves in outer space.
+
+Manned rockets, similar to other manned flying machines, are designed to limit their acceleration and vibration to protect the crew. Unmanned rockets however are not bound by the limits of humans.
+
+Some rockets go faster than the speed of sound (). Those that go into Low Earth orbit go .
+
+Yuri Gagarin was a Soviet cosmonaut who, on 12 April 1961, became the first human to fly into outer space. He was in the R-7 rocket launched by the Soviet Union.
+
+
+Advisor
+
+An advisor (or adviser) is someone who gives advice. (Someone who "advises".) The job of an advisor is to give good advice that helps the person that he or she is advising. Usually, only certain people, like businessmen or politicians, have advisors. This is because these kinds of people are usually very busy, and they do not have the time to make decisions alone.
+
+In the United States, the President's advisors are called his "Cabinet." Some well-known cabinet members, current and former, from the Bush Administration are:
+
+
+MacOS
+
+macOS, named Mac OS X from 2001 to 2012 and OS X until 2016, is an operating system (OS) for computers made by Apple Inc. These are called Macintosh computers, or Macs. It differs from other computers, as macOS is supposed to run only on Macs and not on other computers. However, people have made macOS run on computers that are not Macs. This is called Hackintosh and violates macOS' license agreement.
+
+macOS first came out in 2001, and is completely different from the "classic" Mac OS that it replaced. Unlike the first operating system, macOS (since OS X) is based on the UNIX operating system (current versions have UNIX 03 certification) and on technologies developed between 1985 and 1997 at NeXT, a company that Apple co-founder Steve Jobs created after leaving Apple in 1985. The "X" in Mac OS X and OS X is the Roman numeral for the number 10 and is pronounced as such. The core of macOS is an open source OS called Darwin, but Darwin itself cannot run macOS software.
+
+macOS releases are named after types of big cats, or California landmarks, and has a version number that starts with 10.0, 11.0, 12.0, 13.0 & 14.0. The latest version of macOS is macOS Sonoma (14.2.1).
+
+Throughout the early 1990s, Apple had tried to create a "next-generation" OS to replace its classic Mac OS. The current macOS is a UNIX operating system built on technology that had been developed at NeXT from the 1980s until Apple purchased the company in early 1997. That company was also founded by Steve Jobs following his departure from Apple in 1985. There, the Unix-like NeXTSTEP operating system was developed, and then launched in 1989 (the "classic" Mac OS is much older, as it came out in 1984). The kernel of NeXTSTEP is based upon the Mach kernel, which was originally developed at Carnegie Mellon University, with additional kernel layers and low-level user space code from parts of Berkeley Software Distribution (BSD). Its graphical user interface was built on top of an object-oriented GUI toolkit using the programming language.
+
+On September 13, 2000, Apple released a $29.95 preview of Mac OS X to ask users what they think of the new operating system so far. Apple stopped the Public Beta in March 2001 because of the recent release of OS X 10.0.
+
+On March 24, 2001 Apple released Mac OS X for the first time aka OS X v10.0 (codename Cheetah), but unfortunately, it was a failure due to its many computer bugs and glitches and its slow performance. Luckily this operating system version only stayed on the market up until September when it was moved up to a "higher level".
+
+Due to many problems and complaints about Cheetah, Apple directly got to work on releasing Puma, the next big cat in Mac OS X. It was released on September 24, 2001. Apple gave 10.0 users a free Mac OS X v10.1 install CD to make up for the flawed operating system before. As of January 7, 2002, Apple said Mac OS 9 and other previous operating systems from Apple were "going in the computer scrapyard" by the end of the month (January 31, 2002) and OS X would be the default and only operating system available on all Macs.
+
+Mac OS X 10.2 Jaguar was released on August 24, 2002 and was the first to have its codename in the version branding. The Happy Mac (which formerly appeared when a Mac was starting up) was replaced with a large gray apple logo with the startup sequence of OS X 10.2 Jaguar.
+
+Mac OS X 10.3 Panther was released on October 24, 2003 and was one of the biggest updates to OS X yet. It featured a new brushed metal interface, an updated Finder, and many more features from Jaguar the year before.
+
+Tiger was released on April 29, 2005 and as stated by Apple, featured more than 200 new features. Among the new features, Tiger introduced Spotlight, Dashboard, Smart Folders, updated Mail program with Smart Mailboxes, QuickTime 7, Safari 2, Automaton, Voice-over, Core Image and Core Video. Apple released the first Power Intel Macs for Tiger on January 10, 2006. Tiger ran swell on these computers. It was also the last operating system to support the Aqua color scheme.
+
+Mac OS X v10.5 Leopard was released on October 26, 2007. It was completely redesigned featuring a 3D Dock, a new purple color scheme, and over 200 new features. It had both support for PowerPC and Intel Macs too. Leopard was the last release to have support for PowerPC.
+
+Mac OS X Snow Leopard was released on August 28, 2009, and rather than featuring changes to the appearance, it featured "Under the hood" changes. Snow Leopard dropped support for PowerPC Macs too.
+
+OS X Lion was first shown to the public at the "Back to The Mac" event in 2010, announced more at WWDC 2011, and released on July 20, 2011. It featured iOS-like features such as the Launchpad, the Magic Trackpad coming to MacBooks, and a new solar system color scheme. Apple also removed Rosetta making it impossible to use PowerPC.
+
+OS X Mountain Lion was announced on February 18, 2012, and released on July 25, 2012. It adds more features from iOS 5 and 6 to the Mac such as notifications, messaging, game center, and gaming with people on iPhones, iPods, and iPads.
+
+OS X Mavericks was announced on June 10, 2013 at the 2013 Worldwide Developers Conference. It adds the Maps and iBooks applications, as well as new Finder features, better multi-display support, power improvements, and a new version of Safari. It was released on October 22, 2013. It was the first macOS version that was free.
+
+OS X Yosemite was announced in June 2014 at the 2014 Worldwide Developers Conference. It was in beta form for developers and those enrolled in the public beta programme to test until October 16, 2014 when it was released. It introduces a new flat design, following the aesthetic introduced with iOS 7.
+
+OS X 10.11 El Capitan was released on September 30, 2015 after being announced on June 8, 2015. Similar to Mac OS X 10.6 Snow Leopard, Apple described this release as containing "refinements to the Mac experience" and "improvements to system performance" rather than new features. Refinements include public transport built into the Maps application, GUI improvements to the Notes application, adopting San Francisco as the system font for clearer legibility, and the introduction of System Integrity Protection. The Metal API, first introduced in iOS 8, was also included in this operating system for "all Macs since 2012".
+
+macOS 10.12 Sierra was announced on June 12, 2016 and released to the public on September 20, 2016. New features include the addition of Siri, Optimized Storage, and updates to Photos, Messages, and iTunes
+
+The fall release of macOS 10.13 High Sierra was announced on June 5, 2017 at Apple's WWDC event. On September 12, 2017 at Apple's iPhone event, they announced its release to be September 25, 2017. Like OS X El Capitan and OS X Mountain Lion, High Sierra is a refinement-based update having very few new features. High Sierra uses the new Apple File System and includes enhancements to Safari, Photos, and Mail, among other changes.
+
+Released on September 24, 2018. There are many additional features to the existing macOS apps. Some highlights are Dark Mode (UI theme & appearance), time shifts reflecting the hour of the day (desktop background), file stacks, edit features in quick look, continuity camera and Group FaceTime features also adds the screenshot app.
+
+Released on October 7, 2019. This OS is included with lots of additional new features like sharing your screen to iPad (Sidecar) and is capable of running iPad apps. Catalina is the first version of macOS to exclusively support 64-bit applications. MacOS Catalina also split up iTunes into 3 apps: Music, Podcasts and Movies. Because of the removal of iTunes, syncing your devices is done in Finder.
+
+Released on November 12, 2020, macOS Big Sur changes the version number from 10 to 11. It now supports the ARM64 instruction set architecture (ISA), as Apple is transitioning the Mac to its own Apple Silicon based on the ARM64 platform. It brings the biggest design changes since the introduction of macOS (then called Mac OS X).
+
+Released on October 25, 2021. macOS Monterey changes the version number from 11 to 12.
+
+Released on October 24, 2022, macOS Ventura changes the version number from 12 to 13.
+
+Released on September 26, 2023, macOS Sonoma brings a set of new features to the Mac. With macOS Sonoma, desktop widgets is released which unlock a new way to personalize the Mac and get more done. Stunning new screen savers, updates to video conferencing and Safari, optimized gaming, among several other useful features are also released.
+
+At macOS's core is a POSIX-compliant operating system built on top of the XNU kernel, with standard Unix facilities available from the command line interface. Apple has released this family of software as a free and open source operating system named Darwin. On top of Darwin, Apple layered a number of components, including the Aqua interface and the Finder, to complete the GUI-based operating system which is macOS.
+
+The Darwin subsystem in macOS is in charge of managing the file system, which includes the Unix permissions layer. In 2003 and 2005, two Macworld editors expressed criticism of the permission scheme; Ted Landau called misconfigured permissions "the most common frustration" in macOS, while Rob Griffiths suggested that some users may even have to reset permissions every day, a process which can take up to 15 minutes. More recently, another Macworld editor, Dan Frakes, called the procedure of repairing permissions vastly overused. He argues that macOS typically handles permissions properly without user interference, and resetting permissions should only be tried when problems emerge.
+
+The architecture of macOS incorporates a layered design:
+the layered frameworks aid rapid development of applications by providing existing code for common tasks. Apple provides its own software development tools, most prominently an integrated development environment called Xcode. Xcode provides interfaces to compilers that support several programming languages including C, C++, Objective-C, and Swift. For the Apple–Intel transition, it was modified so that developers could build their applications as a universal binary, which provides compatibility with both the Intel-based and PowerPC-based Macintosh lines. First and third-party applications can be controlled programatically using the AppleScript framework, retained from the classic Mac OS, or using the newer Automator application that offers pre-written tasks that do not require programming knowledge.
+
+
+

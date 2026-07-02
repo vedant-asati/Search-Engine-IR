@@ -1,0 +1,23 @@
+Merchant marine
+
+
+Merchant marine is a term used in many places to talk about commercial ships and crews. A country's merchant marine is made up of all the ships owned by companies or individuals in that country which are used to make money. Most of a country's merchant marine is usually made of ships that carry things from place to place, like oil tankers and freighters. Other ships, like cruise ships and ferries, are also included because they are used to make money. When a country is at peace, its merchant marine works independently. Some countries, though, require merchant ships to work for their armed forces in times of war.
+
+In the United States, "Merchant Marine" has a different meaning. The United States Merchant Marine (USMM) is a part of the military which is controlled by the government in both peace and war. When the United States is at war, the USMM is used to carry military supplies. In World War II, nearly one out of every twenty-six American merchant mariners was killed, a higher portion of men than in the Army, Navy, or even the Marines.
+
+
+FreeBSD
+
+FreeBSD is an operating system for many different kinds of computers. This means that if the user has a computer around the house and want to run FreeBSD on it, the user probably can. Computers that run Microsoft Windows will also run FreeBSD. It is based on BSD, the version of UNIX developed at the University of California, Berkeley.
+
+FreeBSD is open source. This means that anyone can download the source code and change, or learn from it. The people who work on FreeBSD do not usually get paid. They keep working on it because they enjoy it or want to become more experienced programmers.
+Most open source software that runs on Linux will run natively on FreeBSD without the need for any compatibility layer.
+
+There are a lot of operating systems, which are based on FreeBSD.
+
+Several projects created an operating system, based on FreeBSD, which has a GUI by default.
+
+Examples for that kind of operating systems are:
+
+
+

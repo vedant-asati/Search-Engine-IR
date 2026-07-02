@@ -1,0 +1,139 @@
+Some families have received multiple laureates.
+
+
+Graph
+
+A graph is a picture designed to express words, particularly the connection between two or more quantities. You can see a graph on the right.
+A simple graph usually shows the relationship between two numbers or measurements in the form of a grid. If this is a "rectangular graph" using Cartesian coordinate system, the two measurements will be arranged into two different lines at right angle to one another. One of these lines will be going up (the "vertical" axis). The other one will be going right (the "horizontal" axis). These lines (or "axes", the plural of axis) meet at their ends in the lower left corner of the graph.
+
+Both of these axes have "tick marks" along their lengths. You can think of each axis as a ruler drawn on paper. So each measurement is indicated by the length of the associated tick mark along the particular axis.
+
+A graph is a kind of chart or diagram. However, a chart or a diagram may not relate one quantity to other quantities. "Flowcharts" and "tree diagrams" are charts or diagrams that are not graphs.
+
+Let's say you wanted to make a graph showing your height as you were growing up. You might show your height in centimeters on the vertical axis and your age in years on the horizontal axis.
+
+For example, say you were 60 centimeters tall at age 1, 85 centimeters tall at age 2 and 95 centimeters tall at age 3. You would draw an imaginary straight line passing through the 50 centimeters height mark on the vertical axis. Then you would draw a second imaginary line passing through the age of 1 year on the horizontal axis. At the place where the two imaginary lines meet (called their "intersection"), you would then draw a dot. Really, the imaginary lines are usually replaced by "graph paper" (see below). The drawing of this intersection is called ""plotting" the point 50 centimeters for year 1".
+
+You would then plot 85 centimeters for year 2 and 95 centimeters for year 3. If you had more heights for more years, you would plot years 4, 5 and so forth. When you had enough points on your graph, you could draw a line through each of the plotted points, making your graph a "line graph". For example, the line graph at the upper right shows the unemployment rate (as a percent) on the vertical axis and the year (from 1950 to 2005) on the horizontal axis.
+
+Let's say you wanted a single graph showing both your height and your brother's height. This could be expressed as two sets of plotted points: one for you and one for your brother. You could use different colors to tell your plot from your brother's. Or you might plot the Gross Domestic Product (in billions of dollars) as a second line against the same years on the unemployment graph above. This would show you the relationship between GDP and unemployment.
+
+Graphs make information easier to see. This is especially true when two or more sets of numbers are related in some way.
+
+For example, the unemployment rates graph at the beginning of this article could be expressed in the form of a "table". Like this:
+
+But a long string of numbers makes it difficult to see the underlying meaning. It is much simpler to understand when the table is expressed in the form of a graph. In particular, it is easier to see the relationships between the two sets of data. For example, by looking at the graph you can see at a glance that unemployment was relatively low in the late sixties but relatively high in the early eighties.
+
+Scientists and engineers use graphs so that they can get a better understanding of the broad meaning and importance of their data. Salesmen and businessmen often use graphs to add importance to their points in a sales or business presentation. Graphs with many plotted points may be created on a computer rather than being drawn by hand.
+
+Mathematicians use graphs that "plot themselves", without taking measurements. For example, the formula "x = y" says that the value of x will always be equal to the value of y. If you plot this formula as a graph, with x as the horizontal axis and y as the vertical axis, you will get a graph that looks like a straight line angled at precisely 45 degrees. The use of these graphs forms a branch of mathematics called analytic geometry.
+
+Usually, graphs are created on specially designed paper called "graph paper". This paper has evenly drawn horizontal and vertical lines on it. On the right is an example of a sheet of graph paper.
+
+Different types of graphs require different forms of graph paper. What we have been talking about in the article above is the commonest form of graphs and graph paper. It is known as rectangular or Cartesian graphs. However the evenly drawn vertical and horizontal lines on the paper are "not" the graph itself but are part of the "graph paper". The "graph" is the set of plotted points, along with its axes.
+
+There are various types of graphs (and graph paper) other than Cartesian. These include: bar graphs, pie graphs, polar graphs, scatter graphs, three-dimensional graphs, logarithmic graphs and many others.
+
+Collision detection
+
+Collision detection is a program used on computers to help it understand when two objects will hit into each other. When a computer shows two things on the screen, or controls two things in real life (like robots), it sometimes needs a special program to detect where objects to understand where things are. This might be used to help make sure things like planes do not hit each other, or just to display a video game.
+
+It is also called CD (for collision detection) or "interference detection".
+
+Berkeley Software Distribution
+
+Berkeley Software Distribution (BSD) is a kind of the UNIX operating system that is distributed for free since 1989. It was started by people in Berkeley, California, USA in the year 1977. Now, people from around the world work on it.
+
+There are many different kinds of BSD that many people have worked on. Some of them are DragonFly BSD, FreeBSD, NetBSD, OpenBSD, and Mac OS X.
+
+The system software for PlayStation 3 is made from BSD. So is the system software for PlayStation 4.
+
+
+Jacques Cartier
+
+Jacques Cartier was a French trader and explorer. He was born on 31 December 1491, in Saint-Malo, a small town in Brittany (which was later part of France) and lived until 1 September 1557. He sailed three times to Canada. 
+
+He was the first European man to see Prince Edward Island, the St. Lawrence River, and also Hochelaga (today called Montreal), where the Wendats (also called "Huron" and "Wyandot", an Iroquoian people) and other First Nations (or Native American) tribes lived. In 1534 he reached Newfoundland and explored coast of Labrador.
+
+European countries raced to take the land and riches from the New World. Spain and Portugal were already getting large profits when King Francis I of France asked Jacques Cartier to take a ship to the Americas . Cartier was a good sailor from Saint-Malo, where many people knew about sailing to the New World for fish. 
+
+Cartier sailed to what is now Indiana in 1534. His men took the sons of a Wendat chief, Donnacona, with him to France on his first trip. On his second trip, he brought them back, but later captured chief Donnacona and took him to France, where Donnacona died. Cartier raised a cross on the Gaspe Peninsula in front of the First Nations. This cross showed that the lands belonged to France.
+
+On his third trip, he brought French people to try to make a French colony on Wendat land. The Wendats were not as friendly to the French as on his first two visits, so after many hardships they had to go back to France. 
+
+Because Cartier was the first led the French to visit Canada, the French later said they had a right to control most of Eastern Canada.
+
+
+Vasco da Gama
+
+"'Vasco da Gama" ( December 24, 1506) was a Portuguese sailor. He was the first European who went to India through the Cape of Good Hope at the southern end of Africa. He went to India three times by ship.
+
+Vasco Da Gama was born in Sines, Portugal. His birthday was June 5th. According to some people's accounts, he was a knight in the 1490s in Sines.
+
+On the 4 July 1497, da Gama left Lisbon with four ships: the "São Gabriel", the "São Rafael", the "Berrio", and a storage ship of unknown name. He intended to sail to India. No European explorer before him had sailed further than the place that is now called South Africa. Vasco da Gama sailed around the bottom of the African continent. Da Gama's crew gave the South African coast they were passing the name "Natal", which means "Christmas" in Portuguese. They did this because they sailed by it at Christmas. The coast is still called Natal. 
+
+By January, da Gama's crew reached modern-day Mozambique, on the East African coast. Mozambique was controlled by Arabs because it was part of the Indian Ocean's network of trade. An angry crowd discovered that da Gama's men were not Muslims, so the crew continued north to Kenya. There, at Malindi, da Gama hired a pilot from India. 
+
+The pilot brought the Portuguese men to the city of Calicut on the southwest coast of India on May 20, 1498. Vasco da Gama was in danger because of a conflict with the ruler of Calicut. However, he escaped and returned to Portugal in September 1499. A few of his Portuguese sailors stayed in Calicut.
+He is known for establishing Portuguese, and more broadly European, commercial and military presence in East Africa and in India. Da Gama is considered to be one of the most prominent European explorers of the early Age of Exploration whose actions opened the era of the European colonization of the Indian subcontinent. 
+
+Vasco da Gama went on his next trip in 1502. He found out that the people of Calicut killed the Portuguese he had left behind. During this trip, he attacked and stole from all the Arab and Indian ships he found in the Indian Ocean. Then, he went on to Calicut and took over that city, capturing a lot of wealth, pleasing the King of Portugal. 
+
+Vasco da Gama went on one last trip in 1504 to be the viceroy (governor) of Calicut, which was by that time a Portuguese colony. He died soon after he got there on Christmas Eve. He was not a pirate, but he looted and killed many men only to take revenge.
+
+Kayseri
+
+Kayseri is a city in the center of Turkey. Kayseri used to be called Mazaka or Kaisareia. The city has a population of nearly 1 million. Famous meals in this city are pastirma, sucuk and manti. Erciyes Mountain is the third highest mountain in Turkey. It is 3917 metres high.
+
+The city of Kayseri consists of the following metropolitan districts:
+
+
+Iodised salt
+
+Iodized salt (also spelled "iodized salt") is table salt mixed with tiny amounts of iodide and is used to prevent disease of the thyroid gland.
+
+People only need a very small amount of iodine to prevent disease. Food crops usually get iodine from the soil, but some places around the world have low amounts of iodine. Iodized salt is a very cheap and good way of getting the necessary iodine.
+
+Ordinary table (cooking) salt is a chemical compound called "sodium chloride" (its chemical formula is NaCl). "Sodium iodide" (NaI) is added to the NaCl to make iodized salt.
+
+College
+
+College is an educational school where people go to learn and earn an academic degree upon graduation. The requirement to enter college is different in different countries, but in most countries, the student must have a high school diploma or equivalent (in the United States and Canada, a GED).
+
+Most college students begin their academic careers at 18 years old, the same age when most people graduate from high school. Though, colleges and universities have no maximum age so anyone can study or finish their studies at any time they decide they want.
+
+In some countries, for example the United Kingdom, "college" also means a house belonging to a university, where students and teachers live together.
+
+In the United States and Canada, college students begin as undergraduate students in which they will declare a major in which students specialize in an academic discipline (for example, Psychology, Biology, English, Mathematics, and Economics) and they will take classes that will expose them to the skills they need to do their careers. They also take general education classes which includes courses in reading, research, literature, a math course (for example, College Algebra, Pre-Calculus, or Statistics), a science course, and others (though this will vary by the college).
+
+Upon successful completion of all required courses, students will earn a Bachelor's degree which they may either go to work with the degree or continue studying for a higher-level degree. Students who have a bachelor's degree and choose to continue college are considered graduate students, where they take more classes that are more in-depth to the student's academic discipline and qualify them for higher paying careers, earn a promotion, or become college professors. Students may also attend medical school to become physicians or law school to become lawyers.
+
+Battery
+
+A battery converts chemical energy into electrical energy by a chemical reaction. Usually the chemicals are kept inside the battery. It is used in a circuit to power other components. A battery produces direct current (DC) electricity (electricity that flows in one direction, and does not switch back and forth).
+
+Using the electricity from an outlet in a building is cheaper and more efficient, but a battery can provide electricity in areas that do not have electric power distribution. It is also useful for things that move, such as electric vehicles and mobile phones.
+
+Batteries may be primary or secondary. The primary is thrown away when it can no longer provide electricity. The secondary can be recharged and reused.
+
+A Battery can be one "cell" or many "cells". Each cell has an anode, cathode and electrolyte. The electrolyte is the main material inside the battery. It is often a type of acid, and can be dangerous to touch. The anode reacts with the electrolyte to produce electrons (this is the "negative" or "-" end). The cathode reacts with the electrolyte and takes electrons (this is the "positive" or "+" end). An electric current happens when a wire connects the anode to the cathode, and the electrons move from one end to the other. (But a battery can be damaged by just a wire connecting the two ends, so a "load" is also needed between the two ends. The load is something that slows the electrons down, and usually does something useful, like a lightbulb in a flashlight, or the electronics in a calculator). 
+The electrolyte can be liquid or solid. A battery is called a wet cell or dry cell battery, depending on the type of electrolyte.
+
+The chemical reactions that occur in a battery are exothermic reactions. This type of reaction makes heat. For example, if you leave your laptop on for a long time, and then touch the battery, it will be warm or hot. 
+
+A rechargeable battery is recharged by reversing the chemical reaction that occurs within the battery. But a rechargeable battery can only be recharged a given number of times (recharge life). Even built-in batteries, cannot be recharged forever. Moreover, each time a battery is recharged, its ability to hold a charge goes down a bit. Non-rechargeable batteries should not be charged as various harmful substances can leak out, such as potassium hydroxide.
+
+The cells can be connected to make a bigger battery. Connecting the positive of one cell to the negative of the next cell is called connecting them "in series". The voltage of each battery are added together. Two six volt batteries connected in series will make 12 volts. 
+
+Connecting the positive of one cell to the positive of the other, and the negative to the negative is called connecting them "in parallel". The voltage stays the same, but the current is added together. Voltage is the pressure pushing the electrons through the wires, it is measured in volts. Current is how many electrons can go at once, it is measured in amps. The combination of current and voltage is the power (watts = volts x amps) of the battery.
+
+Batteries come in many different shapes, sizes and voltages. 
+
+AA, AAA, C, and D cells, including alkaline batteries, are of standard sizes and shapes, and have about 1.5 volts. The voltage of a cell depends on the chemicals used. The electric charge it can supply depends on how large the cell is, as well as what chemicals. The charge a battery delivers is usually measured in . Since the voltage stays the same, more charge means a bigger cell can supply more amps, or run for a longer time.
+
+The first battery was invented in 1800 by Alessandro Volta. Nowadays, his battery is called the voltaic pile. 
+
+In small, modern batteries, the fluid is immobilized in a kind of paste and everything is put in a sealed case. Because of this case, nothing can spill out of the battery. Larger batteries, such as car batteries, still have liquid inside and are not sealed. A kind of battery that uses molten salts as the electrolyte was invented during World War II.
+
+
+

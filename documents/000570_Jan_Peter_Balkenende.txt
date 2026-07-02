@@ -1,0 +1,165 @@
+Jan Peter Balkenende
+
+
+Jan Peter Balkenende (born 7 May 1956) is a Dutch politician. He was the Prime Minister of the Netherlands from 2002 until 2010. He is a member of the Christian Democratic Appeal party.
+
+Balkenende lives in Capelle aan den IJssel, Netherlands.
+
+
+Toleration
+
+Tolerance is not taking action against people who do things one does not like. The opposite of tolerance is intolerance. Intolerance is often found in dictatorships historically and often causes the hate crime and hate speech. Tolerance is often about religion (religious toleration), sex, or politic opinion, nation, race, disability, sexual orientation or gender identity.
+
+Also multiculturalism is promoted through toleration. 
+
+
+William the Silent
+
+William I of Orange-Nassau (24 April 1533 – 10 July 1584) was an important leader of the Dutch rebellion against the Spanish in the Eighty Years' War. He was the first leader of the Netherlands. He held the title of Prince of Orange.
+
+William of Orange is better known as William the Silent (in Dutch: "Willem de Zwijger"). It is not known how he got this name. One story says that when the kings of France and Spain proposed to William to kill all Protestants in his area, William did not reply.
+
+William was born in Nassau in Germany. The king of Spain made him stadtholder (a sort of leader) of several Dutch provinces. But William converted to Protestantism, the religion of the Dutch people, and joined their struggle for independence. The king of Spain offered a reward for the person who would kill William. In 1584 William was shot by Balthasar Gerards in his house in Delft. William's last words were in French: "Mon Dieu, mon Dieu, ayez pitié de moi et de ton pauvre peuple" (My Lord, My Lord, have pity on me and your poor people). Balthasar Gerards never received his reward, because he was killed by the angry Dutch.
+
+In the Netherlands, people often call him "Father of the fatherland". The Dutch national anthem, the Wilhelmus, is about William. 
+
+Simón Bolívar
+
+Simón Bolívar (1783 - 1830) was a Venezuelan military and political leader. He was born in Caracas, Venezuela. He liberated many colonies from the Spanish Empire in South America. Those colonies included Venezuela, Colombia, Ecuador, Peru, and Bolivia. For a few years he was president of Gran Colombia, a country that no longer exists. The country Bolivia is named after Simón Bolívar.
+Independence of these South American countries inspired the independence of Central America And Mexico in 1811
+
+Simón Bolívar was born in Caracas into a very rich family that owned plantations, ranches, mines, and many slaves who they forced to work in their businesses. His full name was Simón José Antonio de la Santísima Trinidad Bolívar y Palacios Ponte-Andrade y Blanco. He was sent to school in Spain like many children of rich families were at the time. While he was in Madrid, Bolívar married María Teresa Rodríguez del Toro y Alaiza in 1802. He also learned about the ideas of the Enlightenment.
+
+White people felt ignored because Spaniards were sent by their governor, and resented wealthy mixed heritage people who could “buy” whiteness. The creoles started calling themselves Americans and not Spaniards to demonstrate that they wanted independence. In 1808, Napoleon conquered Spain, and made his brother, Joseph Bonaparte the new king. The colonies in Latin America rebelled because they said they were loyal to the old king, Charles IV of Spain and not Napoleon.
+
+On September 6th 1815 Simón Bolívar wrote a letter from Jamaica. He explained the causes and reasons why all of South America or parts of it should be independent (free from Spain's ruling). Simón Bolívar was tired of how Venezuela and other countries were treated like slaves and how they were not free. He said “We have been harassed by a conduct which has not only deprived us of our rights but has kept us in a sort of permanent infancy with regard to public affairs.” He kept saying in the Jamaica letter why it's important to be free. “We are still in a position lower than slavery, and therefore it is more difficult for us to rise to the enjoyment of freedom.” This means they could not even enjoy freedom. "Because successes have been partial and spasmodic, we must not lose faith. We are young in the ways of almost all the arts and sciences, although, in a certain manner, we are old in the ways of civilized society."
+
+On May 26, 1819 Bolívar gathered with a group of guerrillas that wanted to defeat the Spanish army. They got supplies and they crossed hundreds of miles of plains, swamps, rivers, etc. Many of the men died of hunger, diseases, and other causes on the way there. Crossing plains on August 7, they encountered the royalists and won the battle in Boyacá on August 10. Bolívar then occupied Boyacá, Colombia. Bolívar won the fight of Carabobo in June 1821, and then another in Caracas. A few days later and Venezuela was free of the Spanish royalists, then Bolívar went South and conquered Quito. On July 27, 1822 Simón Bolívar and José de San Martín met in the Guayaquil Conference. They were preparing to march across the Andes to Peru to defeat the Spanish royalists in August 1824. San Martin resigned his powers in Peru and went back to Argentina. Later he went to Europe. Bolívar launched his campaign and soon he won a small but important battle at Junín. The royalists retreated and eventually lost.
+
+Bolívar said that his people were in a position "lower than slavery", but many of them owned slaves themselves. Alexandre Pétion, the president of Haiti, said that he would help Bolívar fight if he abolished slavery as part of independence. Bolívar agreed, but only because he was afraid the slaves would revolt against the slaveowners, like they did in Haiti, and he only freed slaves who agreed to fight in his army. Even though Pétion helped him, Bolívar never freed all the slaves, and slavery was not abolished until the 1850s in Colombia, Venezuela, and Ecuador.
+
+He is still remembered and celebrated for helping many of the Latin American countries achieve independence. People called him "El Liberator" because of this. Some people hated him because they thought he was a traitor, and he was going to be a dictator.
+
+
+Pythagorean theorem
+
+In mathematics, the Pythagorean theorem or Pythagoras's theorem is a statement about the sides of a right triangle. 
+
+One of the angles of a right triangle is always equal to 90 degrees. This angle is the right angle. The two sides next to the right angle are called the legs and the other side is called the hypotenuse. The hypotenuse is the side opposite to the right angle, and it is always the longest side. 
+The Pythagorean theorem says that the area of a square on the hypotenuse is equal to the sum of the areas of the squares on the legs. In this picture, the area of the blue square added to the area of the red square makes the area of the purple square. It was named after the Greek mathematician Pythagoras:
+
+If the lengths of the legs are "a" and "b", and the length of the hypotenuse is "c", then, formula_1.
+There are many different proofs of this theorem. They fall into four categories:
+
+One proof of the Pythagorean theorem was found by a Greek mathematician, Eudoxus of Cnidus.
+
+The proof uses three lemmas:
+
+The proof is:
+
+We can get another proof of the Pythagorean theorem by using similar triangles.
+
+From the image, add equations (1) and (2):
+
+And we get:
+
+Pythagorean triples or triplets are three whole numbers which fit the equation formula_1.
+
+The triangle with sides of 3, 4, and 5 is a well known example. If a=3 and b=4, then formula_8 because formula_9. This can also be shown as formula_10
+
+The three-four-five triangle works for all multiples of 3, 4, and 5. In other words, numbers such as 6, 8, 10 or 30, 40 and 50 are also Pythagorean triples. Another example of a triple is the 12-5-13 triangle, because formula_11.
+
+A Pythagorean triple that is not a multiple of other triples is called a primitive Pythagorean triple. Any primitive Pythagorean triple can be found using the expression formula_12, but the following conditions must be satisfied. They place restrictions on the values of formula_13 and formula_14. 
+
+
+If all four conditions are satisfied, then the values of formula_13 and formula_14 create a primitive Pythagorean triple.
+
+formula_30 and formula_31 create a primitive Pythagorean triple. The values satisfy all four conditions. formula_32, formula_33 and formula_34, so the triple formula_35 is created.
+
+Temperature
+
+Temperature is how hot or cold something is. Our bodies can feel the difference between something which is hot and something which is cold. To measure temperature more accurately, a thermometer can be used. Thermometers use a temperature scale to record how hot or cold something is. The scale used in most of the world is in degrees Celsius, sometimes called "centigrade". In the USA and some other countries degrees Fahrenheit are more often used while scientists mostly use kelvins to measure temperature because it never goes below zero.
+
+Scientifically, temperature is a physical quantity which describes how quickly molecules are moving inside a material. In solids and liquids the molecules are vibrating around a fixed point in the substance, but in gases they are in free flight and bouncing off each other as they travel. In a gas the temperature, pressure and volume of the gas are closely related by a law of physics.
+
+When they invented temperature scales scientists found there were certain things which were always around the same temperature:
+
+
+Temperature is not the same as heat. Heat is energy which moves from one thing, cooling it, to another, heating it. Temperature is a measure of the movements (vibration) of the molecules inside a thing. If the thing has a high temperature, it means the average speed of its molecules is fast. A thing may have a high temperature but because it contains very few or light atoms it has very little heat.
+
+The amount of heat that is needed to make a substance one degree higher is called its heat capacity. Different substances have different heat capacities. For example, a kilogram of water has more heat capacity than a kilogram of steel. This means that more energy is needed to make the temperature of water 1°C hotter than is needed to make the temperature of steel 1°C hotter.
+
+Temperature is also important in weather and climate. It is related to the amount of heat energy in the air. Isotherm maps are used to show how temperature is different across an area. Temperature will be different during different times of day, different seasons and in different places. It is affected by how much heat reaches the place from the suns rays (insolation), how high the place is above the level of the sea, and how much heat is brought to the place by the movement of winds and ocean currents.
+
+
+Tux
+
+Tux is a mascot of the Linux operating system; a cartoon penguin made by Larry Ewing in 1996. Wherever he is seen, it means such a system can work with Linux. He is also a character in some video games made for Linux, like "Super Tux".
+
+The name "Tux" comes from James Hughes, who named the Linux mascot that as an shortened form of "Torvalds' UniX," as Linus Torvalds was the creator of the Linux kernel. Tux is also an abbreviation of tuxedo.
+
+Mein Kampf
+
+Mein Kampf () is a book written by Adolf Hitler and Rudolf Hess. Rudolf Hess helped Hitler write the book, but he is not mentioned as an author. The book consists of two parts. The first part was written by Hitler while he was in jail in Landsberg am Lech. He was put in jail after a failed "putsch", in 1923. He wrote the second part after his (early) release from jail. From 1926 to 1930, both volumes were sold separately, at the price of 12 Reichsmark each. In 1930, both volumes were published as one book.
+
+There were several editions between 1925 and 1945. With each new edition, the text was revised as well. This was done to clarify those parts of the text that were unclear. Probably, ghostwriters around Hitler did this work.
+
+In the book, Hitler describes (talks about) his view of greater Germany. He also describes his future plan for Jews. When he came to power, in 1933, he realized (made happen) some of those plans. This resulted in a genocide known as The Holocaust. The book was given away for free at civil registry offices during the time when the Nazi government had power in Germany. The reason for giving the book away for free was because in part, the book was propaganda, and giving it away free was a way to recruit members.
+
+After the Second World War, the book was made illegal to reprint or sell new copies in Germany and Austria. It is not illegal to own a book, and it is also not illegal to sell or buy such books second-hand.
+
+The book has been called the "most evil book in history". Historians and journalists who have read it also say that it is a badly written book.
+
+
+Computer graphics
+
+Computer graphics are visual representations of data, made with the help of computers. Computer graphics can be a series of images (video or animation) or a single image.
+
+Computer graphics are very useful. Computer-generated imagery is used for movie making, video games, computer program development, photo editing, scientific modeling, design for advertising and more. Some people see computer graphics as art.
+
+Computer graphics can be 2D or 3D. They are made differently and used differently. People can use computer programs to make different types of graphics.
+
+2D computer graphics are usually split into two categories: vector graphics and raster graphics. 
+
+Vector graphics use lines, shapes and text to create a more complex image. If a vector graphic image is made very big on the monitor, it will still look as good (smooth) as its regular size. This is one of the reasons vector graphics are liked so much. Vector images also take very little computer memory when saved. Vector graphics are made with programs like Adobe Illustrator and Inkscape, and were used for some older computer games. Today, they are often used for when computer graphics have to be printed out. 
+
+Raster images are made up of very small points called pixels. Digital cameras create raster pictures but artists can make them with computers too. The artists don't have to change a single pixel at a time –⁠ raster programs often have tools like paintbrushes, paint buckets and erasers to make a picture. Programs used to make these include Adobe Photoshop, GIMP and Corel Paint Shop Pro.
+
+Sometimes people "do" use only pixels to make an image. This is called pixel art and it has a very unique style.
+
+3D graphics are graphics that look more realistic because they are three-dimensional. This means the computer thinks it has a height, a length and a depth, and displays them as we would see them in the real world with our eyes. Among other things they use solid geometry and trigonometry to create correct perspective. Some programs used to make 3D graphics are Bryce, 3D Studio Max, Maya and Blender. 3D graphics are used many times in movies and TV shows and video games.
+
+Most of 3D graphics can be seen as vector graphics because it uses mathematical shapes like 3D triangles to describe objects. But there also exists 3D graphics that uses a grid of "3D pixels" which we call voxels.
+
+
+FC Bayern Munich
+
+Fußball-Club Bayern München e. V. (FCB, ), also known as FC Bayern (), Bayern Munich, or simply Bayern is a German professional sports club based in Munich, Bavaria. The club was founded in 1900 and has over 200,000 paying members. It has won the most titles in the Bundesliga and in the German Cup.
+
+The football team is playing in the Allianz Arena. The team also has the most supporters in all of Germany.
+
+Bayern Munich won its first national title in 1932. This was the last season before the Nazi Regime took over the power. Bayern Munich was blamed to be a 'Club of Jews', the president, Kurt Landauer, was forced to flee and several players were punished. After the war ended, erroneously the local rival "1860 München" was considered to be better and let into the first German league. But in the first season 1963, Bayern Munich won most of its games, ascended into the first league and still plays there without any descend.
+
+Bayern Munich won the UEFA Champions League in 2001 and in 2013. 2013 also was the year of the victory of the historic treble - an achievement no other German club ever gained before.
+
+
+Bayern Munich has completed all available Trebles (seasonal treble, domestic treble and European treble).
+
+The football competitions, which consist of a single match involving only two teams (for example, the UEFA Super Cup or DFL Supercup) are generally not counted as part of a treble.
+
+
+At his farewell game, Oliver Kahn was declared honorary captain of Bayern Munich. The players below are part of the FC Bayern Munich Hall of Fame.
+1930s
+
+1970s:
+
+1980s:
+
+1990s:
+
+2000s:
+
+2010s:
+
+
+

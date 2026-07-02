@@ -1,0 +1,251 @@
+Wellington
+
+
+Wellington is the capital of New Zealand. It has been the capital since 1865. Before then Auckland was the capital. Wellington is the second largest city in New Zealand. In 2018, 202,737 people lived in the city and about twice that in its metropolitan area.
+
+Wellington is in the middle of New Zealand, at the south end of the North Island. South of Wellington is Cook Strait, the sea between the North Island and the South Island. The city has a lot of hills and a deep harbour. The middle of the city is busier than most small cities and is easy for people to walk around. 
+
+It was named for Arthur Wellesley, 1st Duke of Wellington. Wellington became famous when "The Lord of the Rings" movie trilogy was made there. In Māori, the indigenous language, its name is "Te Whanganui-a-Tara."
+
+The city averages 2,068 hours of sunshine per year. The climate is a temperate marine one, (Köppen: "Cfb ") is generally moderate all year round, and rarely sees temperatures above or below . The hottest recorded temperature is , while is the coldest. The city is notorious for its southerly blasts in winter, which may make the temperature feel much colder. Having an average windspeed of 29 km/h (18.1 mph), Wellington is generally windy all year round with high rainfall; average annual rainfall is , June and July being the wettest months. 
+
+Frosts are quite common in the hill suburbs and the Hutt Valley between May and September. Snow is very rare at low altitudes, although snow fell on the city and many other parts of the Wellington region during separate events in July and August 2011.
+
+Biochemistry
+
+Biochemistry is the study of chemical reactions in living beings, and of biological molecules in general. It is important to cell biology and physiology. The study of biochemistry involves enzymes, nucleic acids, carbohydrates, sugars, proteins, and lipids. In the body, most of the molecules are polymers built of long chains of smaller molecules. Biochemistry studies the chemical transformations which produce these small building-block molecules, and which produce energy from food. A person who studies biochemistry is called a biochemist.
+The biologic polymers can have between tens of thousands to tens of millions of atoms or more. These polymers are composed of many small molecules, each of which has no more than fifty atoms. These small molecules are made almost exclusively from carbon, hydrogen, oxygen, and nitrogen. They also contain sulfur, phosphorus, and a few other atoms, which are critical to the biological functioning of these polymers.
+
+There are four types of macromolecules.
+
+Nucleic acids are long-chain molecules which are of two kinds: DNA and RNA. Their building blocks are called nucleotides.
+
+DNA is found in every cell. It contains the information needed to make all of the nucleic acids and all of the proteins. It is found joined up in a "double helix". It is the substance of heredity, and holds the information which life passes from generation to generation.
+
+RNA acts to make the information from DNA work inside the cells of the body. To make a particular protein the information in the DNA is transferred to an RNA molecule. Another RNA molecule uses this as a set of instructions for making the protein. The RNA which makes protein is called a ribosome and it acts as a ribozyme vastly increasing the speed with which the individual amino acids connect together to form the protein.
+
+Proteins are polymers of amino acids. There are twenty different common types of amino acid.
+
+Broadly speaking, proteins have two kinds of functions. The first is structural: they make up many of the key structures in cells and tissues. Muscle, hair, and skin are all mainly made of protein. The second is functional: as enzymes they greatly speed up the chemical reactions in a living cell. All cellular life consists of a thousand, or more, chemical reactions, called metabolism, which transform the molecules eaten into energy, or into other molecules the cell needs to survive. The function of proteins is to speed up these reactions, often by over a million times faster. In addition, they cause chemical reactions to occur which would not be without the action of the protein.
+
+Carbohydrates include sugars and starches.
+
+Sugars are the simplest carbohydrates. The monosaccharides are "single sugars", such as glucose and fructose. The disaccharides are two monosaccharides joined. Table sugar (cane sugar) is a disaccharide of glucose and fructose. The polysaccharides are made from many monosaccharids joined. The vast majority of polysaccharides are polymers of glucose, and are of two types: starch and cellulose. Starch is the white stuff of grain, potatoes, apples, and bread, and is a readily available source of energy for the body. Cellulose is the structural material that holds up all plants. Half of the material that makes wood is cellulose.
+
+Carbohydrates have a number of functions in the body, but the most important is to act as a ready source of energy for the cell's metabolism. By breaking the chemical bonds in carbohydrates, energy is released and can be used by the body.
+
+Lipids are fats, and waxes. Saturated lipids contain single bonds, and are found in butter and lard. Unsaturated lipids have one or more double bonds and are often found in oils. The human body stores lipids as an energy source. When the body needs a large amount of energy, lipid molecules are broken down to release that energy.
+
+
+Sadness
+
+Sadness is an emotion. It is the opposite of happiness. People feel sad when something bad has happened, for example, if their mother or father has died. 
+
+In capital letters, SAD, or S.A.D. is short for "Seasonal affective disorder". SAD is a sickness that some people have in the winter. They feel depressed as the nights become longer and there is less daylight.
+
+When people are very sad, and for a long time, the person could have a serious mental illness called depression or Bipolar disorder.
+
+It is normally thought of as the opposite of happiness, but you can feel both happy and sad at the same time.
+
+
+Microeconomics
+
+Microeconomics is the science of how people make decisions at the small scale. It is different from macroeconomics which looks at how the economy works as a whole ("on aggregate"). In microeconomics, we might look at how a person chooses what to buy at the store, or how many things a company will make. Some parts of microeconomics include "Consumer Theory" and "Theory of the Firm", which study how people and businesses make decisions. Game theory looks at how people make decisions when the outcome (how something ends) depends on what decision another person makes; when agents are said to act "strategically".
+
+
+__NOEDITSECTION__
+Port (disambiguation)
+
+A port is a place at the edge of an ocean, river, or lake for ships to load and unload their cargo.
+
+It can also refer to:
+
+Cryptography
+
+Cryptography, or cryptology, is the practice and study of hiding information. It is sometimes called code, but this is not really a correct name. It is the science used to try to keep information secret and safe. 
+
+Modern cryptography is a mix of mathematics, computer science, and electrical engineering. Cryptography is used in ATM (bank) cards, computer passwords, and shopping on the internet.
+
+When a message is sent using cryptography, it is changed (or "encrypted") before it is sent. The method of changing text is called a "code" or, more precisely, a "cipher". The changed text is called "ciphertext". The change makes the message hard to read. Someone who wants to read it must change it back (or "decrypt" it). How to change it back is a secret. Both the person that sends the message and the one that gets it should know the secret way to change it, but other people should not be able to. Studying the cyphertext to discover the secret is called "cryptanalysis" or "cracking" or sometimes "code breaking".
+
+Different types of cryptography can be easier or harder to use and can hide the secret message better or worse. Ciphers use a "key" which is a secret that hides the secret messages. The cryptographic method needn't be secret. Various people can use the same method but different keys, so they cannot read each other's messages. Since the Caesar cipher has only as many keys as the number of letters in the alphabet, it is easily cracked by trying all the keys. Ciphers that allow billions of keys are cracked by more complex methods.
+
+Since the time of Caesar, many improved cyphers have been made. Some involved clever mathematics to resist clever cryptanalysis. During the 20th century computers became the principle tool of cryptography.
+
+In a symmetric-key algorithm, both the sender and receiver share the key. The sender uses the key to hide the message. Then, the receiver will use the same key in the opposite way to reveal the message. For centuries, most cryptography has been symmetric. Advanced Encryption Standard is a widely used one. However this is not to be confused with symmetry.
+
+Asymmetric cryptography is harder to use. Each person who wants to use asymmetric cryptography uses a secret number (a "private key") that is not shared, and a different number (a "public key") that they can tell everyone. If someone else wants to send this person a message, they'll use the number they've been told to hide the message. Now the message cannot be revealed, even by the sender, but the receiver can easily reveal the message with his secret or "private key". This way, nobody else needs to know the secret key.
+
+Asymmetric cryptography generally takes more time and requires more computer power, therefore it is not used most of the time. Instead, it is often used for computer signatures, when a computer must know that some data (like a file or a website) was sent from a certain sender. For example, computer software companies that release updates for their software can sign those updates to prove that the update was made by them, so that hackers cannot make their own updates that would cause harm. Websites that use HTTPS use an popular algorithm named RSA to create certificates, that show they own the website and that it is secure. Computers can also use asymmetric ciphers to give each other the keys for symmetric ciphers.
+
+Computers can calculate quickly. They can do very strong encryption, and most 21st century cryptography uses them. Examples are computer algorithms like RSA, AES, and there are many others. Using good algorithms like these can make it very hard to read the information that is sent.
+
+Because people are slower than computers, any cryptography they use can probably be broken if enough of the secret way to change it is known.
+
+Simple forms of cryptography that people can do without machines are Caesar ciphers and transposition ciphers, but many other kinds were used before computers were used.
+
+
+Tuesday
+
+Tuesday is the day of the week between Monday and Wednesday. In some countries, for example the United States of America, Tuesday is the third day of the week. In other parts of the world, Tuesday is the second day of the week.
+
+The name "Tuesday" comes from a Middle English word, "Tiwesday". This word came from the Old English word "Tiwes dæg". This was named after the Nordic god Tyr. Tyr was the God of War, like the Roman war god Mars, and Greek god Ares.
+
+In Latin, "Tuesday" is called "Martis dies" which means "Mars's Day". In French, Spanish, Italian and Romanian, the (Romance languages), the word for "Tuesday" is nearly the same as the Latin name. Tuesday is "mardi" in French, "martes" in Spanish, "martedì" in Italian, "dimarts" in Catalan, and "marţi" in Romanian. 
+
+The Celtic languages still spoken use the Latin names, even though none of these languages came from Latin. Tuesday is "dé máirt" in Irish, "Meurzh" in Breton, "dydd Mawrth" in Welsh and "Dimàirt" in Scottish Gaelic. 
+
+The English and Scandinavian names for "Tuesday" come from the Nordic god Tyr (Old English "Tiw"):
+
+
+Wednesday
+
+In some countries, like the United States of America, Wednesday is the third day of the week. In other parts of the world Wednesday is said to be the fourth day of the week.
+
+Wednesday is named after the Norse god Woden.
+
+Thursday
+
+In some countries, like the United States of America, Thursday is the fifth day of the week. In other parts of the world Thursday is said to be the fourth day of the week. It comes after Wednesday and before Friday. Thursday is named after the Norse god Thor.
+
+Friday
+
+Friday is a day of the week. In some countries, for example the United States, it is the sixth day of the week. In other parts of the world, for example the United Kingdom, it is said to be the fifth day of the week.
+
+In Christianity, Good Friday is the Friday before Easter. It commemorates the crucifixion of Jesus. Special prayer services and ceremonies are held worldwide on this day with readings from the Gospel.
+
+Friday is the Sabbath for Muslims.
+
+There is a superstition that a Friday on the 13th day of a month is unlucky. If the first day of a month is a Sunday, the month will have a Friday the 13th. 
+
+Some people consider Friday to be the last day of the week before the weekend. Others see Friday night as part of the weekend, since work or school is over for the week. In some places, the weekend is Friday and Saturday. Because many people are happy to not have to go to work during the weekend, there are sayings like "Thank God it's Friday!".
+
+Friday is named after Norse Goddess Frigg.
+
+Saturday
+
+In some countries, like the United States of America, Saturday is the seventh and final day of the week. In other parts of the world, like the United Kingdom, Saturday is said to be the sixth day of the week. It is also the day of rest and worship for Jewish people. Along with Sunday, it makes up the weekend. Its name comes from the Roman god Saturn.
+
+Laos
+
+Lao People's Democratic Republic or Laos (ປະເທດລາວ), is a country in Southeast Asia. The capital of Laos is Vientiane.
+
+Laos is landlocked (it does not have a coast on a sea or ocean), and it is the only landlocked country in Southeast Asia. It is bordered by Myanmar (used to be known in English as "Burma") and by China to the northwest, by Vietnam to the east, by Cambodia to the south and by Thailand to the west. The Mekong river forms a large part of the western boundary with Thailand. Boats from Laos cannot get to the ocean using the Mekong because of rapids and waterfalls in the south of the country.
+
+Since the country has many mountains, has no access to seaports, and has few large river valleys good for large-scale farming, Laos has had few people compared to other Southeast Asian countries. Laos is the least densely populated country in Southeast Asia, with only 32 people per square kilometer.
+
+The official language is Lao, a language belonging to the Tai language group. 98% of Lao people believe in Buddhism. The main crop in Laos is rice. 
+
+Laos is the only landlocked country in Southeast Asia. The landscape is mostly rugged mountains. The highest point is Phou Bia at . The Mekong River forms the border with Thailand. The mountains of the Annamite Range form the eastern border with Vietnam. The climate is tropical. The rainy season is from May to November. The dry season is from December to April. Laos has three seasons (rainy, cold and hot). The capital and largest city is Vientiane.
+
+Fa Ngum created the first unified Lao Kingdom.
+
+Lao became a French colony in 1893 and also became part of French Indochina. In 1949 it became independent from France, as the Kingdom of Laos. The Laotian Civil War started in 1953. In 1975 Laos became a one-party state under the leadership of the communist party.
+
+The civil war in Laos started on November 9, 1953.
+
+The Pathet Lao started its conflict with the Kingdom of Laos on November 9, 1953. That was the start of the Laotian Civil War. Before that (April 1953), the PAVN put in place a siege of a north-eastern part of the French protectorate Laos. That force had 40,000 soldiers who were under Võ Nguyên Giáp (a general), including 2,000 "Pathet Lao soldiers" under Suphānuvong (or prince Souphanouvong).
+
+Against those soldiers, were 10,000 Laotian soldiers and 3,000 French soldiers.
+
+On July 20, 1954 an agreement was signed - "Agreement on the Cessation of Hostilities in Laos". That agreement ended France's rule of Laos. Two months later, the authorities of North Vietnam, established a support group for Pathet Lao, in Ban Nameo in north-eastern Laos.
+
+From 1955 til 1958, the conflict level was reduced (or became smaller). A general election was held for the first time (1955). A coalition government was formed, with Souvanna Phouma (a prince) as its leader. He was the prime minister from March 21, 1956 to August 17, 1958.
+
+On December 25, 1959 there was a coup d'état. Its leader was Phoumi Nosavan (a general).
+
+On August 9, 1960 there was another coup d'état. Its leader was the chief (Kong Le) of "Parachute Battalion 2" of the Royal Laotian Army. "Parachute Battalion 2" were being trained with the help of an employee of the CIA, Jack Mathews, and instructors from the US Special Forces. The coup d'état happened without the CIA employee, knowing about it. The government of Somsanith was pushed out of power. The government resigned on August 14. Laotian soldiers gave orders (or said) that Americans must leave Laos.
+
+The coalition government under Souvanna Phouma, was in office from August 30, 1960 – December 13, 1960.
+
+On November 21, 1960, general Phoumi tried to take power, by trying to take over the capital Vientiane;
+
+The Battle of Vientiane happened between December 13, 1960 and December 16. The right wing politicians under Phoumi Nosavan, came into power.
+
+Military training was given to some groups of people, during Operation Momentum. The operation was planned by the CIA. It started in January 1961 (and ended in 1974). 
+
+One of the groups that were trained, were Hmong. The soldiers of Operation Momentum did fight against the soldiers of Pathet Lao and North Vietnam. The operation was led by Vang Pao (laotian officer and Hmong). The operation had trained 5,000 soldiers by May 1, 1961, and 9,000 by August.
+
+The Battle of Ban Pa Dong (between January 31 and June 6, 1961) was lost by Vang Pao's forces against North Vietnamese and the Pathet Lao. The place was where Vang Pao's [so-called "secret army" or] "L'Armee Clandestine" had trained its first 5,000 soldiers. The headquarters for Vang Pao were moved to Long Tieng, until the end of the war.
+
+Child soldiers were used during the war.
+
+An agreement in Geneva (on July 23, 1962) said that Laos was a neutral country. (The agreement was the end of the conference that started on May 16, 1961: "International Conference on the Settlement of the Laotian Question".)
+Vietnam and the United States did not respect the agreement.
+
+The Battle of Lak Sao happened between November 1963 and January 1964.
+
+From the middle of the 1960s, Laos was used by North Vietnam as a route to attack South Vietnam. U.S. forces dropped a lot of bombs on Laos, to try to stop the supplies coming thru the Ho Chi Minh trail.
+
+There were two coup attempts against the coalition government of Souvanna Phouma, in 1964; Until the end of the civil war, Souvanna Phouma supported the right-wing that kept him in power, and he was against the communists.
+
+In 1968, the Pathēt Lao was pushed to the side by the NVA, and the NVA did the fighting. In January 1968 the Laotian forces, supported by the U.S. military, lost the Battle of Nam Bac. (In January, North Vietnam sent their 316th Division towards the Nam Bac valley; The 7 best military units of Laos, stayed at a military base there; The base was lost.) The Royal Laotian Army did not have much military power for the next years; Units larger than "battalion", were broken up. The authorities of Laos pulled out of the conflict.
+During the rain season in 1969, Vang Pao's forces took all of the Plain of Jars (Thong Hay Hin).
+
+The third Battle of Skyline Ridge (near the Long Chen military base where Vang Pao had his headquarters), took place from December 1971 to February 1972; Around 2,000 soldiers (Hmong, Thai and Laotian soldiers) were killed, and so where 10,000 NVA soldiers.
+
+Many B-52 bombers dropped bombs on Laos, during different bombing runs.
+
+In January 1973, a peace agreement between North Vietnam and the U.S. became known; The agreement made Suphānuvong a de facto co-ruler of Laos.
+
+A new coalition government was formed after the peace agreement (in Paris) that was to end the Vietnam War. From February 1973 there was a truce between Pathet Lao and the government. However, North Vietnam forces were still in the country, and had an important influence on the Pathet Lao.
+
+South Vietnam was taken (or fell) in April 1975. On May 14, 1975 Vang Pao escaped from Laos, thru the military base at Long Tieng. The base was lost to the Pathet Lao, the next day.
+
+Pathet Lao took control over Laos. On December 2, 1975, the king had to abdicate (or give up his power). The People's republic of Laos was proclaimed.
+
+Laos is divided in 16 provinces and one prefecture.
+Laos is one of the world's five remaining communist states. The only legal political party is the Lao People's Revolutionary Party (LPRP). The head of state is President Choummaly Sayasone. He is the General Secretary of the Lao People's Revolutionary Party.
+
+Shortly after the end of the Vietnam War, the North Vietnamese Army (NVA) joined forces with the Pathet Lao, started a coup on December 2, 1975 to overthrow the royalist Lao government, and established a communist government that continues to run the country to this day.
+
+The current head of government is Prime Minister Sonexay Siphandone and the current President is Thongloun Sisoulith. Government policies are determined by the party. Important government decisions are checked by the Council of Ministers.
+
+
+Yes
+
+Yes is an English word that shows acceptance or agreement, or making a positive response or exclamation. It is the opposite of no.
+
+Yes may also mean:
+
+In music:
+
+In other uses:
+
+Amaterasu
+
+Amaterasu (), Amaterasu-ōmikami ( or ) or Ōhirume-no-muchi-no-kami (), is a goddess in Japanese mythology. She is the Sun Goddess, and the most sacred of all Shinto deities. Her name, "Amaterasu", means ""(that which) illuminates Heaven."" Her shrine is at Ise.
+
+Amaterasu is the sister of Susano'o, the god of the sea and storms, and of Tsukuyomi, the god of the moon. All three were created from Izanagi, when he washed his face to clean the dirtiness of Yomi, the underworld. Amaterasu was born when Izanagi washed out his left eye, Tsukuyomi was born from the washing of the right eye, and Susano'o from the washing of the nose.
+
+The tales tell of great rivalry between Amaterasu and Susano'o. When he was to leave Heaven forever because Izanagi ordered him to, he went to say goodbye to his sister. Amaterasu, suspicious, proposed him a challenge: each of them was to turn an object of the other's into people. Amaterasu created three women from Susanoo's sword while he created five men from her necklace. Amaterasu said the men were hers because they were born of her necklace. Susano'o destroyed her rice fields, threw a dead pony into her loom, and killed one of her assistants in anger. For this, Amaterasu, sad, angry and scared, went to hide inside Ama-no-Iwato, the ""heavenly rock cave"", so the Sun was hidden and the world became dark for a long time. The Oni (devils of Japanese mythology) came out to the dark world, and the gods could not make Amaterasu come out of the cave.
+
+The intelligent goddess of happiness, Ama-no-Uzume (天宇受売命), took a big bucket, turned it upside down near the cave entrance, and began a dance on it, tearing off her clothing in front of the other Kami. They thought this was so funny that they laughed happily.
+
+Amaterasu heard them, and looked out to see why the gods were laughing. When she opened the cave, she saw her wonderful reflection in a mirror Uzume had put on a tree, and slowly came out of the cave.
+
+At that moment, the god Ameno-Tajikarao (天手力男命) closed the cave behind her, so she could not go back in. Another god tied a magic rope across the entrance. The sun goddess was then asked by the Kami Ame-no-Koyane (天児屋根命) to go back with the gods. She agreed, and light came back to the earth, but Susanoo was punished by being banished from Heaven.
+
+
+Organism
+
+An organism is an individual living thing. It is easy to recognize a living thing, but not so easy to define it. Animals and plants are organisms, obviously. Organisms are a biotic, or living, part of the environment. Rocks and sunshine are parts of the non-living environment.
+
+Organisms usually have six basic needs to continue their metabolism. They need air, water, nutrient (food), energy, a place to live, and homeostatsis (being able to maintain itself). However, not all living things need all these at the same time. Some organisms do not need access to air at all.
+
+The characteristics of living things are if they have cells, take and use energy, grow and develop, share similar chemicals, sense and resond to change (stimulus), and if they reproduce.
+
+A little thought is needed about viruses. There is no agreement as to whether they should be regarded as living. They are made of protein and nucleic acid, and they evolve, which is a really important fact. However, they exist in two quite different phases. One phase is dormant, not active. The other is inside a living cell of some other organism. Then the virus is very active reproducing itself. Consider the parallel with a computer program. When in use it is active; when it is not, it is completely inactive. It is still a program all the same.
+
+Another example from biology is the spore, which is a distribution phase of a bacteria, fungus or some plants. They are not active until they get to the right situation. They have all the working parts to build a complete organism, but for the moment it is switched off.
+
+Some organisms are made up of millions of cells. They are multicellular organisms. Many can be seen without using a microscope.
+
+Most organisms are so small that they cannot be seen with the naked eye. You need a microscope to see them. They are called microorganisms. Organisms can be made up of just one cell. They are called "unicellular organisms" or "single celled organisms". Examples include bacteria, and protozoa such as the "Amoeba" and "Paramecium".
+
+The Tree of Life project works on the relationships between living things. Identifying a LUCA (last universal common ancestor) is one of its main aims. The LUCA is estimated to have lived some 3.8 billion years ago (sometime in the Palaeoarchaean era).
+
+The idea came from Charles Darwin's "On the Origin of Species", "Therefore... probably all the organic beings which have ever lived on this earth have descended from some one primordial form..."
+
+
+

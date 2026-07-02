@@ -1,0 +1,33 @@
+Centripetal force
+
+
+Centripetal acceleration is a force that acts on a body that revolves around a centre of a circular path. This force keeps the body in circular motion. Newton's first law is that a moving object will continue in its motion in a straight path unless acted on by an external force. 
+
+When you hold a rope with an object attached to it, and spin it in a circular motion around the hand of the person holding the rope, the rope becomes tight and keeps the body from flying away. This force acts towards the center of motion, not away from it. 
+
+An object changes direction, but may maintain a constant speed, if acted upon by a centripetal acceleration. In such a case, we know from its angular frequency that formula_1. From Newton's second law we know that force equals mass times acceleration. Here acceleration is the negative of the radius coming from the centre of the circular motion. formula_2 
+
+In this formula, think that the centripetal force and the centripetal momentum are the same thing because they are both measured in Newtons. 
+
+If, however, the angular frequency is not constant (as might be the case in a roller-coaster ride) then formula_3 does vary with respect to time. Here 
+
+formula_4 
+
+Thus 
+
+formula_5 
+
+as formula_6 and formula_7 , which we know from the angular frequency.
+
+In the figure to the right we define the displacement vector formula_8 to represent motion in a circle. The magnitude of formula_8 is denoted as formula_10 and represents the radius of the particle's orbit.
+
+Treaty
+
+A treaty is a written agreement between two or more parties. International treaties are covered by international law. The parties may be countries or other important groups. A treaty may be about any subject.
+
+Two countries might agree to stop a war, or declare war on a common enemy. Very common are treaties where a country promises to come to the aid of another country if the other country is attacked. Treaties about trade are also common. They may allow allow each other's citizens or merchandise to cross borders freely. For example, the European Union is set up by treaties between most of the European nations. It arranges that trade of products and services is free between the member states of the European Union.
+
+In general, treaties are usually used to settle disputes, or to avoid disputes.
+
+
+
