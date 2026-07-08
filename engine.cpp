@@ -168,6 +168,7 @@ std::vector<int> InvertedIndex::searchAnd(const std::vector<std::string>& words)
 }
 
 std::vector<int> InvertedIndex::searchOr(const std::vector<std::string>& words) const {
+
     std::unordered_set<int> uniqueDocs;
     for (const auto& w : words) {
         std::string cleaned = cleanWord(w);
@@ -244,79 +245,133 @@ std::vector<std::string> SpellCorrector::getSuggestions(const std::string& word,
     return suggestions;
 }
 
-// --- TF-IDF Ranking Implementation ---
-std::vector<SearchResult> TFIDF::rankDocuments(
+// --- BM25 Ranking Implementation ---
+std::vector<SearchResult> BM25::rankDocuments(
     const std::vector<std::string>& queryWords,
     const std::vector<int>& matchingDocIds,
     const InvertedIndex& invertedIndex,
     int totalDocuments
 ) {
     std::vector<SearchResult> results;
-    if (matchingDocIds.empty() || queryWords.empty() || totalDocuments == 0) return results;
+    if (matchingDocIds.empty() || queryWords.empty() || totalDocuments == 0)
+        return results;
 
     const auto& rawIndex = invertedIndex.getRawIndex();
     const auto& docLengths = invertedIndex.getDocLengths();
 
-    // 1. Calculate IDF for each query word
+    // BM25 parameters
+    const double k1 = 1.5;
+    const double b = 0.75;
+
+    // Calculate average document length
+    double avgDocLength = 0.0;
+    for (const auto& doc : docLengths) {
+        avgDocLength += doc.second;
+    }
+    avgDocLength /= totalDocuments;
+
+    // Calculate BM25 IDF for each query word
     std::unordered_map<std::string, double> idfs;
+
     for (const auto& w : queryWords) {
         std::string cleaned = cleanWord(w);
-        auto it = rawIndex.find(cleaned);
-        
-        int docsWithWord = 0;
-        if (it != rawIndex.end()) {
-            docsWithWord = it->second.size();
-        }
 
-        if (docsWithWord > 0) {
-            // IDF = ln(1 + Total Documents / Documents containing word)
-            idfs[cleaned] = std::log(1.0 + (static_cast<double>(totalDocuments) / docsWithWord));
-        } else {
+        auto it = rawIndex.find(cleaned);
+
+        int df = 0;
+        if (it != rawIndex.end())
+            df = static_cast<int>(it->second.size());
+
+        if (df > 0) {
+            idfs[cleaned] =
+                std::log(
+                    1.0 +
+                    ((totalDocuments - df + 0.5) /
+                    (df + 0.5))
+                );
+        }
+        else {
             idfs[cleaned] = 0.0;
         }
     }
 
-    // 2. Score each matching document
+    // Score every matching document
     for (int docId : matchingDocIds) {
+
         double score = 0.0;
-        std::unordered_map<std::string, double> tfIdfBreakdown;
-        
+        std::unordered_map<std::string,double> bm25Breakdown;
+
+        int docLength = 1;
+
         auto lengthIt = docLengths.find(docId);
-        int totalWordsInDoc = (lengthIt != docLengths.end()) ? lengthIt->second : 1;
+        if(lengthIt != docLengths.end())
+            docLength = lengthIt->second;
 
-        for (const auto& w : queryWords) {
+        for(const auto& w : queryWords){
+
             std::string cleaned = cleanWord(w);
-            auto indexIt = rawIndex.find(cleaned);
-            if (indexIt == rawIndex.end()) continue;
 
-            // Find term frequency in this specific document
-            int termCountInDoc = 0;
-            for (const auto& posting : indexIt->second) {
-                if (posting.docId == docId) {
-                    termCountInDoc = posting.termFrequency;
+            auto indexIt = rawIndex.find(cleaned);
+
+            if(indexIt == rawIndex.end()){
+                bm25Breakdown[cleaned] = 0.0;
+                continue;
+            }
+
+            int tf = 0;
+
+            for(const auto& posting : indexIt->second){
+
+                if(posting.docId == docId){
+                    tf = posting.termFrequency;
                     break;
                 }
+
             }
 
-            if (termCountInDoc > 0) {
-                double tf = static_cast<double>(termCountInDoc) / totalWordsInDoc;
-                double idf = idfs[cleaned];
-                double tfidfVal = tf * idf;
-
-                score += tfidfVal;
-                tfIdfBreakdown[cleaned] = tfidfVal;
-            } else {
-                tfIdfBreakdown[cleaned] = 0.0;
+            if(tf==0){
+                bm25Breakdown[cleaned]=0.0;
+                continue;
             }
+
+            double idf=idfs[cleaned];
+
+            double numerator=tf*(k1+1.0);
+
+            double denominator=
+                tf+
+                k1*
+                (
+                    1.0-b+
+                    b*
+                    (
+                        static_cast<double>(docLength)/avgDocLength
+                    )
+                );
+
+            double bm25=idf*(numerator/denominator);
+
+            score+=bm25;
+
+            bm25Breakdown[cleaned]=bm25;
         }
 
-        results.push_back(SearchResult{docId, score, tfIdfBreakdown});
+        results.push_back(
+        SearchResult{
+            docId,
+            score,
+            bm25Breakdown
+        }
+    );
     }
 
-    // 3. Sort documents by score descending
-    std::sort(results.begin(), results.end(), [](const SearchResult& a, const SearchResult& b) {
-        return a.score > b.score;
-    });
+    std::sort(
+        results.begin(),
+        results.end(),
+        [](const SearchResult& a,const SearchResult& b){
+            return a.score>b.score;
+        }
+    );
 
     return results;
 }

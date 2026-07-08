@@ -69,7 +69,7 @@ struct SearchResult {
     std::unordered_map<std::string, double> tfIdfBreakdown; // word -> term tf-idf contribution
 };
 
-class TFIDF {
+class BM25 {
 public:
     static std::vector<SearchResult> rankDocuments(
         const std::vector<std::string>& queryWords,

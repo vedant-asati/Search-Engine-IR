@@ -6,6 +6,8 @@
 #include <filesystem>
 #include <fstream>
 
+#include <chrono>
+
 // Dependencies downloaded by CMake
 #include "httplib.h"
 #include "nlohmann/json.hpp"
@@ -154,6 +156,7 @@ void loadDocumentsFromFolder(const std::string& folder)
 }
 
 int main() {
+
     std::cout << "Initializing Search Engine Database..." << std::endl;
     loadDocumentsFromFolder("../documents");
     std::cout << "Successfully indexed " << documents.size() << " documents." << std::endl;
@@ -275,6 +278,7 @@ int main() {
             return;
         }
         std::cout << "[LRU Cache] MISS for key: \"" << cacheKey << "\" — computing results..." << std::endl;
+        
 
         std::vector<std::string> queryWords = tokenize(query);
         
@@ -298,7 +302,7 @@ int main() {
         std::vector<SearchResult> rankedResults;
         {
             std::lock_guard<std::mutex> lock(db_mutex);
-            rankedResults = TFIDF::rankDocuments(queryWords, matchingDocIds, searchIndex, totalDocs);
+            rankedResults = BM25::rankDocuments(queryWords, matchingDocIds, searchIndex, totalDocs);
         }
 
         // Limit to top 10 relevant documents
@@ -354,6 +358,8 @@ int main() {
                 std::cout << "[SpellCheck Debug] Word: \"" << cleaned << "\" | Found in index: " << (foundInTrie ? "YES" : "NO") << std::endl;
                 
                 if (!cleaned.empty() && !foundInTrie) {
+
+
                     // This word is misspelled or not in index, compute suggestions
                     std::vector<std::string> sugs = SpellCorrector::getSuggestions(cleaned, vocab, 2);
                     std::cout << "[SpellCheck Debug] -> Found " << sugs.size() << " spelling candidates for \"" << cleaned << "\":" << std::endl;
