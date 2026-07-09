@@ -1,6 +1,6 @@
 # 🔍 Mini Search Engine
 
-A high-performance **C++ Search Engine** built from scratch for efficient document retrieval over a large-scale Wikipedia corpus. The project uses classic Information Retrieval techniques including **Inverted Index**, **Trie**, **TF-IDF Ranking**, **Spell Correction**, **Multi-word Search**, and **LRU Cache** to provide fast and relevant search results.
+A high-performance **C++ Search Engine** built from scratch for efficient document retrieval over a large-scale Wikipedia corpus. The project uses classic Information Retrieval techniques including **Inverted Index**, **Trie**, **BM25 Ranking**, **Spell Correction**, **Multi-word Search**, and **LRU Cache** to provide fast and relevant search results.
 
 ---
 
@@ -8,7 +8,7 @@ A high-performance **C++ Search Engine** built from scratch for efficient docume
 
 - 📄 Automatic Wikipedia dataset conversion into searchable documents
 - 🔎 Single-word and Multi-word Search
-- 📊 TF-IDF based document ranking
+- 📊 BM25 based document ranking
 - 🌳 Trie-based autocomplete and prefix search
 - ✍️ Spell Correction (Edit Distance ≤ 2)
 - 💡 Query Recommendations
@@ -37,7 +37,7 @@ Tokenizer
 Inverted Index + Trie
         │
         ▼
-TF-IDF Ranking
+BM25 Ranking
         │
         ▼
 Search Engine
@@ -62,7 +62,7 @@ React Frontend
 
 ## ⚙ Algorithms Used
 
-- TF-IDF Ranking
+- BM25 Ranking
 - Edit Distance (Levenshtein Distance)
 - Boolean Search
 - Multi-word Search
@@ -77,6 +77,47 @@ React Frontend
 - **Frontend:** React + Vite
 - **Libraries:** STL, Filesystem
 - **Dataset:** Simple English Wikipedia
+
+---
+
+## 📊 BM25 Ranking
+
+Search results are ranked using the **BM25 (Best Matching 25)** algorithm, a probabilistic ranking function widely used in modern search engines.
+
+BM25 considers:
+
+- **Term Frequency (TF):** How often a query term appears in a document.
+- **Inverse Document Frequency (IDF):** Gives higher importance to terms that are rare across the document collection.
+- **Document Length Normalization:** Prevents very long documents from receiving unfairly high scores.
+- **Term Frequency Saturation:** Repeated occurrences of a term provide diminishing returns instead of increasing relevance linearly.
+
+The BM25 score is computed as:
+
+```text
+                        TF × (k1 + 1)
+Score = IDF × -------------------------------------
+               TF + k1 × (1 - b + b × (DL / AvgDL))
+```
+
+where:
+
+| Symbol | Description |
+|--------|-------------|
+| **TF** | Frequency of query term *q* in document *D* |
+| **IDF** | Inverse Document Frequency of term *q* |
+| **DL** | Number of words in the document |
+| **AvgDL** | Average document length across the corpus |
+| **k1** | Controls term-frequency saturation (typically **1.2–2.0**) |
+| **b** | Controls document length normalization (typically **0.75**) |
+
+### BM25 Parameters Used
+
+```cpp
+k1 = 1.5
+b  = 0.75
+```
+
+These values provide a good balance between term frequency and document length normalization and are commonly used in information retrieval systems.
 
 ---
 
@@ -114,7 +155,7 @@ MiniSearchEngine/
 | Index Build Time | ~7 s |
 | Average Search Time | 1–2 ms |
 | Spell Suggestion Time | ~100 ms |
-| Ranking Algorithm | TF-IDF |
+| Ranking Algorithm | BM25 |
 | Spell Correction | Edit Distance ≤ 2 |
 
 ---
