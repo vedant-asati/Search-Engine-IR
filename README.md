@@ -93,10 +93,12 @@ BM25 considers:
 
 The BM25 score is computed as:
 
-```text
-                        TF × (k1 + 1)
-Score = IDF × -------------------------------------
-               TF + k1 × (1 - b + b × (DL / AvgDL))
+```math
+{Score} = IDF × \left( \frac{\text{TF × (k1 + 1)}}{\text{TF + k1 × (1 - b + b × (DL / AvgDL))}} \right)
+```
+
+```math
+{IDF} = \log \left( 1 + \frac{\text{N - DF + 0.5}}{\text{DF + 0.5}} \right)
 ```
 
 where:
@@ -109,6 +111,8 @@ where:
 | **AvgDL** | Average document length across the corpus |
 | **k1** | Controls term-frequency saturation (typically **1.2–2.0**) |
 | **b** | Controls document length normalization (typically **0.75**) |
+| **N** | The number of total Documents |
+| **DF** | The number of document containing this word |
 
 ### BM25 Parameters Used
 
