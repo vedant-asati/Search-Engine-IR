@@ -225,8 +225,8 @@ int main() {
         }
 
         // Limit to top 8 autocomplete suggestions for clean UI
-        if (suggestions.size() > 8) {
-            suggestions.resize(8);
+        if (suggestions.size() > 4) {
+            suggestions.resize(4);
         }
 
         json response = suggestions;
@@ -250,8 +250,8 @@ int main() {
         }
 
         // Limit to top 5 spell suggestions
-        if (suggestions.size() > 5) {
-            suggestions.resize(5);
+        if (suggestions.size() > 8) {
+            suggestions.resize(8);
         }
 
         json response = suggestions;

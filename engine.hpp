@@ -62,11 +62,11 @@ public:
     static std::vector<std::string> getSuggestions(const std::string& word, const std::vector<std::string>& vocabulary, int maxDistance = 2);
 };
 
-// --- TF-IDF Ranking ---
+// --- BM25 Ranking ---
 struct SearchResult {
     int docId;
     double score;
-    std::unordered_map<std::string, double> tfIdfBreakdown; // word -> term tf-idf contribution
+    std::unordered_map<std::string, double> bm25Breakdown; // word -> term bm25 contribution
 };
 
 class BM25 {
