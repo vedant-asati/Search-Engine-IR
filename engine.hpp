@@ -1,5 +1,5 @@
-#ifndef DSA_ENGINE_HPP
-#define DSA_ENGINE_HPP
+#ifndef ENGINE_HPP
+#define ENGINE_HPP
 
 #include <string>
 #include <vector>
@@ -138,4 +138,4 @@ public:
     std::vector<std::string> getKeysInOrder() const;
 };
 
-#endif // DSA_ENGINE_HPP
+#endif // ENGINE_HPP

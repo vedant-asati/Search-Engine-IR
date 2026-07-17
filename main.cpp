@@ -331,13 +331,13 @@ int main() {
                         snippet = snippet.substr(0, 150) + "...";
                     }
 
-                    resultsJson.push_back({
-                        {"docId", rankResult.docId},
-                        {"title", targetDoc->title},
-                        {"snippet", snippet},
-                        {"score", rankResult.score},
-                        {"breakdown", rankResult.tfIdfBreakdown}
-                    });
+                    json entry;
+                    entry["docId"] = rankResult.docId;
+                    entry["title"] = targetDoc->title;
+                    entry["snippet"] = snippet;
+                    entry["score"] = rankResult.score;
+                    entry["breakdown"] = rankResult.bm25Breakdown;
+                    resultsJson.push_back(entry);
                 }
             }
         }

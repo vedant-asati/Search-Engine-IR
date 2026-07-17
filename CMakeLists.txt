@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project(mini_search_engine CXX)
+project(search_engine_ir CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -40,16 +40,14 @@ endif()
 # Include the source directory so that #include "nlohmann/json.hpp" works
 include_directories(${CMAKE_CURRENT_SOURCE_DIR})
 
-add_executable(mini_search_engine 
+add_executable(search_engine_ir 
     main.cpp
     engine.cpp
     engine.hpp
 )
 
 if(WIN32)
-    target_link_libraries(mini_search_engine PRIVATE ws2_32)
+    target_link_libraries(search_engine_ir PRIVATE ws2_32)
 endif()
 
-add_executable(dataset_converter
-    converter/DatasetConverter.cpp
-)
+# dataset_converter target omitted — converter source not present, documents pre-generated
